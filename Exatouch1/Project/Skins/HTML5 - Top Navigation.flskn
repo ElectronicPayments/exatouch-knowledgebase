@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultSkin
   Version="2"
   SkinType="WebHelp2"
@@ -6,9 +6,17 @@
   TemplateName="Fluid"
   Comment="HTML5 Fluid Layout"
   EnableResponsiveOutput="true"
-  RemoveImagesOnSave="true">
+  RemoveImagesOnSave="true"
+  SkinID="Exatouch"
+  CommentsInTopic="false"
+  DisplayCommunitySearchResults="false">
   <Stylesheet>
-    <Resources></Resources>
+    <Resources>
+      <Resource
+        Name="exatouch-logo.png">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</Resource>
+      <Resource
+        Name="SearchIcon.png">H4sIAAAAAAAEAAFHAbj+iVBORw0KGgoAAAANSUhEUgAAABEAAAASCAYAAAC9+TVUAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAOlJREFUeNqsVIsNgjAQpS5gN5ARcALrBh2BUdjAOEHjBLIBOgFsgE6AG9S75JlcoKUEueTlkrvr6/3aLNtAVMjovc9JMQzhQeiUUp9FjHyY0PipDIQqmQkFFaQagia8CDe4DgQLO2d0nMuixa0u4NPCX8UILAKaRKlc1jD27aAL6Gu0bqW4xJrLIiITIjlBpybwDhl/JE9onSDZzzW1jDV11NwBcToW1COgjPhd6iIOMmK57piYQZa98JnUxprRASmt2N5iyduxYuwsNY24Q6kOUzyzbdWLFb2ZZLSW6PLXH4KG59lW8hVgAEQiD/qF1XK4AAAAAElFTkSuQmCCNdAHxEcBAAA=</Resource>
+    </Resources>
     <Styles>
       <Medium
         Name="Tablet">
@@ -46,7 +54,7 @@
           <Property
             Name="Height">122px</Property>
           <Property
-            Name="BackgroundColor">#292928</Property>
+            Name="BackgroundColor">#f5f5f5</Property>
         </Properties>
       </Style>
       <Style
@@ -83,6 +91,10 @@
         <Properties>
           <Property
             Name="BackgroundColor">#ffffff</Property>
+          <Property
+            Name="PaddingLeft">20px</Property>
+          <Property
+            Name="PaddingRight">4px</Property>
         </Properties>
       </Style>
       <Style
@@ -92,8 +104,154 @@
             Name="Float">right</Property>
         </Properties>
       </Style>
+      <Style
+        Name="Search Bar">
+        <Properties>
+          <Property
+            Name="BorderTopLeftRadius">0px</Property>
+          <Property
+            Name="BorderTopRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomLeftRadius">0px</Property>
+          <Property
+            Name="MarginTop">11px</Property>
+          <Property
+            Name="Height">2.5em</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Logo">
+        <Properties>
+          <Property
+            Name="BackgroundImage">url('exatouch-logo.png')</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Submit Button">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#3b77bb</Property>
+          <Property
+            Name="BackgroundImage">url('SearchIcon.png')</Property>
+        </Properties>
+      </Style>
     </Styles>
   </Stylesheet>
   <WebHelpOptions
     NavigationPanePosition="Right" />
+  <Strings>
+    <Stylesheet
+      lang="en-us">
+      <Stylesheet>
+        <Resources></Resources>
+        <Styles>
+          <Medium
+            Name="Tablet">
+            <Style
+              Name="Navigation Slide Out Button">
+              <Properties></Properties>
+            </Style>
+            <Style
+              Name="Navigation Panel">
+              <Properties></Properties>
+            </Style>
+            <Style
+              Name="Navigation Panel Item">
+              <Properties>
+                <Property
+                  Name="LineHeight">1</Property>
+              </Properties>
+            </Style>
+            <Style
+              Name="Search Filter">
+              <Properties></Properties>
+            </Style>
+            <Style
+              Name="Search Filter Drop-down">
+              <Properties></Properties>
+            </Style>
+            <Style
+              Name="Search Filter Drop-down (hover)">
+              <Properties></Properties>
+            </Style>
+          </Medium>
+          <Style
+            Name="Header">
+            <Properties>
+              <Property
+                Name="Height">122px</Property>
+              <Property
+                Name="BackgroundColor">#292928</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="Menu Item">
+            <Classes>
+              <StyleClass
+                Name="2nd Level">
+                <Properties>
+                  <Property
+                    Name="PaddingRight">10px</Property>
+                  <Property
+                    Name="MarginRight">0px</Property>
+                </Properties>
+              </StyleClass>
+              <StyleClass
+                Name="3rd Level">
+                <Properties>
+                  <Property
+                    Name="PaddingRight">10px</Property>
+                </Properties>
+              </StyleClass>
+              <StyleClass
+                Name="4th Level">
+                <Properties>
+                  <Property
+                    Name="PaddingRight">10px</Property>
+                </Properties>
+              </StyleClass>
+            </Classes>
+            <Properties></Properties>
+          </Style>
+          <Style
+            Name="Search Input">
+            <Properties>
+              <Property
+                Name="BackgroundColor">#ffffff</Property>
+              <Property
+                Name="PaddingLeft">20px</Property>
+              <Property
+                Name="PaddingRight">4px</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="Menu">
+            <Properties>
+              <Property
+                Name="Float">right</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="Search Bar">
+            <Properties>
+              <Property
+                Name="BorderTopLeftRadius">0px</Property>
+              <Property
+                Name="BorderTopRightRadius">0px</Property>
+              <Property
+                Name="BorderBottomRightRadius">0px</Property>
+              <Property
+                Name="BorderBottomLeftRadius">0px</Property>
+              <Property
+                Name="MarginTop">11px</Property>
+              <Property
+                Name="Height">2.5em</Property>
+            </Properties>
+          </Style>
+        </Styles>
+      </Stylesheet>
+    </Stylesheet>
+  </Strings>
 </CatapultSkin>
