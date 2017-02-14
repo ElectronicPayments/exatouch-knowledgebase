@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileLanguage="en-us"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/D_Images/EXA_Register_PayTabSelected_wOrder.jpg" />
+    <Link
+      Url="Content/D_Images/EXA_PayScreen_PaymentOptionsSelected.jpg" />
+    <Link
+      Url="Content/1_Register/Accept_Payment_from_the_Pay_Screen.htm" />
+    <Link
+      Url="Content/D_Images/EXA_PayScreen_PaySelected.jpg" />
+    <Link
+      Url="Content/1_Register/Accept_Payment_from_the_Register_Screen.htm" />
+    <Link
+      Url="Project/ConditionTagSets/EXA Table Service.flcts" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/D_Images/EXA_Register_PayTabSelected_wOrder.jpg" />
+    <Link
+      Url="Content/D_Images/EXA_PayScreen_PaymentOptionsSelected.jpg" />
+    <Link
+      Url="Content/1_Register/Accept_Payment_from_the_Pay_Screen.htm#collapseOne" />
+    <Link
+      Url="Content/D_Images/EXA_PayScreen_PaySelected.jpg" />
+    <Link
+      Url="Content/1_Register/Accept_Payment_from_the_Register_Screen.htm" />
+    <Link
+      Url="Project/ConditionTagSets/EXA Table Service.flcts" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ct click or tap" />
+    <Variable
+      Name="General.EXAProductName" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="EXA Table Service.PrintOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="CompanyName" EvaluatedDefinition="Electronic Payments, Inc.">Electronic Payments, Inc.</Variable>
+    <Variable Comment="" Name="PhoneNumber" EvaluatedDefinition="800 966 5520">800 966 5520</Variable>
+    <Variable Name="StreetAddress" Comment="" Definition="Some text" OriginalName="StreetAddress" EvaluatedDefinition="7800 Congress Ave, Suite 108">7800 Congress Ave, Suite 108</Variable>
+    <Variable Name="ProductName" Comment="" OriginalName="ProductName" EvaluatedDefinition="Exatouch">Exatouch</Variable>
+    <Variable Name="Fax" Comment="" OriginalName="Fax" EvaluatedDefinition="">
+    </Variable>
+    <Variable Name="CityStateZip" Comment="" Definition="Some text" EvaluatedDefinition="Boca Raton, FL 33487">Boca Raton, FL 33487</Variable>
+    <Variable Name="Year" Comment="" Type="DateTime" LastUpdated="2016-02-16T16:28:00.0099499-08:00" EvaluatedDefinition="yyyy">yyyy</Variable>
+    <Variable Name="Required Fields" Comment="Most current formatting in Exatouch highlights required fields in Blue.  As of Exatouch 8.1 12/2016" EvaluatedDefinition="Required fields are indicated in blue.">Required fields are indicated in blue.</Variable>
+    <Variable Name="EXAProductName" Comment="" EvaluatedDefinition="Exatouch">Exatouch</Variable>
+    <Variable Name="ct click or tap" Comment="This is a replacement for the less acceptable click/tap" EvaluatedDefinition="click or tap">click or tap</Variable>
+    <Variable Name="Ct Click or tap" Comment="" EvaluatedDefinition="Click or tap">Click or tap</Variable>
+    <Variable Name="cting clicking or tapping" Comment="" EvaluatedDefinition="clicking or tapping">clicking or tapping</Variable>
+</CatapultVariableSet>

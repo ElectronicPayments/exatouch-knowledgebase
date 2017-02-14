@@ -301,7 +301,7 @@ nav.tab-bar
 	display: block;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	background-color: #f5f5f5;
+	background-color: #f8f8f8;
 }
 
 nav.tab-bar .menu-icon
@@ -378,6 +378,7 @@ nav.tab-bar .menu-icon
 	border-bottom-right-radius: 0px;
 	border-bottom-left-radius: 0px;
 	color: #5F5F5F;
+	font-family: Lato;
 	font-size: 1em;
 	padding-left: 20px;
 	background-color: #ffffff;

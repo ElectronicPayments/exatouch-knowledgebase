@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" sourceDocument="C:\Users\Rivka Bushell\Desktop\QRG_Exatouch Restaurant_Wait Staff-forFlareImport.docx">
+    <TocEntry Title="Clock Out for a Break" Link="/Content/Clock_Out_for_a_Break.htm" />
+    <TocEntry Title="Clock In from a Break" Link="/Content/Clock_In_from_a_Break.htm" />
+    <TocEntry Title="How to Clock Out" Link="/Content/How_to_Clock_Out.htm" />
+    <TocEntry Title="Place an Order from the Register" Link="/Content/Place_an_Order_from_the_Register.htm" />
+    <TocEntry Title="Place an Order from the Floor Plan" Link="/Content/Place_an_Order_from_the_Floor_Plan.htm" />
+    <TocEntry Title="Print a Check from a List of Saved Orders" Link="/Content/Print_a_Check_from_a_List_of_Saved_Orders.htm" />
+    <TocEntry Title="Split a Check by Item" Link="/Content/Split_A_Check_by_Item.htm" />
+    <TocEntry Title="Join Tables from the Get Order ScreenWhen customers want to move their table together with a friend’s table, you can merge their orders together by joining tables.&#160; Tables can be joined from the Get Order Screen, and from the Floor Plan Screen." Link="/Content/How_to_Merge_Orders.htm" />
+    <TocEntry Title="Join Tables from the Floor Plan Screen" Link="/Content/How_to_Join_Tables.htm" />
+    <TocEntry Title="Reassign a Table" Link="/Content/Reassign_a_Table.htm" />
+    <TocEntry Title="Accept Payment from the Register" Link="/Content/Accept_Payment_from_the_Register_Screen.htm" />
+    <TocEntry Title="Accept Payment from the Pay screen" Link="/Content/Accept_Payment_from_the_Pay_Screen.htm" />
+    <TocEntry Title="Split a Payment" Link="/Content/Split_a_Payment.htm" />
+    <TocEntry Title="Adjust for Tips" Link="/Content/Adjust_for_Tips.htm" />
+    <TocEntry Title="EXA Support Tagline" Link="/Content/EXA_Support_Tagline.htm" />
+</CatapultToc>

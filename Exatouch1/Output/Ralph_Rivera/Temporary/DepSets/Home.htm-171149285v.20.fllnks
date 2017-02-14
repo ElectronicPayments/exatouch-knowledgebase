@@ -10,78 +10,51 @@
     <Link
       Url="Content/Resources/MasterPages/HomePage.flmsp" />
     <Link
-      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+      Url="Content/Resources/css/exatouchstyles.css" />
     <Link
-      Url="Content/Resources/Stylesheets/bootstrap.min.css" />
-    <Link
-      Url="Content/Resources/Stylesheets/exatouchstyles.css" />
+      Url="Content/Resources/css/stylesforhomepage.css" />
     <Link
       Url="https://fonts.googleapis.com/css" />
     <Link
-      Url="Content/A_Introduction Topics/Getting Started.htm" />
+      Url="https://file.myfontastic.com/xBZufz7ibHs63ou83NLoMc/icons.css" />
     <Link
-      Url="Content/A_Introduction Topics/Basic Steps.htm" />
-    <Link
-      Url="http://docs.madcapsoftware.com/FlareTemplates/UserGuideAGreen.pdf" />
-    <Link
-      Url="Content/Resources/Images/PDF Cover.png" />
-    <Link
-      Url="Content/D_More Information/PDF Downloads.htm" />
-    <Link
-      Url="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" />
-    <Link
-      Url="Content/Resources/Stylesheets/js/bootstrap.min.js" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
+      Url="Content/Verticals/Retail.htm" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/MasterPages/HomePage.flmsp" />
     <Link
-      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+      Url="Content/Resources/css/exatouchstyles.css" />
     <Link
-      Url="Content/Resources/Stylesheets/bootstrap.min.css" />
-    <Link
-      Url="Content/Resources/Stylesheets/exatouchstyles.css" />
+      Url="Content/Resources/css/stylesforhomepage.css" />
     <Link
       Url="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" />
     <Link
-      Url="Content/A_Introduction Topics/Getting Started.htm" />
+      Url="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" />
     <Link
-      Url="Content/A_Introduction Topics/Basic Steps.htm" />
+      Url="https://file.myfontastic.com/xBZufz7ibHs63ou83NLoMc/icons.css" />
     <Link
-      Url="http://docs.madcapsoftware.com/FlareTemplates/UserGuideAGreen.pdf" />
-    <Link
-      Url="Content/Resources/Images/PDF Cover.png" />
-    <Link
-      Url="Content/D_More Information/PDF Downloads.htm" />
-    <Link
-      Url="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" />
-    <Link
-      Url="Content/Resources/Stylesheets/js/bootstrap.min.js" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
+      Url="Content/Verticals/Retail.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables>
-    <Variable
-      Name="General.ProductName" />
-  </Variables>
+  <Variables />
   <FileConditions />
   <FileTags />
   <AllConditions />
   <Stylesheets>
     <Url
-      Source="Content/Resources/Stylesheets/StylesForHomePage.css" />
+      Source="Content/Resources/css/exatouchstyles.css" />
     <Url
-      Source="Content/Resources/Stylesheets/bootstrap.min.css" />
-    <Url
-      Source="Content/Resources/Stylesheets/exatouchstyles.css" />
+      Source="Content/Resources/css/stylesforhomepage.css" />
     <Url
       Source="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" />
+    <Url
+      Source="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" />
+    <Url
+      Source="https://file.myfontastic.com/xBZufz7ibHs63ou83NLoMc/icons.css" />
   </Stylesheets>
 </CatapultFileLinkSet>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Accept_Payment_from_the_Pay_Screen.htm" />
+    <Link
+      Url="Content/Accept_Payment_from_the_Register_Screen.htm" />
+    <Link
+      Url="Content/Add_a_New_Employee.htm" />
+    <Link
+      Url="Content/Add_a_Vendor.htm" />
+    <Link
+      Url="Content/Add_an_Item.htm" />
+    <Link
+      Url="Content/Adjust_for_Tips.htm" />
+    <Link
+      Url="Content/Assign_a_Vendor_to_an_Item.htm" />
+    <Link
+      Url="Content/Clock_In_from_a_Break.htm" />
+    <Link
+      Url="Content/Clock_Out_for_a_Break.htm" />
+    <Link
+      Url="Content/Contact_Technical_Support.htm" />
+    <Link
+      Url="Content/Contact_Us.htm" />
+    <Link
+      Url="Content/Create_a_New_Customer.htm" />
+    <Link
+      Url="Content/Deactivate_or_Delete_an_Employee.htm" />
+    <Link
+      Url="Content/EXA_Support_Tagline.htm" />
+    <Link
+      Url="Content/Exit_Training_Mode.htm" />
+    <Link
+      Url="Content/How_to_Add_a_Manufacturer.htm" />
+    <Link
+      Url="Content/How_to_Add_Inventory_Costs_and_Quantities_to_an_Item.htm" />
+    <Link
+      Url="Content/How_to_Adjust_a _Time_Clock_Entry.htm" />
+    <Link
+      Url="Content/How_to_Clock_In.htm" />
+    <Link
+      Url="Content/How_to_Clock_Out.htm" />
+    <Link
+      Url="Content/How_to_Create_a_Loyalty_Program.htm" />
+    <Link
+      Url="Content/How_to_Create_a_Membership_Club_Program.htm" />
+    <Link
+      Url="Content/How_to_Create_Categories_and_Subcategories.htm" />
+    <Link
+      Url="Content/How_to_Find_a_List_of_Open_Orders.htm" />
+    <Link
+      Url="Content/How_to_Generate_SKU_Numbers_locally.htm" />
+    <Link
+      Url="Content/How_to_Join_Tables.htm" />
+    <Link
+      Url="Content/How_to_Manage_the _Time_Clock.htm" />
+    <Link
+      Url="Content/How_to_Merge_Orders.htm" />
+    <Link
+      Url="Content/How_to_Remove_a_Menu_Item_from_an_Order.htm" />
+    <Link
+      Url="Content/How_to_Restrict_Access_to_System_Settings.htm" />
+    <Link
+      Url="Content/How_to_Run_Reports.htm" />
+    <Link
+      Url="Content/How_to_Set_Tax_Rates.htm" />
+    <Link
+      Url="Content/Log_into_Exatouch.htm" />
+    <Link
+      Url="Content/Modify_Inventory_Level.htm" />
+    <Link
+      Url="Content/Modify_Sell_Options.htm" />
+    <Link
+      Url="Content/Navigate_to_the_Home_Screen.htm" />
+    <Link
+      Url="Content/Place_an_Order_from_the_Floor_Plan.htm" />
+    <Link
+      Url="Content/Place_an_Order_from_the_Register.htm" />
+    <Link
+      Url="Content/Print_a_Check_for_the_Current_Order.htm" />
+    <Link
+      Url="Content/Print_a_Check_from_a_List_of_Saved_Orders.htm" />
+    <Link
+      Url="Content/Reassign_a_Table.htm" />
+    <Link
+      Url="Content/Set_Tax_Rate_for_an_Individual_Item.htm" />
+    <Link
+      Url="Content/Set_Tax_Rate_for_an_Individual_Service.htm" />
+    <Link
+      Url="Content/Split_A_Check_by_Item.htm" />
+    <Link
+      Url="Content/Split_a_Payment.htm" />
+    <Link
+      Url="Content/Use_Training_Mode.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

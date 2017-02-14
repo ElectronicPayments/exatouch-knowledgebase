@@ -4,7 +4,7 @@
 
 body
 {
-	font-family: Arial;
+	font-family: Lato;
 	line-height: 1.5em;
 }
 
@@ -127,7 +127,8 @@ p.Copyright
 {
 	padding-top: 60px;
 	padding-bottom: 60px;
-	background-color: #e6e6e6;
+/*	background-color: #e6e6e6;*/
+	
 	margin-top: -50px;
 }
 
@@ -189,19 +190,21 @@ p.Copyright
 
 div.topichero
 {
-	background-image: url('../Images/BackgroundImage.png');
 	background-size: cover;
 	background-repeat: no-repeat;
-	padding-top: 20px;
+/*	padding-top: 20px;
 	height: auto;
-	padding-bottom: 150px;
+	padding-bottom: 150px; */
+	padding: 125px 0;
+	background-position: 50%;
+	background-image: url('../Images/home-bg.jpg');
 }
 
 div.topichero h1
 {
-	font-size: 3.6em;
-	margin-top: 1.11em;
-	margin-bottom: 0.5em;
+	font-size: 2em;
+/*	margin-top: .5em;
+	margin-bottom: 0.5em; */
 	line-height: 100%;
 }
 
@@ -634,12 +637,12 @@ div.HomeMasterPageFooter > div:nth-child(3)
 	{
 		width: 100%;
 	}
-	
+
 	.left-content
 	{
 		margin-bottom: 60px;
 	}
-	
+
 	div.topichero h1
 	{
 		font-size: 2em;
@@ -735,3 +738,4 @@ div.HomeMasterPageFooter > div:nth-child(3)
 		width: 100%;
 	}
 }
+

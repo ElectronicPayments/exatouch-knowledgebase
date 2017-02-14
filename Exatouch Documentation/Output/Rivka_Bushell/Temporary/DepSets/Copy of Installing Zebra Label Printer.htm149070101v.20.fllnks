@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileLanguage="en-us"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/EXA_Zebra_Install.css" />
+    <Link
+      Url="http://www.zebra.com/setup" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/EXA_Zebra_Install1_downloadlink.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_1.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_2.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_3.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_4.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_5.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_6.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_7.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_8.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_9.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_10.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_11.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_12.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_13.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_14.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_15.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_16.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_17.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_18.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_19.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_20.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_21.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_22.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/EXA_Zebra_Install.css" />
+    <Link
+      Url="http://www.zebra.com/setup" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/EXA_Zebra_Install1_downloadlink.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_1.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_2.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_3.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_4.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_5.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_6.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_7.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_8.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_9.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_10.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_11.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_12.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_13.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_14.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_15.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_16.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_17.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_18.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_19.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_20.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_21.png" />
+    <Link
+      Url="Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_22.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/EXA_Zebra_Install.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

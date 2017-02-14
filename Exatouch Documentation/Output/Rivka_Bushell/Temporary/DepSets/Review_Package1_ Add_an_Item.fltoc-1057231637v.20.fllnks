@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Log_into_Exatouch.htm" />
+    <Link
+      Url="Content/Navigate_to_the_Home_Screen.htm" />
+    <Link
+      Url="Content/Add_an_Item.htm" />
+    <Link
+      Url="Content/How_to_Generate_SKU_Numbers_locally.htm" />
+    <Link
+      Url="Content/How_to_Create_Categories_and_Subcategories.htm" />
+    <Link
+      Url="Content/How_to_Add_a_Manufacturer.htm" />
+    <Link
+      Url="Content/Modify_Inventory_Level.htm" />
+    <Link
+      Url="Content/Modify_Sell_Options.htm" />
+    <Link
+      Url="Content/How_to_Set_Tax_Rates.htm" />
+    <Link
+      Url="Content/Set_Tax_Rate_for_an_Individual_Item.htm" />
+    <Link
+      Url="Content/Set_Tax_Rate_for_an_Individual_Service.htm" />
+    <Link
+      Url="Content/Use_Training_Mode.htm" />
+    <Link
+      Url="Content/Exit_Training_Mode.htm" />
+    <Link
+      Url="Content/D_Images/EXA_Items_CategoriesSelected.jpg" />
+    <Link
+      Url="Content/D_Images/EXA_Home_OriginalLevel.jpg" />
+    <Link
+      Url="Content/D_Images/EXA_Home_HomeIcon.jpg" />
+    <Link
+      Url="Content/D_Images/EXA_HOME_ItemsSelected.jpg" />
+    <Link
+      Url="Content/D_Images/EXA_ItemsDetail_SellOptions_Alert.jpg" />
+    <Link
+      Url="Content/D_Images/EXA_Register_Alert_StopSellingAt0.jpg" />
+    <Link
+      Url="Content/D_Images/EXA_Register_Alert_GoNegative.jpg" />
+    <Link
+      Url="Content/D_Images/EXA_SKUimg.jpg" />
+    <Link
+      Url="Content/D_Images/EXA_NewItem_SKU_fields.jpg" />
+    <Link
+      Url="Content/D_Images/EXA_NewItem_ManufField_GearIcon.jpg" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

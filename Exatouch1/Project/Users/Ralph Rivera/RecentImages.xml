@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/xat-logo-black.png" />
+    <Url Source="Resources/Images/home-bg.jpg" />
     <Url Source="Images/EXA_Register_PayTabSelected_wOrder.jpg" />
 </UrlList>

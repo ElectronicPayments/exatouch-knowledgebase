@@ -21,115 +21,13 @@
   </Media>
   <Map>
     <Tag
-      Name="body" />
-    <Tag
-      Name="a">
-      <Class
-        Name="MCBreadcrumbsLink" />
-      <Class
-        Name="BlackText" />
-      <Class
-        Name="text-primary" />
-      <Class
-        Name="text-success" />
-      <Class
-        Name="text-info" />
-      <Class
-        Name="text-warning" />
-      <Class
-        Name="text-danger" />
-      <Class
-        Name="bg-primary" />
-      <Class
-        Name="bg-success" />
-      <Class
-        Name="bg-info" />
-      <Class
-        Name="bg-warning" />
-      <Class
-        Name="bg-danger" />
-      <Class
-        Name="Popup" />
-      <Class
-        Name="GlossaryPageTerm" />
-    </Tag>
-    <Tag
-      Name="div">
-      <Class
-        Name="TopicContent" />
-      <Class
-        Name="sideContent" />
-      <Class
-        Name="button-group" />
-      <Class
-        Name="topichero" />
-      <Class
-        Name="footer" />
-      <Class
-        Name="outer-row" />
-      <Class
-        Name="HomeHeroSection" />
-      <Class
-        Name="HomeWelcomePDFSection" />
-      <Class
-        Name="HomeWelcomeButtons" />
-      <Class
-        Name="HomePDFSection" />
-      <Class
-        Name="HomePDFButton" />
-      <Class
-        Name="HomeMasterPageFooter" />
-      <Class
-        Name="GlossaryPageEntry" />
-      <Class
-        Name="GlossaryPageTerm" />
-      <Class
-        Name="GlossaryPageDefinition" />
-      <Class
-        Name="GlossaryPageHeading" />
-      <Class
-        Name="Row-4-4-4" />
-      <Class
-        Name="Row-6-6" />
-      <Class
-        Name="Row-8-4" />
-    </Tag>
-    <Tag
-      Name="h1" />
-    <Tag
-      Name="h2">
-      <Class
-        Name="SubCenter" />
-    </Tag>
-    <Tag
-      Name="h3" />
-    <Tag
-      Name="h4" />
-    <Tag
-      Name="li" />
-    <Tag
-      Name="MadCap|breadcrumbsProxy" />
-    <Tag
-      Name="MadCap|xref">
-      <Class
-        Name="TOCPageNumber" />
-      <Class
-        Name="ConceptPageNumber" />
-      <Class
-        Name="IndexPageNumber" />
-      <Class
-        Name="ListOfPageNumber" />
-      <Class
-        Name="RelLinkPageNumber" />
-    </Tag>
-    <Tag
       Name="p">
+      <Class
+        Name="MyStyle" />
       <Class
         Name="Copyright" />
       <Class
         Name="TOC2" />
-      <Class
-        Name="MyStyle" />
       <Class
         Name="MiniTOC1" />
       <Class
@@ -192,6 +90,124 @@
         Name="ListOf" />
     </Tag>
     <Tag
+      Name="img">
+      <Class
+        Name="Hyperlinked" />
+    </Tag>
+    <Tag
+      Name="a">
+      <Class
+        Name="Popup" />
+      <Class
+        Name="exatouch-button" />
+      <Class
+        Name="exatouch-button-reserved" />
+      <Class
+        Name="MCBreadcrumbsLink" />
+      <Class
+        Name="BlackText" />
+      <Class
+        Name="text-primary" />
+      <Class
+        Name="text-success" />
+      <Class
+        Name="text-info" />
+      <Class
+        Name="text-warning" />
+      <Class
+        Name="text-danger" />
+      <Class
+        Name="bg-primary" />
+      <Class
+        Name="bg-success" />
+      <Class
+        Name="bg-info" />
+      <Class
+        Name="bg-warning" />
+      <Class
+        Name="bg-danger" />
+      <Class
+        Name="GlossaryPageTerm" />
+    </Tag>
+    <Tag
+      Name="body" />
+    <Tag
+      Name="h1" />
+    <Tag
+      Name="nav">
+      <Class
+        Name="tab-bar" />
+    </Tag>
+    <Tag
+      Name="i" />
+    <Tag
+      Name="h2">
+      <Class
+        Name="SubCenter" />
+    </Tag>
+    <Tag
+      Name="div">
+      <Class
+        Name="TopicContent" />
+      <Class
+        Name="sideContent" />
+      <Class
+        Name="button-group" />
+      <Class
+        Name="topichero" />
+      <Class
+        Name="footer" />
+      <Class
+        Name="outer-row" />
+      <Class
+        Name="HomeHeroSection" />
+      <Class
+        Name="HomeWelcomePDFSection" />
+      <Class
+        Name="HomeWelcomeButtons" />
+      <Class
+        Name="HomePDFSection" />
+      <Class
+        Name="HomePDFButton" />
+      <Class
+        Name="HomeMasterPageFooter" />
+      <Class
+        Name="GlossaryPageEntry" />
+      <Class
+        Name="GlossaryPageTerm" />
+      <Class
+        Name="GlossaryPageDefinition" />
+      <Class
+        Name="GlossaryPageHeading" />
+      <Class
+        Name="Row-4-4-4" />
+      <Class
+        Name="Row-6-6" />
+      <Class
+        Name="Row-8-4" />
+    </Tag>
+    <Tag
+      Name="h3" />
+    <Tag
+      Name="h4" />
+    <Tag
+      Name="li" />
+    <Tag
+      Name="MadCap|breadcrumbsProxy" />
+    <Tag
+      Name="MadCap|xref">
+      <Class
+        Name="TOCPageNumber" />
+      <Class
+        Name="ConceptPageNumber" />
+      <Class
+        Name="IndexPageNumber" />
+      <Class
+        Name="ListOfPageNumber" />
+      <Class
+        Name="RelLinkPageNumber" />
+    </Tag>
+    <Tag
       Name="html">
       <Class
         Name="templateTopic" />
@@ -205,11 +221,6 @@
         Name="reference" />
       <Class
         Name="topic" />
-    </Tag>
-    <Tag
-      Name="img">
-      <Class
-        Name="Hyperlinked" />
     </Tag>
     <Tag
       Name="MadCap|searchBarProxy">
@@ -245,8 +256,6 @@
       Name="main" />
     <Tag
       Name="menu" />
-    <Tag
-      Name="nav" />
     <Tag
       Name="section" />
     <Tag
@@ -443,8 +452,6 @@
       Name="del" />
     <Tag
       Name="em" />
-    <Tag
-      Name="i" />
     <Tag
       Name="ins" />
     <Tag
@@ -671,13 +678,13 @@
   </Map>
   <SourceUrls>
     <Url
+      Source="Resources/css/exatouchstyles.css" />
+    <Url
       Source="Resources/css/mainstyles.css" />
     <Url
       Source="Resources/css/stylesforhomepage.css" />
     <Url
       Source="Resources/Stylesheets/bootstrap.min.css" />
-    <Url
-      Source="Resources/Stylesheets/exatouchstyles.css" />
     <Url
       Source="Resources/Stylesheets/MainStyles.css" />
     <Url

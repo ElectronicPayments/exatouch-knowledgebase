@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultSkin
   Version="2"
   SkinType="Component"
@@ -11,20 +11,24 @@
         Name="Menu">
         <Properties>
           <Property
-            Name="BackgroundColor">#525252</Property>
-          <Property
             Name="Width">100%</Property>
+          <Property
+            Name="BackgroundColor">#f8f8f8</Property>
+          <Property
+            Name="FontFamily">Roboto Condensed</Property>
         </Properties>
       </Style>
       <Style
         Name="Menu Item">
         <Properties>
           <Property
-            Name="Color">#ffffff</Property>
-          <Property
             Name="PaddingTop">4px</Property>
           <Property
             Name="PaddingBottom">4px</Property>
+          <Property
+            Name="Color">#c0c0c0</Property>
+          <Property
+            Name="FontSize">1em</Property>
         </Properties>
         <Classes>
           <StyleClass
@@ -84,4 +88,5 @@
       </Medium>
     </Styles>
   </Stylesheet>
+  <Strings />
 </CatapultSkin>

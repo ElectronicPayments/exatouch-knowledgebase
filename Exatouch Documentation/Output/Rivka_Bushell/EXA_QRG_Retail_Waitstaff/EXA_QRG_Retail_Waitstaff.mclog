@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2017 Generated EXA_QRG_Retail_Waitstaff.fltar" Date="2017-02-07T16:30:27.6645707-05:00">
+    <Messages>Compiling target EXA_QRG_Retail_Waitstaff...
+C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Content\Resources\Stylesheets\bootstrap.min.css Line: 5. Char: 37343. Missing identifier (pseudo class)
+Removing previously generated content...
+Gathering Glossary information...
+Loading Master TOC...
+Processing Master TOC...
+Collecting linked (merged) help system info...
+Collecting source files...
+Processing source files...
+Image "EXA_FloorPlan_JoinTables1.jpg" regenerated for "" medium: D_Images\EXA_FloorPlan_JoinTables1.jpg
+Image "EXA_FloorPlan_JoinTables2.jpg" regenerated for "" medium: D_Images\EXA_FloorPlan_JoinTables2.jpg
+Image "EXA_FloorPlan_JoinTables3.jpg" regenerated for "" medium: D_Images\EXA_FloorPlan_JoinTables3.jpg
+Image "EXA_FloorPlan_JoinTables4.jpg" regenerated for "" medium: D_Images\EXA_FloorPlan_JoinTables4.jpg
+Image "EXA_FloorPlan_PopUp_ReassignSelected.jpg" regenerated for "" medium: D_Images\EXA_FloorPlan_PopUp_ReassignSelected.jpg
+Image "EXA_FloorPlan_PopUp_TableOrder.jpg" regenerated for "" medium: D_Images\EXA_FloorPlan_PopUp_TableOrder.jpg
+Image "EXA_FloorPlan_TableSelect.jpg" regenerated for "" medium: D_Images\EXA_FloorPlan_TableSelect.jpg
+Image "EXA_GetOrderScreen_PrintSelected.jpg" regenerated for "" medium: D_Images\EXA_GetOrderScreen_PrintSelected.jpg
+Image "EXA_Home_ClockInPrompt.jpg" regenerated for "" medium: D_Images\EXA_Home_ClockInPrompt.jpg
+Image "EXA_Home_ClockOut.jpg" regenerated for "" medium: D_Images\EXA_Home_ClockOut.jpg
+Image "EXA_Home_EndBreak.jpg" regenerated for "" medium: D_Images\EXA_Home_EndBreak.jpg
+Image "EXA_Home_HomeIcon.jpg" regenerated for "" medium: D_Images\EXA_Home_HomeIcon.jpg
+Image "EXA_Home_Login.jpg" regenerated for "" medium: D_Images\EXA_Home_Login.jpg
+Image "EXA_Home_PointerOnHomeIcon.jpg" regenerated for "" medium: D_Images\EXA_Home_PointerOnHomeIcon.jpg
+Image "EXA_Home_PurchasingSelected.jpg" regenerated for "" medium: D_Images\EXA_Home_PurchasingSelected.jpg
+Image "EXA_Home_StartBreak.jpg" regenerated for "" medium: D_Images\EXA_Home_StartBreak.jpg
+Image "EXA_MergeOrder1.jpg" regenerated for "" medium: D_Images\EXA_MergeOrder1.jpg
+Image "EXA_MergeOrder2.jpg" regenerated for "" medium: D_Images\EXA_MergeOrder2.jpg
+Image "EXA_PayScreen_PaymentOptionsSelected.jpg" regenerated for "" medium: D_Images\EXA_PayScreen_PaymentOptionsSelected.jpg
+Image "EXA_PayScreen_PaySelected.jpg" regenerated for "" medium: D_Images\EXA_PayScreen_PaySelected.jpg
+Image "EXA_Pay_SplitBy1.jpg" regenerated for "" medium: D_Images\EXA_Pay_SplitBy1.jpg
+Image "EXA_Pay_SplitBy2.jpg" regenerated for "" medium: D_Images\EXA_Pay_SplitBy2.jpg
+Image "EXA_Pay_SplitByCashCredit.jpg" regenerated for "" medium: D_Images\EXA_Pay_SplitByCashCredit.jpg
+Image "EXA_Pay_SplitByCASHOnly.jpg" regenerated for "" medium: D_Images\EXA_Pay_SplitByCASHOnly.jpg
+Image "EXA_Pay_SplitByCASHOnly2.jpg" regenerated for "" medium: D_Images\EXA_Pay_SplitByCASHOnly2.jpg
+Image "EXA_Pay_SplitByCREDITOnly.jpg" regenerated for "" medium: D_Images\EXA_Pay_SplitByCREDITOnly.jpg
+Image "EXA_RegisterIcon.jpg" regenerated for "" medium: D_Images\EXA_RegisterIcon.jpg
+Image "EXA_Register_CashCreditDebitSelected.jpg" regenerated for "" medium: D_Images\EXA_Register_CashCreditDebitSelected.jpg
+Image "EXA_Register_CompleteAuthSelected.jpg" regenerated for "" medium: D_Images\EXA_Register_CompleteAuthSelected.jpg
+Image "EXA_Register_DineInTakeOutOptions.jpg" regenerated for "" medium: D_Images\EXA_Register_DineInTakeOutOptions.jpg
+Image "EXA_Register_FloorPlanTabSelected.jpg" regenerated for "" medium: D_Images\EXA_Register_FloorPlanTabSelected.jpg
+Image "EXA_Register_GetOrderSelected.bmp" regenerated for "" medium: D_Images\EXA_Register_GetOrderSelected.bmp
+Image "EXA_Register_GetOrderSelected.jpg" regenerated for "" medium: D_Images\EXA_Register_GetOrderSelected.jpg
+Image "EXA_Register_OrderDisplayed.jpg" regenerated for "" medium: D_Images\EXA_Register_OrderDisplayed.jpg
+Image "EXA_Register_OrderDisplayed_PayTabSelected.jpg" regenerated for "" medium: D_Images\EXA_Register_OrderDisplayed_PayTabSelected.jpg
+Image "EXA_Register_OrderFromRegister.jpg" regenerated for "" medium: D_Images\EXA_Register_OrderFromRegister.jpg
+Image "EXA_Register_OrderFromRegister_TapItems.jpg" regenerated for "" medium: D_Images\EXA_Register_OrderFromRegister_TapItems.jpg
+Image "EXA_Register_PayTabSelected_wOrder.jpg" regenerated for "" medium: D_Images\EXA_Register_PayTabSelected_wOrder.jpg
+Image "EXA_Register_PrintOrder_Pointer.jpg" regenerated for "" medium: D_Images\EXA_Register_PrintOrder_Pointer.jpg
+Image "EXA_Register_ReassignTable.jpg" regenerated for "" medium: D_Images\EXA_Register_ReassignTable.jpg
+Image "EXA_Register_RepeatLinePointer.jpg" regenerated for "" medium: D_Images\EXA_Register_RepeatLinePointer.jpg
+Image "EXA_Register_SaveOrderPointer.jpg" regenerated for "" medium: D_Images\EXA_Register_SaveOrderPointer.jpg
+Image "EXA_Register_SplitByItemScreen.jpg" regenerated for "" medium: D_Images\EXA_Register_SplitByItemScreen.jpg
+Image "EXA_Register_SplitByItemScreen2.jpg" regenerated for "" medium: D_Images\EXA_Register_SplitByItemScreen2.jpg
+Image "EXA_Register_SplitByItem_Selected.jpg" regenerated for "" medium: D_Images\EXA_Register_SplitByItem_Selected.jpg
+Generating output files...
+Processing topic: Log_into_Exatouch.htm...
+Processing CSS: Resources\Stylesheets\MainStyles.css...
+Processing CSS: Resources\Stylesheets\bootstrap.min.css...
+Processing CSS: Resources\Stylesheets\EXAMasterStyles.css...
+Generated Log_into_Exatouch.htm
+Processing topic: How_to_Clock_In.htm...
+Generated How_to_Clock_In.htm
+Processing topic: Clock_Out_for_a_Break.htm...
+Generated Clock_Out_for_a_Break.htm
+Processing topic: Clock_In_from_a_Break.htm...
+Generated Clock_In_from_a_Break.htm
+Processing topic: How_to_Clock_Out.htm...
+Generated How_to_Clock_Out.htm
+Processing topic: Navigate_to_the_Home_Screen.htm...
+Generated Navigate_to_the_Home_Screen.htm
+Processing topic: Place_an_Order_from_the_Register.htm...
+Generated Place_an_Order_from_the_Register.htm
+Processing topic: Place_an_Order_from_the_Floor_Plan.htm...
+Missing linked source file: C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Content\D_images\EXA_FloorPlan_TableSelect
+Generated Place_an_Order_from_the_Floor_Plan.htm
+Processing topic: Print_a_Check_for_the_Current_Order.htm...
+Missing linked source file: C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Content\D_Images\EXA_Register_PrintOrder_Pointer
+Generated Print_a_Check_for_the_Current_Order.htm
+Processing topic: Print_a_Check_from_a_List_of_Saved_Orders.htm...
+Missing linked source file: C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Content\D_Images\EXA_GetOrderSelected.jpg
+Generated Print_a_Check_from_a_List_of_Saved_Orders.htm
+Processing topic: Split_A_Check_by_Item.htm...
+Generated Split_A_Check_by_Item.htm
+Processing topic: How_to_Join_Tables.htm...
+Generated How_to_Join_Tables.htm
+Processing topic: How_to_Merge_Orders.htm...
+Generated How_to_Merge_Orders.htm
+Processing topic: Reassign_a_Table.htm...
+Missing linked source file: C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Content\D_Images\EXA_FloorPlan_PopUp_ReasssignSelected
+Missing linked source file: C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Content\D_Images\EXA_ReassignTable.jpg
+Generated Reassign_a_Table.htm
+Processing topic: Accept_Payment_from_the_Register_Screen.htm...
+Missing linked source file: C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Content\D_Image\EXA_Register_CashCreditDebitSelected.jpg
+Generated Accept_Payment_from_the_Register_Screen.htm
+Processing topic: Accept_Payment_from_the_Pay_Screen.htm...
+Generated Accept_Payment_from_the_Pay_Screen.htm
+Processing topic: Split_a_Payment.htm...
+Generated Split_a_Payment.htm
+Processing topic: Adjust_for_Tips.htm...
+Generated Adjust_for_Tips.htm
+Processing topic: How_to_Find_a_List_of_Open_Orders.htm...
+Generated How_to_Find_a_List_of_Open_Orders.htm
+Processing audio links...
+Generating final TOC...
+Generating concept and keyword anchors in output files...
+Resolving links in output files...
+Generating final output...
+Generated Content/Log_into_Exatouch.htm
+Saving result set...
+Output generated in 7 second(s).
+
+Done
+Saving log to "C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Output\Rivka_Bushell\EXA_QRG_Retail_Waitstaff\EXA_QRG_Retail_Waitstaff.mclog"
+</Messages>
+    <Warnings>
+        <LogEntry File="../../../Content/Resources/Stylesheets/bootstrap.min.css" Message="C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Content\Resources\Stylesheets\bootstrap.min.css Line: 5. Char: 37343. Missing identifier (pseudo class)" LineIndex="4" CharIndex="37343" Subsystem="CSS Parser" ErrorID="10015" />
+        <LogEntry File="../../../Content/Place_an_Order_from_the_Floor_Plan.htm" Message="Missing linked source file: C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Content\D_images\EXA_FloorPlan_TableSelect" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="EXA_QRG_Retail_Waitstaff" ErrorID="10001" />
+        <LogEntry File="../../../Content/Print_a_Check_for_the_Current_Order.htm" Message="Missing linked source file: C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Content\D_Images\EXA_Register_PrintOrder_Pointer" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="EXA_QRG_Retail_Waitstaff" ErrorID="10001" />
+        <LogEntry File="../../../Content/Print_a_Check_from_a_List_of_Saved_Orders.htm" Message="Missing linked source file: C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Content\D_Images\EXA_GetOrderSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="EXA_QRG_Retail_Waitstaff" ErrorID="10001" />
+        <LogEntry File="../../../Content/Reassign_a_Table.htm" Message="Missing linked source file: C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Content\D_Images\EXA_FloorPlan_PopUp_ReasssignSelected" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="EXA_QRG_Retail_Waitstaff" ErrorID="10001" />
+        <LogEntry File="../../../Content/Reassign_a_Table.htm" Message="Missing linked source file: C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Content\D_Images\EXA_ReassignTable.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="EXA_QRG_Retail_Waitstaff" ErrorID="10001" />
+        <LogEntry File="../../../Content/Accept_Payment_from_the_Register_Screen.htm" Message="Missing linked source file: C:\Users\Rivka Bushell\Documents\My Projects\Exatouch Documentation\Content\D_Image\EXA_Register_CashCreditDebitSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="EXA_QRG_Retail_Waitstaff" ErrorID="10001" />
+    </Warnings>
+    <Errors />
+</MadCapLog>

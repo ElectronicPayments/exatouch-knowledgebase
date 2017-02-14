@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Clock_Out_for_a_Break.htm" />
+    <Link
+      Url="Content/Clock_In_from_a_Break.htm" />
+    <Link
+      Url="Content/How_to_Clock_Out.htm" />
+    <Link
+      Url="Content/Place_an_Order_from_the_Register.htm" />
+    <Link
+      Url="Content/Place_an_Order_from_the_Floor_Plan.htm" />
+    <Link
+      Url="Content/Print_a_Check_from_a_List_of_Saved_Orders.htm" />
+    <Link
+      Url="Content/Split_A_Check_by_Item.htm" />
+    <Link
+      Url="Content/How_to_Merge_Orders.htm" />
+    <Link
+      Url="Content/How_to_Join_Tables.htm" />
+    <Link
+      Url="Content/Reassign_a_Table.htm" />
+    <Link
+      Url="Content/Accept_Payment_from_the_Register_Screen.htm" />
+    <Link
+      Url="Content/Accept_Payment_from_the_Pay_Screen.htm" />
+    <Link
+      Url="Content/Split_a_Payment.htm" />
+    <Link
+      Url="Content/Adjust_for_Tips.htm" />
+    <Link
+      Url="Content/EXA_Support_Tagline.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

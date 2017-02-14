@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="../My Projects/Exatouch Documentation/Content/Resources/Snippets/EXA LoginPinSwipe.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/EXA LoginPinSwipe.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="../My Projects/Exatouch Documentation/Content/Resources/Snippets/EXA LoginPinSwipe.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/EXA LoginPinSwipe.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

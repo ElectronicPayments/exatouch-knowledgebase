@@ -1,0 +1,53 @@
+nav.tab-bar
+{
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.tab-bar-section a.logo
+{
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.search-submit
+{
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.search-filter
+{
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.search-input
+{
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.right-off-canvas-menu
+{
+    background-position: top center;
+}
+
+.right-off-canvas-menu ul ul
+{
+    background-position: top center;
+}
+
+.left-off-canvas-menu
+{
+    background-position: top center;
+}
+
+    .left-off-canvas-menu ul ul
+    {
+    background-position: top center;
+    }
+
+.tab-bar-section.middle > div
+{
+}

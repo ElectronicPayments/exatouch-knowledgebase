@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="810" MadCap:lastWidth="762">
+    <body>
+        <h1>Log into Exatouch</h1>
+        <p>
+            <img src="../../D_Images/EXA_Home_Login.jpg" style="width: 760px;height: 568px;" />
+        </p>
+        <p>&#160;</p>
+        <p>1. Click/tap the <span class="Button">Lock</span>.</p>
+        <p>2. Select <span class="Button">Check In</span>.</p>
+        <p>3. Enter <span class="Button">PIN</span> or <span class="Button">Swipe your Employee Card</span>.</p>
+    </body>
+</html>

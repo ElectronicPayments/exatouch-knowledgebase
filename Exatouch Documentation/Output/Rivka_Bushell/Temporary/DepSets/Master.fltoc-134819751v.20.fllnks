@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/A_Getting Started/Getting Started.htm" />
+    <Link
+      Url="Content/Log_into_Exatouch.htm" />
+    <Link
+      Url="Content/Navigate_to_the_Home_Screen.htm" />
+    <Link
+      Url="Content/B_Links and Lists/LinksAndLists.htm" />
+    <Link
+      Url="Content/How_to_Clock_In.htm" />
+    <Link
+      Url="Content/Clock_Out_for_a_Break.htm" />
+    <Link
+      Url="Content/Clock_In_from_a_Break.htm" />
+    <Link
+      Url="Content/How_to_Clock_Out.htm" />
+    <Link
+      Url="Content/Add_an_Item.htm" />
+    <Link
+      Url="Content/Use_Training_Mode.htm" />
+    <Link
+      Url="Content/Exit_Training_Mode.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

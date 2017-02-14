@@ -6,14 +6,8 @@
   FileTimeEstimate="0"
   FilePriority="0"
   FileDescription="">
-  <Links>
-    <Link
-      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
-  </Links>
-  <LongLinks>
-    <Link
-      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
-  </LongLinks>
+  <Links />
+  <LongLinks />
   <Anchors />
   <Keywords />
   <Concepts />
@@ -23,8 +17,5 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/StylesForHomePage.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

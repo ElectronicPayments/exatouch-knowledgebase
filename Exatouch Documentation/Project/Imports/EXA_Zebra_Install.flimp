@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="True"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="True"
+  AddContinuedLinks="true"
+  AddContinuedFromLinks="true"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="true"
+  UseMinCharLimit="True"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2017-01-31T14:33:54.9453094-05:00"
+  LastImport="2017-01-31T14:34:05.3885822-05:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/Installing Zebra Label Printer for Exatouch.docx"
+      AbsoluteSource="file:///C:/Users/Rivka Bushell/Desktop/Installing Zebra Label Printer for Exatouch.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_1.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_2.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_3.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_4.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_5.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_6.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_7.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_8.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_9.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_10.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_11.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_12.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_13.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_14.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_15.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_16.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_17.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_18.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_19.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_20.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_21.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_22.png"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/EXA_Zebra_Install/Installing Zebra Label Printer.htm"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../TOCs/EXA_Zebra_Install.fltoc"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/EXA_Zebra_Install.css"
+      TimeStamp="1/31/2017 2:33:55 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading1"
+      To="h1.(MS Word Style)" />
+    <Map
+      From="Heading2"
+      To="h2.(MS Word Style)" />
+    <Map
+      From="Heading3"
+      To="h3.(MS Word Style)" />
+    <Map
+      From="Heading4"
+      To="h4.(MS Word Style)" />
+    <Map
+      From="Heading5"
+      To="h5.(MS Word Style)" />
+    <Map
+      From="Heading6"
+      To="h6.(MS Word Style)" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles />
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="New Book 1">
+        <TocEntry Title="New entry 1" />
+        <TocEntry Title="New entry 2" />
+    </TocEntry>
+    <TocEntry Title="New Book 2">
+        <TocEntry Title="New entry 3" />
+        <TocEntry Title="New entry 4" />
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Log_into_Exatouch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Navigate_to_the_Home_Screen.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Add_an_Item.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/How_to_Generate_SKU_Numbers_locally.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/How_to_Create_Categories_and_Subcategories.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/How_to_Add_a_Manufacturer.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Modify_Inventory_Level.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Modify_Sell_Options.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/How_to_Set_Tax_Rates.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Set_Tax_Rate_for_an_Individual_Item.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Set_Tax_Rate_for_an_Individual_Service.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Use_Training_Mode.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Exit_Training_Mode.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="EXA_Items_CategoriesSelected" Link="/Content/D_Images/EXA_Items_CategoriesSelected.jpg">
+        <TocEntry Title="EXA_Home_OriginalLevel" Link="/Content/D_Images/EXA_Home_OriginalLevel.jpg" />
+        <TocEntry Title="EXA_Home_HomeIcon" Link="/Content/D_Images/EXA_Home_HomeIcon.jpg" />
+        <TocEntry Title="EXA_HOME_ItemsSelected" Link="/Content/D_Images/EXA_HOME_ItemsSelected.jpg" />
+        <TocEntry Title="EXA_Items_CategoriesSelected" Link="/Content/D_Images/EXA_Items_CategoriesSelected.jpg" />
+        <TocEntry Title="EXA_ItemsDetail_SellOptions_Alert" Link="/Content/D_Images/EXA_ItemsDetail_SellOptions_Alert.jpg" />
+        <TocEntry Title="EXA_Register_Alert_StopSellingAt0" Link="/Content/D_Images/EXA_Register_Alert_StopSellingAt0.jpg" />
+        <TocEntry Title="EXA_Register_Alert_GoNegative" Link="/Content/D_Images/EXA_Register_Alert_GoNegative.jpg" />
+        <TocEntry Title="EXA_Register_Alert_StopSellingAt0" Link="/Content/D_Images/EXA_Register_Alert_StopSellingAt0.jpg" />
+        <TocEntry Title="EXA_SKUimg" Link="/Content/D_Images/EXA_SKUimg.jpg" />
+        <TocEntry Title="EXA_NewItem_SKU_fields" Link="/Content/D_Images/EXA_NewItem_SKU_fields.jpg" />
+        <TocEntry Title="EXA_NewItem_ManufField_GearIcon" Link="/Content/D_Images/EXA_NewItem_ManufField_GearIcon.jpg" />
+        <TocEntry Title="EXA_ItemsDetail_SellOptions_Alert" Link="/Content/D_Images/EXA_ItemsDetail_SellOptions_Alert.jpg" />
+    </TocEntry>
+</CatapultToc>

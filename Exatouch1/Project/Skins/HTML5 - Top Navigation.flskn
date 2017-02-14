@@ -54,7 +54,7 @@
           <Property
             Name="Height">122px</Property>
           <Property
-            Name="BackgroundColor">#f5f5f5</Property>
+            Name="BackgroundColor">#f8f8f8</Property>
         </Properties>
       </Style>
       <Style
@@ -95,6 +95,8 @@
             Name="PaddingLeft">20px</Property>
           <Property
             Name="PaddingRight">4px</Property>
+          <Property
+            Name="FontFamily">Lato</Property>
         </Properties>
       </Style>
       <Style

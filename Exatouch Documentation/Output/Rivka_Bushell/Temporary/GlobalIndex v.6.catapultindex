@@ -1,0 +1,903 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalIndex
+  SavedSource="file:///C:/Users/Rivka Bushell/Documents/My Projects/Exatouch Documentation/Output/Rivka_Bushell/Temporary/GlobalIndex v.6.catapultindex">
+  <IndexEntry>
+    <Entries>
+      <IndexEntry
+        Term="Bulleted lists">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/B_Links and Lists/Lists.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Conditions">
+        <Entries>
+          <IndexEntry
+            Term="block level">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="Flare_Getting Started/C_Conditions Notes Tables/Conditions.htm"
+                UsedConditions=""
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+          <IndexEntry
+            Term="character level">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="Flare_Getting Started/C_Conditions Notes Tables/Conditions.htm"
+                UsedConditions=""
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+        </Entries>
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/C_Conditions Notes Tables/Conditions.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Flare_Getting Started/C_Conditions Notes Tables/ConditionsNotesTables.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Cross-references">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/B_Links and Lists/Links.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Examples">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/C_Conditions Notes Tables/NotesExamplesQuotations.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Footnotes">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/B_Links and Lists/Links.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Hyperlinks">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/B_Links and Lists/Links.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Images">
+        <Entries>
+          <IndexEntry
+            Term="positioned left">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="D_Images/ImagePositionedLeft.htm"
+                UsedConditions=""
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+          <IndexEntry
+            Term="positioned right">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="D_Images/ImagePositionedRight.htm"
+                UsedConditions=""
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+          <IndexEntry
+            Term="thumbnails">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="D_Images/ThumbnailImage.htm"
+                UsedConditions=""
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+          <IndexEntry
+            Term="within steps">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="D_Images/ImageWithinList.htm"
+                UsedConditions=""
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+        </Entries>
+        <Links />
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Links">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/B_Links and Lists/Links.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Flare_Getting Started/B_Links and Lists/LinksAndLists.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Lists">
+        <Entries>
+          <IndexEntry
+            Term="bulleted">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="Flare_Getting Started/B_Links and Lists/Lists.htm"
+                UsedConditions=""
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+          <IndexEntry
+            Term="multi-level">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="Flare_Getting Started/B_Links and Lists/Lists.htm"
+                UsedConditions=""
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+          <IndexEntry
+            Term="numbered">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="Flare_Getting Started/B_Links and Lists/Lists.htm"
+                UsedConditions=""
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+        </Entries>
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/B_Links and Lists/LinksAndLists.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Flare_Getting Started/B_Links and Lists/Lists.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Multi-level lists">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/B_Links and Lists/Lists.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Notes">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/C_Conditions Notes Tables/NotesExamplesQuotations.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Numbered lists">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/B_Links and Lists/Lists.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Popups">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/B_Links and Lists/Links.htm"
+            UsedConditions="General.Audience A"
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Quotations">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/C_Conditions Notes Tables/NotesExamplesQuotations.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Tables">
+        <Entries>
+          <IndexEntry
+            Term="patterned rows">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="Flare_Getting Started/C_Conditions Notes Tables/Tables.htm"
+                UsedConditions=""
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+        </Entries>
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/C_Conditions Notes Tables/ConditionsNotesTables.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Flare_Getting Started/C_Conditions Notes Tables/Tables.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Text hyperlinks">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Flare_Getting Started/B_Links and Lists/Links.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Thumbnail images">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="D_Images/ThumbnailImage.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+    </Entries>
+    <Links />
+    <SeeAlsoLinks />
+    <IndexControlLinks />
+    <SortAsLinks />
+  </IndexEntry>
+  <SourceUrls>
+    <Url
+      Source="Contact_Technical_Support.htm" />
+    <Url
+      Source="Contact_Us.htm" />
+    <Url
+      Source="EXA_Support_Tagline.htm" />
+    <Url
+      Source="1_Register/Accept_Payment_from_the_Pay_Screen.htm" />
+    <Url
+      Source="1_Register/Accept_Payment_from_the_Register_Screen.htm" />
+    <Url
+      Source="1_Register/Adjust_for_Tips.htm" />
+    <Url
+      Source="1_Register/How_do_I_get_to_the_Register_Screen.htm" />
+    <Url
+      Source="1_Register/How_to_Find_a_List_of_Open_Orders.htm" />
+    <Url
+      Source="1_Register/How_to_Join_Tables.htm" />
+    <Url
+      Source="1_Register/How_to_Manage_the _Time_Clock.htm" />
+    <Url
+      Source="1_Register/How_to_Merge_Orders.htm" />
+    <Url
+      Source="1_Register/How_to_Remove_a_Menu_Item_from_an_Order.htm" />
+    <Url
+      Source="1_Register/Modify_Inventory_Level.htm" />
+    <Url
+      Source="1_Register/Place_an_Order_from_the_Floor_Plan.htm" />
+    <Url
+      Source="1_Register/Place_an_Order_from_the_Register.htm" />
+    <Url
+      Source="1_Register/Print_a_Check_for_the_Current_Order.htm" />
+    <Url
+      Source="1_Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" />
+    <Url
+      Source="1_Register/Reassign_a_Table.htm" />
+    <Url
+      Source="1_Register/Split_A_Check_by_Item.htm" />
+    <Url
+      Source="1_Register/Split_a_Payment.htm" />
+    <Url
+      Source="2_Staff/Add_a_New_Employee.htm" />
+    <Url
+      Source="2_Staff/Clock_In_from_a_Break.htm" />
+    <Url
+      Source="2_Staff/Clock_Out_for_a_Break.htm" />
+    <Url
+      Source="2_Staff/Deactivate_or_Delete_an_Employee.htm" />
+    <Url
+      Source="2_Staff/Exit_Training_Mode.htm" />
+    <Url
+      Source="2_Staff/How_to_Adjust_a _Time_Clock_Entry.htm" />
+    <Url
+      Source="2_Staff/How_to_Clock_In.htm" />
+    <Url
+      Source="2_Staff/How_to_Clock_Out.htm" />
+    <Url
+      Source="2_Staff/Log_into_Exatouch.htm" />
+    <Url
+      Source="2_Staff/Navigate_to_the_Home_Screen.htm" />
+    <Url
+      Source="2_Staff/Use_Training_Mode.htm" />
+    <Url
+      Source="3_Customers/Create_a_New_Customer.htm" />
+    <Url
+      Source="3_Customers/How_to_Create_a_Loyalty_Program.htm" />
+    <Url
+      Source="3_Customers/How_to_Create_a_Membership_Club_Program.htm" />
+    <Url
+      Source="4_Items/Add_an_Item.htm" />
+    <Url
+      Source="4_Items/Assign_a_Vendor_to_an_Item.htm" />
+    <Url
+      Source="4_Items/How_to_Add_a_Manufacturer.htm" />
+    <Url
+      Source="4_Items/How_to_Add_Inventory_Costs_and_Quantities_to_an_Item.htm" />
+    <Url
+      Source="4_Items/How_to_Create_Categories_and_Subcategories.htm" />
+    <Url
+      Source="4_Items/How_to_Duplicate_an_Item.htm" />
+    <Url
+      Source="4_Items/How_to_Generate_SKU_Numbers_locally.htm" />
+    <Url
+      Source="4_Items/How_to_Set_a_Default_Vendor_for_an_Item.htm" />
+    <Url
+      Source="4_Items/How_to_Set_Tax_Rates.htm" />
+    <Url
+      Source="4_Items/Modify_Sell_Options.htm" />
+    <Url
+      Source="4_Items/Set_Tax_Rate_for_an_Individual_Item.htm" />
+    <Url
+      Source="4_Items/Set_Tax_Rate_for_an_Individual_Service.htm" />
+    <Url
+      Source="6_Reports/How_to_Run_Reports.htm" />
+    <Url
+      Source="7_Purchasing/Add_a_Vendor.htm" />
+    <Url
+      Source="8_Utilities And Settings/How_to_Restrict_Access_to_System_Settings.htm" />
+    <Url
+      Source="D_Images/EXA_Categories_Create_Category.jpg" />
+    <Url
+      Source="D_Images/EXA_Categories_Create_SubCategories.jpg" />
+    <Url
+      Source="D_Images/EXA_Categories_miniKeyboard.jpg" />
+    <Url
+      Source="D_Images/EXA_FloorPlan_JoinTables1.bmp" />
+    <Url
+      Source="D_Images/EXA_FloorPlan_JoinTables1.jpg" />
+    <Url
+      Source="D_Images/EXA_FloorPlan_JoinTables2.bmp" />
+    <Url
+      Source="D_Images/EXA_FloorPlan_JoinTables2.jpg" />
+    <Url
+      Source="D_Images/EXA_FloorPlan_JoinTables3.bmp" />
+    <Url
+      Source="D_Images/EXA_FloorPlan_JoinTables3.jpg" />
+    <Url
+      Source="D_Images/EXA_FloorPlan_JoinTables4.jpg" />
+    <Url
+      Source="D_Images/EXA_FloorPlan_PopUp_ReassignSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_FloorPlan_PopUp_TableOrder.jpg" />
+    <Url
+      Source="D_Images/EXA_FloorPlan_TableSelect.jpg" />
+    <Url
+      Source="D_Images/EXA_GetOrderScreen_OrderSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_GetOrderScreen_PrintSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_Home_ClockInPrompt.bmp" />
+    <Url
+      Source="D_Images/EXA_Home_ClockInPrompt.jpg" />
+    <Url
+      Source="D_Images/EXA_Home_ClockOut.jpg" />
+    <Url
+      Source="D_Images/EXA_Home_EndBreak.jpg" />
+    <Url
+      Source="D_Images/EXA_Home_HomeIcon.jpg" />
+    <Url
+      Source="D_Images/EXA_HOME_ItemsSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_Home_Login.jpg" />
+    <Url
+      Source="D_Images/EXA_Home_OriginalLevel.jpg" />
+    <Url
+      Source="D_Images/EXA_Home_PointerOnHomeIcon.jpg" />
+    <Url
+      Source="D_Images/EXA_Home_PurchasingSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_Home_RegisterSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_Home_StartBreak.jpg" />
+    <Url
+      Source="D_Images/EXA_Home_UtilitiesSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_Inventory_VendorsList.jpg" />
+    <Url
+      Source="D_Images/EXA_Items Detail_CostandInventoryQuant.jpg" />
+    <Url
+      Source="D_Images/EXA_ItemsDetails_Loyalty_ClubSetupScreen.jpg" />
+    <Url
+      Source="D_Images/EXA_ItemsDetails_Loyalty_PointsSetupScreen.jpg" />
+    <Url
+      Source="D_Images/EXA_ItemsDetail_AddVendorList.jpg" />
+    <Url
+      Source="D_Images/EXA_ItemsDetail_AddVendorSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_ItemsDetail_InventorySelected_Balsamic.jpg" />
+    <Url
+      Source="D_Images/EXA_ItemsDetail_InventoryTabSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_ItemsDetail_MenuSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_ItemsDetail_MenuSelected_Duplicate.jpg" />
+    <Url
+      Source="D_Images/EXA_ItemsDetail_SellOptions_Alert.jpg" />
+    <Url
+      Source="D_Images/EXA_ItemsDetail_VendorSelectedSaved.jpg" />
+    <Url
+      Source="D_Images/EXA_ItemsDetail_VendorsList.jpg" />
+    <Url
+      Source="D_Images/EXA_ItemsList_ItemSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_Items_CategoriesSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_MenuIcon.bmp" />
+    <Url
+      Source="D_Images/EXA_MenuIcon.jpg" />
+    <Url
+      Source="D_Images/EXA_MergeOrder1.jpg" />
+    <Url
+      Source="D_Images/EXA_MergeOrder2.jpg" />
+    <Url
+      Source="D_Images/EXA_NewCustomer_SwipeIcon.jpg" />
+    <Url
+      Source="D_Images/EXA_NewItem_InventorySelected.jpg" />
+    <Url
+      Source="D_Images/EXA_NewItem_InventorySelected_NewVendorSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_NewItem_ManufField_GearIcon.jpg" />
+    <Url
+      Source="D_Images/EXA_NewItem_SKU_fields.jpg" />
+    <Url
+      Source="D_Images/EXA_NewVendor_DetailsSave.jpg" />
+    <Url
+      Source="D_Images/EXA_PayScreen_PaymentOptionsSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_PayScreen_PaySelected.jpg" />
+    <Url
+      Source="D_Images/EXA_PayScreen_PaySeleted.jpg" />
+    <Url
+      Source="D_Images/EXA_Pay_SplitBy1.jpg" />
+    <Url
+      Source="D_Images/EXA_Pay_SplitBy2.jpg" />
+    <Url
+      Source="D_Images/EXA_Pay_SplitByCashCredit.jpg" />
+    <Url
+      Source="D_Images/EXA_Pay_SplitByCASHOnly.jpg" />
+    <Url
+      Source="D_Images/EXA_Pay_SplitByCASHOnly2.jpg" />
+    <Url
+      Source="D_Images/EXA_Pay_SplitByCREDITOnly.jpg" />
+    <Url
+      Source="D_Images/EXA_Pay_SplitByScreen1.jpg" />
+    <Url
+      Source="D_Images/EXA_Purchasing_InventoryTable_AddVendorSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_Purchasing_SelectVendors.jpg" />
+    <Url
+      Source="D_Images/EXA_Purchasing_SelectVendors_NewVendorsSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_Purchasing_VendorDetailsSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_RegisterIcon.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_Alert_GoNegative.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_Alert_StopSellingAt0.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_CashCreditDebitSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_CompleteAuthSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_DineInTakeOutOptions.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_FloorPlanTabSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_FloorPlan_GetOrderPointer.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_FloorPlan_ReassignPopUp.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_GetOrderSelected.bmp" />
+    <Url
+      Source="D_Images/EXA_Register_GetOrderSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_OrderDisplayed.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_OrderDisplayed_PayTabSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_OrderFromRegister.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_OrderFromRegister_TapItems.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_PayTabSelected.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_PayTabSelected_wOrder.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_Pay_SplitByScreen1.bmp" />
+    <Url
+      Source="D_Images/EXA_Register_PrintOrder_Pointer.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_ReassignTable.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_RepeatLinePointer.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_SaveOrderPointer.bmp" />
+    <Url
+      Source="D_Images/EXA_Register_SaveOrderPointer.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_SplitByItemScreen.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_SplitByItemScreen2.jpg" />
+    <Url
+      Source="D_Images/EXA_Register_SplitByItem_Selected.jpg" />
+    <Url
+      Source="D_Images/EXA_SelectVendorsPopup.jpg" />
+    <Url
+      Source="D_Images/EXA_SKUimg.jpg" />
+    <Url
+      Source="D_Images/EXA_Utilities_SwitchtoTraining.jpg" />
+    <Url
+      Source="D_Images/EXA_Vendors_SetDefault.jpg" />
+    <Url
+      Source="D_Images/EXA_Vendors_SetDefault2.jpg" />
+    <Url
+      Source="D_Images/EXA_Vendors_SetDefault3.jpg" />
+    <Url
+      Source="D_Images/ImagePositionedLeft.htm" />
+    <Url
+      Source="D_Images/ImagePositionedRight.htm" />
+    <Url
+      Source="D_Images/Images.htm" />
+    <Url
+      Source="D_Images/ImageWithinList.htm" />
+    <Url
+      Source="D_Images/NewCustomer_SwipeIcon.jpg" />
+    <Url
+      Source="D_Images/Positioned Images.htm" />
+    <Url
+      Source="D_Images/ThumbnailImage.htm" />
+    <Url
+      Source="D_Images/Thumbs.db" />
+    <Url
+      Source="EXA_Zebra_Install/Copy of Installing Zebra Label Printer.htm" />
+    <Url
+      Source="EXA_Zebra_Install/Installing Zebra Label Printer.htm" />
+    <Url
+      Source="FAQs/The difference between Logging In and Clocking In.htm" />
+    <Url
+      Source="Flare_Getting Started/A_Getting Started/Basic Steps.htm" />
+    <Url
+      Source="Flare_Getting Started/A_Getting Started/Getting Started.htm" />
+    <Url
+      Source="Flare_Getting Started/A_Getting Started/Whats New.htm" />
+    <Url
+      Source="Flare_Getting Started/B_Links and Lists/Links.htm" />
+    <Url
+      Source="Flare_Getting Started/B_Links and Lists/LinksAndLists.htm" />
+    <Url
+      Source="Flare_Getting Started/B_Links and Lists/Lists.htm" />
+    <Url
+      Source="Flare_Getting Started/C_Conditions Notes Tables/Conditions.htm" />
+    <Url
+      Source="Flare_Getting Started/C_Conditions Notes Tables/ConditionsNotesTables.htm" />
+    <Url
+      Source="Flare_Getting Started/C_Conditions Notes Tables/NotesExamplesQuotations.htm" />
+    <Url
+      Source="Flare_Getting Started/C_Conditions Notes Tables/Tables.htm" />
+    <Url
+      Source="Flare_Getting Started/E_Footer Topics/Company Information.htm" />
+    <Url
+      Source="Flare_Getting Started/E_Footer Topics/FAQs.htm" />
+    <Url
+      Source="Flare_Getting Started/E_Footer Topics/PDF Downloads.htm" />
+    <Url
+      Source="Flare_Getting Started/E_Footer Topics/Tips.htm" />
+    <Url
+      Source="Resources/Images/BackgroundImage.png" />
+    <Url
+      Source="Resources/Images/BasicSteps.png" />
+    <Url
+      Source="Resources/Images/Bullet1.png" />
+    <Url
+      Source="Resources/Images/Bullet2.png" />
+    <Url
+      Source="Resources/Images/CompanyLogo.png" />
+    <Url
+      Source="Resources/Images/DropDownClosed.png" />
+    <Url
+      Source="Resources/Images/DropDownClosedSecondLevel.png" />
+    <Url
+      Source="Resources/Images/DropDownOpen.png" />
+    <Url
+      Source="Resources/Images/DropDownOpenSecondLevel.png" />
+    <Url
+      Source="Resources/Images/EXA HOME page.png" />
+    <Url
+      Source="Resources/Images/EXA HOME page1.jpg" />
+    <Url
+      Source="Resources/Images/EXA HOME page1.png" />
+    <Url
+      Source="Resources/Images/FacebookIcon.png" />
+    <Url
+      Source="Resources/Images/FAQs.png" />
+    <Url
+      Source="Resources/Images/GreenCheck.png" />
+    <Url
+      Source="Resources/Images/Image.png" />
+    <Url
+      Source="Resources/Images/KeyFeatures.png" />
+    <Url
+      Source="Resources/Images/NoteIcon.png" />
+    <Url
+      Source="Resources/Images/PDF Cover.png" />
+    <Url
+      Source="Resources/Images/QuotationMark.png" />
+    <Url
+      Source="Resources/Images/RedX.png" />
+    <Url
+      Source="Resources/Images/SaveButton.png" />
+    <Url
+      Source="Resources/Images/TwitterIcon.png" />
+    <Url
+      Source="Resources/Images/WhatsNew.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/EXA_Zebra_Install1_downloadlink.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_1.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_10.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_11.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_12.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_13.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_14.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_15.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_16.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_17.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_18.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_19.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_2.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_20.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_21.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_22.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_3.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_4.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_5.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_6.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_7.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_8.png" />
+    <Url
+      Source="Resources/Images/EXA_Zebra_Install/Installing Zebra Label Printer_9.png" />
+    <Url
+      Source="Resources/MasterPages/HomePage.flmsp" />
+    <Url
+      Source="Resources/MasterPages/OtherTopics.flmsp" />
+    <Url
+      Source="Resources/MasterPages/QRG_Exatouch Restaurant_Wait Staff-forFlareImport.flmsp" />
+    <Url
+      Source="Resources/Snippets/contact our support team - short.flsnp" />
+    <Url
+      Source="Resources/Snippets/EXA LoginPinSwipe.flsnp" />
+    <Url
+      Source="Resources/Snippets/EXASupportTagline.flsnp" />
+    <Url
+      Source="Resources/Stylesheets/bootstrap.min.css" />
+    <Url
+      Source="Resources/Stylesheets/EXAMasterStyles.css" />
+    <Url
+      Source="Resources/Stylesheets/EXA_Zebra_Install.css" />
+    <Url
+      Source="Resources/Stylesheets/MainStyles.css" />
+    <Url
+      Source="Resources/Stylesheets/StylesForHomePage.css" />
+    <Url
+      Source="Resources/TableStyles/PatternedRows.css" />
+    <Url
+      Source="Resources/TableStyles/Simple.css" />
+    <Url
+      Source="Resources/TableStyles/Standard.css" />
+    <Url
+      Source="Topics to be added to Retail QRG/How_to_Ring_Up_an_Item.htm" />
+    <Url
+      Source="Topics to be created/Add_a_Service.htm" />
+    <Url
+      Source="Topics to be created/Create_a_Purchase_Order.htm" />
+    <Url
+      Source="Topics to be created/How_to_Add_an_Item_Modifier.htm" />
+    <Url
+      Source="Topics to be created/How_to_Define_Matrix Inventory_Items.htm" />
+    <Url
+      Source="Topics to be created/How_to_Find_an_Item.htm" />
+    <Url
+      Source="Topics to be created/How_to_Link_an_Item_to_a_Vendor.htm" />
+    <Url
+      Source="Topics to be created/Use_Inventory_Counting.htm" />
+    <Url
+      Source="Topics to be created/What_is_a_Modifier.htm" />
+  </SourceUrls>
+  <SourceLinkSetUrls />
+  <UsedUrls>
+    <Url
+      Source="Flare_Getting Started/C_Conditions Notes Tables/Tables.htm"
+      Terms="Tables;Tables:patterned rows" />
+    <Url
+      Source="Flare_Getting Started/C_Conditions Notes Tables/NotesExamplesQuotations.htm"
+      Terms="Notes;Examples;Quotations" />
+    <Url
+      Source="Flare_Getting Started/C_Conditions Notes Tables/ConditionsNotesTables.htm"
+      Terms="Conditions;Tables" />
+    <Url
+      Source="Flare_Getting Started/C_Conditions Notes Tables/Conditions.htm"
+      Terms="Conditions;Conditions:character level;Conditions:block level" />
+    <Url
+      Source="Flare_Getting Started/B_Links and Lists/Lists.htm"
+      Terms="Lists;Lists:numbered;Numbered lists;Lists:bulleted;Bulleted lists;Lists:multi-level;Multi-level lists" />
+    <Url
+      Source="Flare_Getting Started/B_Links and Lists/LinksAndLists.htm"
+      Terms="Links;Lists" />
+    <Url
+      Source="Flare_Getting Started/B_Links and Lists/Links.htm"
+      Terms="Links;Cross-references;Text hyperlinks;Hyperlinks;Popups | General.Audience A |  [19];Footnotes" />
+    <Url
+      Source="D_Images/ImagePositionedLeft.htm"
+      Terms="Images:positioned left" />
+    <Url
+      Source="D_Images/ImagePositionedRight.htm"
+      Terms="Images:positioned right" />
+    <Url
+      Source="D_Images/ImageWithinList.htm"
+      Terms="Images:within steps" />
+    <Url
+      Source="D_Images/ThumbnailImage.htm"
+      Terms="Images:thumbnails;Thumbnail images" />
+  </UsedUrls>
+  <UsedIndexControlUrls />
+</CatapultGlobalIndex>

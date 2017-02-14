@@ -578,6 +578,7 @@ a.activityText:visited
 ul.menu._Skins_SideMenu.mc-component
 {
 	color: #000000;
+	font-family: 'Roboto Condensed';
 	font-size: 1em;
 	font-weight: normal;
 	font-style: normal;
@@ -592,12 +593,13 @@ ul.menu._Skins_SideMenu.mc-component
 	padding-bottom: 10px;
 	width: 100%;
 	height: 100%;
-	background-color: #525252;
+	background-color: #f8f8f8;
 }
 
 ul.menu._Skins_SideMenu.mc-component a
 {
 	color: #000000;
+	font-family: 'Roboto Condensed';
 	font-size: 1em;
 	font-weight: normal;
 	font-style: normal;
@@ -605,7 +607,8 @@ ul.menu._Skins_SideMenu.mc-component a
 
 ul.menu._Skins_SideMenu.mc-component li > a
 {
-	color: #ffffff;
+	color: #c0c0c0;
+	font-size: 1em;
 	margin-left: 0px;
 	margin-right: 0px;
 	margin-top: 0px;
