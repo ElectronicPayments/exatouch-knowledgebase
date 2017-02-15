@@ -2,14 +2,93 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="Verticals"
-    Link="/Content/Verticals/Verticals.htm">
+    Title="Business Types"
+    Link="/Content/Home.htm">
     <TocEntry
       Title="Retail"
       Link="/Content/Verticals/Retail.htm">
       <TocEntry
-        Title="Accept Payment from the Pay Screen"
-        Link="/Content/Verticals/Retail/accept-payment-from-the-pay-screen.htm" />
+        Title="Register"
+        Link="/Content/Verticals/Functions/Register.htm">
+        <TocEntry
+          Title="Accept Payment from the Pay Screen"
+          StartSection="false"
+          ReplaceMergeNode="false"
+          Link="/Content/Verticals/Functions/Register/Accept_Payment_from_the_Pay_Screen.htm"></TocEntry>
+        <TocEntry
+          Title="Accept Payment from the Register Screen"
+          Link="/Content/Verticals/Functions/Register/Accept_Payment_from_the_Register_Screen.htm" />
+        <TocEntry
+          Title="Adjust for Tips"
+          Link="/Content/Verticals/Functions/Register/Adjust_for_Tips.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/How_do_I get_to_the_Register_Screen.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Staff"
+        Link="/Content/Verticals/Functions/Staff.htm">
+        <TocEntry
+          Title="Add a New Employee"
+          Link="/Content/Verticals/Functions/Staff/Add_a_New_Employee.htm"></TocEntry>
+        <TocEntry
+          Title="Clock In from a Break"
+          Link="/Content/Verticals/Functions/Staff/Clock_In_from_a_Break.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Table Service"
+      Link="/Content/Verticals/TableService.htm">
+      <TocEntry
+        Title="Register">
+        <TocEntry
+          Title="Accept Payment from the Pay Screen"
+          StartSection="false"
+          ReplaceMergeNode="false"></TocEntry>
+        <TocEntry
+          Title="Accept Payment from the Register Screen" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Salon">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+    <TocEntry
+      Title="Spa">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+    <TocEntry
+      Title="Hospitality">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+    <TocEntry
+      Title="Spirits">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+    <TocEntry
+      Title="Grocery">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+    <TocEntry
+      Title="Pizzeria">
+      <TocEntry
+        Title="New Entry" />
+    </TocEntry>
+    <TocEntry
+      Title="Quick Service">
+      <TocEntry
+        Title="New Entry" />
     </TocEntry>
   </TocEntry>
   <TocEntry

@@ -1,11 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+  FileTitle="Restaurant"
   FileSearchable="true"
+  MasterPage="file:///C:/Users/Ralph Rivera/Documents/GitHub/exatouch-knowledgebase/Exatouch1/Content/Resources/MasterPages/FunctionHolder.flmsp"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links />
-  <LongLinks />
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/FunctionHolder.flmsp" />
+    <Link
+      Url="Content/Verticals/Retail/Register.htm" />
+    <Link
+      Url="Content/Verticals/Verticals/Retail.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/FunctionHolder.flmsp" />
+    <Link
+      Url="Content/Verticals/Retail/Register.htm" />
+    <Link
+      Url="Content/Verticals/Verticals/Retail.htm" />
+  </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />

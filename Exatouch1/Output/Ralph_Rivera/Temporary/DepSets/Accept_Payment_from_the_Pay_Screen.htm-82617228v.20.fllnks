@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Accept Payment from the Pay Screen"
+  FileLanguage="en-us"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Images/EXA_Register_PayTabSelected_wOrder.jpg" />
+    <Link
+      Url="Content/Images/EXA_PayScreen_PaymentOptionsSelected.jpg" />
+    <Link
+      Url="Content/Images/EXA_PayScreen_PaySelected.jpg" />
+    <Link
+      Url="Content/Verticals/Retail/Register/Accept_Payment_from_the_Register_Screen.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Images/EXA_Register_PayTabSelected_wOrder.jpg" />
+    <Link
+      Url="Content/Images/EXA_PayScreen_PaymentOptionsSelected.jpg" />
+    <Link
+      Url="Content/Images/EXA_PayScreen_PaySelected.jpg" />
+    <Link
+      Url="Content/Verticals/Retail/Register/Accept_Payment_from_the_Register_Screen.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,2 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ObjectList />
+<ObjectList>
+    <Object Value="System.SourceFile" />
+    <Object Value="System.Title" />
+</ObjectList>

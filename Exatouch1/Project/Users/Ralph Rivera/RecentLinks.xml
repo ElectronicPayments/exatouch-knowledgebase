@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RecentLinks>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
-        <Link Value="C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Resources\Images\xat-logo-black.png" />
+        <Link Value="C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Images\EXA_Register_PayTabSelected_wOrder.jpg" />
     </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog" />
 </RecentLinks>

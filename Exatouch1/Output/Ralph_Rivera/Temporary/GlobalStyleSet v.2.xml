@@ -105,6 +105,8 @@
       <Class
         Name="MCBreadcrumbsLink" />
       <Class
+        Name="selected" />
+      <Class
         Name="BlackText" />
       <Class
         Name="text-primary" />
@@ -146,7 +148,25 @@
         Name="SubCenter" />
     </Tag>
     <Tag
+      Name="ul">
+      <Class
+        Name="menu" />
+      <Class
+        Name="_Skins_SideMenu" />
+      <Class
+        Name="mc-component" />
+      <Class
+        Name="navigation" />
+    </Tag>
+    <Tag
+      Name="li">
+      <Class
+        Name="has-children" />
+    </Tag>
+    <Tag
       Name="div">
+      <Class
+        Name="MCMiniTocBox_0" />
       <Class
         Name="TopicContent" />
       <Class
@@ -187,11 +207,51 @@
         Name="Row-8-4" />
     </Tag>
     <Tag
+      Name="ol">
+      <Class
+        Name="steps" />
+    </Tag>
+    <Tag
+      Name="span">
+      <Class
+        Name="SearchHighlight" />
+      <Class
+        Name="SearchHighlight1" />
+      <Class
+        Name="SearchHighlight2" />
+      <Class
+        Name="SearchHighlight3" />
+      <Class
+        Name="SearchHighlight4" />
+      <Class
+        Name="SearchHighlight5" />
+      <Class
+        Name="SearchHighlight6" />
+      <Class
+        Name="SearchHighlight7" />
+      <Class
+        Name="SearchHighlight8" />
+      <Class
+        Name="SearchHighlight9" />
+      <Class
+        Name="SearchHighlight10" />
+      <Class
+        Name="SeeAlsoIndex" />
+      <Class
+        Name="SeeAlsoIndexTerms" />
+      <Class
+        Name="SeeIndex" />
+      <Class
+        Name="SeeIndexTerms" />
+      <Class
+        Name="boolean" />
+      <Class
+        Name="state" />
+    </Tag>
+    <Tag
       Name="h3" />
     <Tag
       Name="h4" />
-    <Tag
-      Name="li" />
     <Tag
       Name="MadCap|breadcrumbsProxy" />
     <Tag
@@ -370,10 +430,6 @@
     <Tag
       Name="h6" />
     <Tag
-      Name="ol" />
-    <Tag
-      Name="ul" />
-    <Tag
       Name="dl" />
     <Tag
       Name="dd" />
@@ -401,43 +457,6 @@
       Name="object" />
     <Tag
       Name="script" />
-    <Tag
-      Name="span">
-      <Class
-        Name="SearchHighlight" />
-      <Class
-        Name="SearchHighlight1" />
-      <Class
-        Name="SearchHighlight2" />
-      <Class
-        Name="SearchHighlight3" />
-      <Class
-        Name="SearchHighlight4" />
-      <Class
-        Name="SearchHighlight5" />
-      <Class
-        Name="SearchHighlight6" />
-      <Class
-        Name="SearchHighlight7" />
-      <Class
-        Name="SearchHighlight8" />
-      <Class
-        Name="SearchHighlight9" />
-      <Class
-        Name="SearchHighlight10" />
-      <Class
-        Name="SeeAlsoIndex" />
-      <Class
-        Name="SeeAlsoIndexTerms" />
-      <Class
-        Name="SeeIndex" />
-      <Class
-        Name="SeeIndexTerms" />
-      <Class
-        Name="boolean" />
-      <Class
-        Name="state" />
-    </Tag>
     <Tag
       Name="center" />
     <Tag

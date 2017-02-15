@@ -6,11 +6,25 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Verticals/Verticals.htm" />
+      Url="Content/Home.htm" />
     <Link
       Url="Content/Verticals/Retail.htm" />
     <Link
-      Url="Content/Verticals/Retail/Topic.htm" />
+      Url="Content/Verticals/Functions/Register.htm" />
+    <Link
+      Url="Content/Verticals/Functions/Register/Accept_Payment_from_the_Pay_Screen.htm" />
+    <Link
+      Url="Content/Verticals/Functions/Register/Accept_Payment_from_the_Register_Screen.htm" />
+    <Link
+      Url="Content/Adjust for Tips.htm" />
+    <Link
+      Url="Content/How do I get to the Register Screen.htm" />
+    <Link
+      Url="Content/Verticals/Functions/Staff.htm" />
+    <Link
+      Url="Content/Verticals/Functions/Register/Reassign_a_Table.htm" />
+    <Link
+      Url="Content/Verticals/TableService.htm" />
     <Link
       Url="Content/C_Procedure Topics/Procedures.htm" />
     <Link

@@ -104,6 +104,12 @@
         <Properties>
           <Property
             Name="Float">right</Property>
+          <Property
+            Name="Color">#444444</Property>
+          <Property
+            Name="FontFamily">Lato</Property>
+          <Property
+            Name="FontSize">12px</Property>
         </Properties>
       </Style>
       <Style
@@ -137,6 +143,13 @@
             Name="BackgroundColor">#3b77bb</Property>
           <Property
             Name="BackgroundImage">url('SearchIcon.png')</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Menu Item (hover)">
+        <Properties>
+          <Property
+            Name="Color">#6499cd</Property>
         </Properties>
       </Style>
     </Styles>
@@ -250,6 +263,13 @@
                 Name="MarginTop">11px</Property>
               <Property
                 Name="Height">2.5em</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="Search Heading">
+            <Properties>
+              <Property
+                Name="Format">Your search for {query} returned {total_results} result(s).</Property>
             </Properties>
           </Style>
         </Styles>

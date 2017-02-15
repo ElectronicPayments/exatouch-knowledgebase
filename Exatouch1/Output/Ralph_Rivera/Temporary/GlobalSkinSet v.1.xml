@@ -243,6 +243,10 @@
       <Class
         Name="RegisterUser" />
     </Tag>
+    <Tag
+      Name="Logo" />
+    <Tag
+      Name="Search Submit Button" />
   </Map>
   <SourceUrls>
     <Url

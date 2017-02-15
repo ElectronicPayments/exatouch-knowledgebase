@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="What's New">
+    <TocEntry
+      Title="Accept Payment from the Pay Screen" />
+    <TocEntry
+      Title="Accept Payment from the Register Screen" />
+  </TocEntry>
+</CatapultToc>

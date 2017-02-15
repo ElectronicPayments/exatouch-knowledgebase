@@ -1,33 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="143" MadCap:lastWidth="1651">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="212" MadCap:lastWidth="1630">
     <head>
         <meta charset="utf-8" />
         <meta name="description" content="" />
         <meta name="author" content="" /><title></title>
-		<link href="../../Resources/css/exatouchstyles.css" rel="stylesheet" type="text/css" />
-		<link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet" type="text/css" />
-		<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" type="text/css" />
+        <link href="../../Resources/css/exatouchstyles.css" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" type="text/css" />
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css" />
     </head>
     <body>
-		<MadCap:breadcrumbsProxy />
-		other topics
         <div class="content">
             <div id="contentBody">
-				<div class="row">
+                <div class="row">
+                    <div class="medium-12 columns">
+                        <MadCap:breadcrumbsProxy />
+                    </div>
 					<div class="medium-12 columns">
-						<MadCap:breadcrumbsProxy />
+						<h1 class="pg-title"><MadCap:variable name="System.Title" /></h1>
 					</div>
-					<div class="medium-8 columns">
-						<MadCap:bodyProxy />
-					</div>
-					<div class="medium-4 columns">
-						<div class="clearfix">
-							<MadCap:topicToolbarProxy />
-						</div>
-						<MadCap:menuProxy style="mc-context-sensitive: True;" data-mc-skin="/Project/Skins/SideMenu.flskn" />
-					</div>
-				</div>
+					<MadCap:bodyProxy />
+                    <div class="medium-4 columns">
+                        <div class="clearfix">
+                            <MadCap:topicToolbarProxy />
+                        </div>
+						<div class="menuProxyTitle">Select a Topic</div>
+                        <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: False;mc-include-siblings: True;mc-include-children: True;" />
+                    </div>
+                </div>
             </div>
         </div>
-	</body>
+    </body>
 </html>
