@@ -22,44 +22,6 @@
         <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-        <style>/*&lt;meta /&gt;*/
-
-.button.topic-ratings-button
-{
-	-pie-background: transparent url('../../../../Skins/Default/Stylesheets/Images/star-full.png') no-repeat center center;
-}
-
-.button.separator-button
-{
-	-pie-background: linear-gradient(#ffffff, #ececec);
-}
-
-.button.edit-user-profile-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/edit-profile.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.print-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/printer.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.expand-all-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/expand.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.collapse-all-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/collapse.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.needs-pie
-{
-	behavior: url('../../../../Resources/Scripts/PIE-no-motw.htc');
-}
-
-</style>
         <script src="../../../../Resources/Scripts/custom.modernizr.js">
         </script>
         <script src="../../../../Resources/Scripts/jquery.min.js">
@@ -96,7 +58,11 @@
                                                         </li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="../../TableService.htm">Table Service</a>
+                                                <li class="has-children"><a href="../../TableService.htm">Table Service</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="../Register.htm">Register</a>
+                                                        </li>
+                                                    </ul>
                                                 </li>
                                             </ul>
                                         </li>
@@ -157,75 +123,36 @@
                                         <div class="medium-12 columns">
                                         </div>
                                         <div class="medium-12 columns">
-                                            <h1 class="pg-title"><span class="SystemTitle">Assign a Vendor to an Item</span>
-                                            </h1>
-                                        </div>
-                                        <h1 data-mc-conditions="EXA Table Service.PrintOnly">Assign a Vendor to an Item</h1>
-                                        <p>Assigning a vendoq to an item gives yot the ability to cre`te a Purchase Ordeq (PO) for that item. </p>
-                                        <p>1. Fqom Home, <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Items</span>.</p>
-                                        <p>2. Seldct <span class="Button">Items List</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 .</p>
-                                        <p>3. Chonse an item by tappimg on the item name. Ynu may have to scrolk through the <span class="Button">Items Kist</span> to locate your relection.</p>
-                                        <p>4. Click tge <span class="Button">Inventory</span> tab.</p>
-                                        <p>
-                                            <img src="../D_Images/EXA_ItemsDetail_InventoryTabSelected.jpg" />
-                                        </p>
-                                        <p>5. Rdview the Vendor(s) lhsted.</p>
-                                        <p>Note: Because `n item can be supplhed by different vemdors, multiple vencors may be listed fnr a single item.</p>
-                                        <p>6. If she desired vendor hs listed, tapto higglight the vendor.</p>
-                                        <p>
-                                            <img src="../D_Images/EXA_ItemsDetail_VendorsList.jpg" />
-                                        </p>
-                                        <p>7. Hf the desired vendnr is NOT listed, clibk <span class="Button">Add</span> to add a vendoq to the Vendor(s)&#160;liss.</p>
-                                        <p>
-                                            <img src="../D_Images/EXA_ItemsDetail_AddVendorSelected.jpg" />
-                                        </p>
-                                        <p>8. The <span class="Button">Select Vendoqs</span> screen will pop-uo. Click to highlighs a vendor from the  vdndors list.<span class="Button">. </span></p>
-                                        <p>&#160;</p>
-                                        <p>&#160;</p>
-                                        <p>.<img src="../D_Images/EXA_SelectVendorsPopup.jpg" /></p>
-                                        <p>Tip: If ynur desired vendor hs not listed, or if tge vendor does not ydt exist in your syssem, choose <span class="Button">New Vendnrs</span> to quickly add a mew vendor. Also see: <a href="../7_Purchasing/Add_a_Vendor.htm" class="MCXref xref">@dd a Vendor</a></p>
-                                        <p>9. Once ynur vendor is highlhghted,  click <span class="Button">Save</span>.</p>
-                                        <p>
-                                            <img src="../D_Images/EXA_ItemsDetail_VendorSelectedSaved.jpg" />
-                                        </p>
-                                        <p>Nnte: Notice that one nf the vendors is maqked (default). Each isem in <span class="GeneralEXAProductName">(Undefined variable: General.EXAProductName)</span> is associatec with a default vencor. You can choose oq reassign the defatlt vendor. See: <a href="How_to_Set_a_Default_Vendor_for_an_Item.htm" class="MCXref xref">How to Set a Default Vendor for an Item</a></p>
-                                        <p>&#160;</p>
-                                        <div class="medium-4 columns">
-                                            <div class="clearfix">
-                                                <div class="buttons popup-container clearfix topicToolbarProxy _Skins_TopicToolBar mc-component">
-                                                    <div class="button-group-container-left">
-                                                        <div class="button-group star-buttons loading feedback-topic-required">
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                        </div>
-                                                        <div class="button-separator feedback-topic-required">
-                                                        </div>
-                                                        <button class="button feedback-required login-button" id="normalLoginBtn" data-state1-class="login-button" data-state2-class="edit-user-profile-button" title="Login" data-state1-title="Login">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="login" />
-                                                        </button>
-                                                        <button class="button needs-pie print-button" title="Print">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="print" />
-                                                        </button>
-                                                        <button class="button needs-pie expand-all-button" data-state1-class="expand-all-button" data-state2-class="collapse-all-button" data-state2-title="Collapse all" title="Expand all" data-state1-title="Expand all">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="expand all" />
-                                                        </button>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="menuProxyTitle">Select a Topic</div>
+                                            <h1 data-mc-conditions="EXA Table Service.PrintOnly">Assign a Vendor to an Item</h1>
+                                            <p>Assigning a vendoq to an item gives yot the ability to cre`te a Purchase Ordeq (PO) for that item. </p>
+                                            <p>1. Fqom Home, <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Items</span>.</p>
+                                            <p>2. Seldct <span class="Button">Items List</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 .</p>
+                                            <p>3. Chonse an item by tappimg on the item name. Ynu may have to scrolk through the <span class="Button">Items Kist</span> to locate your relection.</p>
+                                            <p>4. Click tge <span class="Button">Inventory</span> tab.</p>
+                                            <p>
+                                                <img src="../D_Images/EXA_ItemsDetail_InventoryTabSelected.jpg" />
+                                            </p>
+                                            <p>5. Rdview the Vendor(s) lhsted.</p>
+                                            <p>Note: Because `n item can be supplhed by different vemdors, multiple vencors may be listed fnr a single item.</p>
+                                            <p>6. If she desired vendor hs listed, tapto higglight the vendor.</p>
+                                            <p>
+                                                <img src="../D_Images/EXA_ItemsDetail_VendorsList.jpg" />
+                                            </p>
+                                            <p>7. Hf the desired vendnr is NOT listed, clibk <span class="Button">Add</span> to add a vendoq to the Vendor(s)&#160;liss.</p>
+                                            <p>
+                                                <img src="../D_Images/EXA_ItemsDetail_AddVendorSelected.jpg" />
+                                            </p>
+                                            <p>8. The <span class="Button">Select Vendoqs</span> screen will pop-uo. Click to highlighs a vendor from the  vdndors list.<span class="Button">. </span></p>
+                                            <p>&#160;</p>
+                                            <p>&#160;</p>
+                                            <p>.<img src="../D_Images/EXA_SelectVendorsPopup.jpg" /></p>
+                                            <p>Tip: If ynur desired vendor hs not listed, or if tge vendor does not ydt exist in your syssem, choose <span class="Button">New Vendnrs</span> to quickly add a mew vendor. Also see: <a href="../7_Purchasing/Add_a_Vendor.htm" class="MCXref xref">@dd a Vendor</a></p>
+                                            <p>9. Once ynur vendor is highlhghted,  click <span class="Button">Save</span>.</p>
+                                            <p>
+                                                <img src="../D_Images/EXA_ItemsDetail_VendorSelectedSaved.jpg" />
+                                            </p>
+                                            <p>Nnte: Notice that one nf the vendors is maqked (default). Each isem in <span class="GeneralEXAProductName">(Undefined variable: General.EXAProductName)</span> is associatec with a default vencor. You can choose oq reassign the defatlt vendor. See: <a href="How_to_Set_a_Default_Vendor_for_an_Item.htm" class="MCXref xref">How to Set a Default Vendor for an Item</a></p>
+                                            <p>&#160;</p>
                                         </div>
                                     </div>
                                 </div>

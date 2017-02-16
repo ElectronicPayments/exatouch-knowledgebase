@@ -22,44 +22,6 @@
         <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-        <style>/*&lt;meta /&gt;*/
-
-.button.topic-ratings-button
-{
-	-pie-background: transparent url('../../Skins/Default/Stylesheets/Images/star-full.png') no-repeat center center;
-}
-
-.button.separator-button
-{
-	-pie-background: linear-gradient(#ffffff, #ececec);
-}
-
-.button.edit-user-profile-button
-{
-	-pie-background: url('../../Skins/Default/Stylesheets/Images/edit-profile.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.print-button
-{
-	-pie-background: url('../../Skins/Default/Stylesheets/Images/printer.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.expand-all-button
-{
-	-pie-background: url('../../Skins/Default/Stylesheets/Images/expand.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.collapse-all-button
-{
-	-pie-background: url('../../Skins/Default/Stylesheets/Images/collapse.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.needs-pie
-{
-	behavior: url('../../Resources/Scripts/PIE-no-motw.htc');
-}
-
-</style>
         <script src="../../Resources/Scripts/custom.modernizr.js">
         </script>
         <script src="../../Resources/Scripts/jquery.min.js">
@@ -96,7 +58,11 @@
                                                         </li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="../Verticals/TableService.htm">Table Service</a>
+                                                <li class="has-children"><a href="../Verticals/TableService.htm">Table Service</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="../Verticals/Functions/Register.htm">Register</a>
+                                                        </li>
+                                                    </ul>
                                                 </li>
                                             </ul>
                                         </li>
@@ -159,55 +125,8 @@
                                             </div>
                                         </div>
                                         <div class="medium-12 columns">
-                                            <h1 class="pg-title"><span class="SystemTitle">PDF Downloads</span>
-                                            </h1>
-                                        </div>
-                                        <h1>PDF Downloads</h1>
-                                        <p>Here is some gener`l text for a topic. Rdplace this with yotr own content.</p>
-                                        <div class="medium-4 columns">
-                                            <div class="clearfix">
-                                                <div class="buttons popup-container clearfix topicToolbarProxy _Skins_TopicToolBar mc-component">
-                                                    <div class="button-group-container-left">
-                                                        <div class="button-group star-buttons loading feedback-topic-required">
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                        </div>
-                                                        <div class="button-separator feedback-topic-required">
-                                                        </div>
-                                                        <button class="button feedback-required login-button" id="normalLoginBtn" data-state1-class="login-button" data-state2-class="edit-user-profile-button" title="Login" data-state1-title="Login">
-                                                            <img src="../../Skins/Default/Stylesheets/Images/transparent.gif" alt="login" />
-                                                        </button>
-                                                        <button class="button needs-pie print-button" title="Print">
-                                                            <img src="../../Skins/Default/Stylesheets/Images/transparent.gif" alt="print" />
-                                                        </button>
-                                                        <button class="button needs-pie expand-all-button" data-state1-class="expand-all-button" data-state2-class="collapse-all-button" data-state2-title="Collapse all" title="Expand all" data-state1-title="Expand all">
-                                                            <img src="../../Skins/Default/Stylesheets/Images/transparent.gif" alt="expand all" />
-                                                        </button>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="menuProxyTitle">Select a Topic</div>
-                                            <ul class="menu _Skins_SideMenu mc-component">
-                                                <li><a href="FAQs.htm">FAQs</a>
-                                                </li>
-                                                <li><a href="#" class="selected">PDF Downloads</a>
-                                                </li>
-                                                <li><a href="Tips.htm">Tips</a>
-                                                </li>
-                                            </ul>
+                                            <h1>PDF Downloads</h1>
+                                            <p>Here is some gener`l text for a topic. Rdplace this with yotr own content.</p>
                                         </div>
                                     </div>
                                 </div>

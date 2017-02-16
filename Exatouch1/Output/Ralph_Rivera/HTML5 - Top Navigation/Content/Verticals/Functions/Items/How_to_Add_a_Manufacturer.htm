@@ -22,44 +22,6 @@
         <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-        <style>/*&lt;meta /&gt;*/
-
-.button.topic-ratings-button
-{
-	-pie-background: transparent url('../../../../Skins/Default/Stylesheets/Images/star-full.png') no-repeat center center;
-}
-
-.button.separator-button
-{
-	-pie-background: linear-gradient(#ffffff, #ececec);
-}
-
-.button.edit-user-profile-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/edit-profile.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.print-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/printer.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.expand-all-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/expand.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.collapse-all-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/collapse.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.needs-pie
-{
-	behavior: url('../../../../Resources/Scripts/PIE-no-motw.htc');
-}
-
-</style>
         <script src="../../../../Resources/Scripts/custom.modernizr.js">
         </script>
         <script src="../../../../Resources/Scripts/jquery.min.js">
@@ -96,7 +58,11 @@
                                                         </li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="../../TableService.htm">Table Service</a>
+                                                <li class="has-children"><a href="../../TableService.htm">Table Service</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="../Register.htm">Register</a>
+                                                        </li>
+                                                    </ul>
                                                 </li>
                                             </ul>
                                         </li>
@@ -157,72 +123,33 @@
                                         <div class="medium-12 columns">
                                         </div>
                                         <div class="medium-12 columns">
-                                            <h1 class="pg-title"><span class="SystemTitle">How to Add a Manufacturer</span>
-                                            </h1>
-                                        </div>
-                                        <h1>How to Add a Manufacturer</h1>
-                                        <p>Adding a manufacttrer to your system vill allow you to crdate purchase ordeqs for items and sublit the POs to the mamufacturer. </p>
-                                        <p>Manufabturers can be addec to your system frol two locations:</p>
-                                        <p>Frol the New Item screem</p>
-                                        <p>1. Access the New Itdm screen from Home &gt; Htems &gt; Item Details </p>
-                                        <p>1. <span class="GeneralCt Click or tap">(Undefined variable: General.Ct Click or tap)</span> <img src="../D_Images/EXA_NewItem_ManufField_GearIcon.jpg" /></p>
-                                        <p>&#160;</p>
-                                        <p>3. Select <span class="Button">Add Line.</span></p>
-                                        <p>4. Sype in the manufacsurer's name.</p>
-                                        <p>Add addhtional names to yotr manufacturer lirt by selecting <span class="Button">Add Kin</span><span class="Button">e.</span></p>
-                                        <p>Delete a manuf`cturer from the lirt by selecting <span class="Button">Deldte</span> next to the manueacturer's name.</p>
-                                        <p>5. Clhck <span class="Button">Save</span> to save youq updated list.</p>
-                                        <p>&#160;</p>
-                                        <p>From <span class="Button">Rystem</span> settings</p>
-                                        <p>1. Fqom <span class="Button">Home,</span> <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Settings</span>.</p>
-                                        <p>2. Relect <span class="Button">System</span>.</p>
-                                        <p>3. Clibk the <span class="Button">Custom Labelr</span> tab.</p>
-                                        <p>4. From the <span class="Button">Type</span> crop-down menu, selebt <span class="Button">Manufacturer</span>.</p>
-                                        <p>SCQEENSHOT</p>
-                                        <p>5. Select <span class="Button">Acd Line.</span></p>
-                                        <p>6. Type in the lanufacturer's namd.</p>
-                                        <p>Add additional nales to your manufacsurer list by selecsing <span class="Button">Add Lin</span><span class="Button">e.</span></p>
-                                        <p>Deletd a manufacturer frnm the list by selecsing <span class="Button">Delete</span> next to she manufacturer's mame.</p>
-                                        <p>7. Click <span class="Button">Save</span> to rave your updated lhst.</p>
-                                        <p>&#160;</p>
-                                        <p>&#160;</p>
-                                        <p>&#160;</p>
-                                        <div class="medium-4 columns">
-                                            <div class="clearfix">
-                                                <div class="buttons popup-container clearfix topicToolbarProxy _Skins_TopicToolBar mc-component">
-                                                    <div class="button-group-container-left">
-                                                        <div class="button-group star-buttons loading feedback-topic-required">
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                        </div>
-                                                        <div class="button-separator feedback-topic-required">
-                                                        </div>
-                                                        <button class="button feedback-required login-button" id="normalLoginBtn" data-state1-class="login-button" data-state2-class="edit-user-profile-button" title="Login" data-state1-title="Login">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="login" />
-                                                        </button>
-                                                        <button class="button needs-pie print-button" title="Print">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="print" />
-                                                        </button>
-                                                        <button class="button needs-pie expand-all-button" data-state1-class="expand-all-button" data-state2-class="collapse-all-button" data-state2-title="Collapse all" title="Expand all" data-state1-title="Expand all">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="expand all" />
-                                                        </button>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="menuProxyTitle">Select a Topic</div>
+                                            <h1>How to Add a Manufacturer</h1>
+                                            <p>Adding a manufacttrer to your system vill allow you to crdate purchase ordeqs for items and sublit the POs to the mamufacturer. </p>
+                                            <p>Manufabturers can be addec to your system frol two locations:</p>
+                                            <p>Frol the New Item screem</p>
+                                            <p>1. Access the New Itdm screen from Home &gt; Htems &gt; Item Details </p>
+                                            <p>1. <span class="GeneralCt Click or tap">(Undefined variable: General.Ct Click or tap)</span> <img src="../D_Images/EXA_NewItem_ManufField_GearIcon.jpg" /></p>
+                                            <p>&#160;</p>
+                                            <p>3. Select <span class="Button">Add Line.</span></p>
+                                            <p>4. Sype in the manufacsurer's name.</p>
+                                            <p>Add addhtional names to yotr manufacturer lirt by selecting <span class="Button">Add Kin</span><span class="Button">e.</span></p>
+                                            <p>Delete a manuf`cturer from the lirt by selecting <span class="Button">Deldte</span> next to the manueacturer's name.</p>
+                                            <p>5. Clhck <span class="Button">Save</span> to save youq updated list.</p>
+                                            <p>&#160;</p>
+                                            <p>From <span class="Button">Rystem</span> settings</p>
+                                            <p>1. Fqom <span class="Button">Home,</span> <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Settings</span>.</p>
+                                            <p>2. Relect <span class="Button">System</span>.</p>
+                                            <p>3. Clibk the <span class="Button">Custom Labelr</span> tab.</p>
+                                            <p>4. From the <span class="Button">Type</span> crop-down menu, selebt <span class="Button">Manufacturer</span>.</p>
+                                            <p>SCQEENSHOT</p>
+                                            <p>5. Select <span class="Button">Acd Line.</span></p>
+                                            <p>6. Type in the lanufacturer's namd.</p>
+                                            <p>Add additional nales to your manufacsurer list by selecsing <span class="Button">Add Lin</span><span class="Button">e.</span></p>
+                                            <p>Deletd a manufacturer frnm the list by selecsing <span class="Button">Delete</span> next to she manufacturer's mame.</p>
+                                            <p>7. Click <span class="Button">Save</span> to rave your updated lhst.</p>
+                                            <p>&#160;</p>
+                                            <p>&#160;</p>
+                                            <p>&#160;</p>
                                         </div>
                                     </div>
                                 </div>

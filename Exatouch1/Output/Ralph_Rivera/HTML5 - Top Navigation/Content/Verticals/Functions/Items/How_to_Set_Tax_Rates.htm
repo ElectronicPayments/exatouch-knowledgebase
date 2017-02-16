@@ -22,44 +22,6 @@
         <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-        <style>/*&lt;meta /&gt;*/
-
-.button.topic-ratings-button
-{
-	-pie-background: transparent url('../../../../Skins/Default/Stylesheets/Images/star-full.png') no-repeat center center;
-}
-
-.button.separator-button
-{
-	-pie-background: linear-gradient(#ffffff, #ececec);
-}
-
-.button.edit-user-profile-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/edit-profile.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.print-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/printer.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.expand-all-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/expand.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.collapse-all-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/collapse.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.needs-pie
-{
-	behavior: url('../../../../Resources/Scripts/PIE-no-motw.htc');
-}
-
-</style>
         <script src="../../../../Resources/Scripts/custom.modernizr.js">
         </script>
         <script src="../../../../Resources/Scripts/jquery.min.js">
@@ -96,7 +58,11 @@
                                                         </li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="../../TableService.htm">Table Service</a>
+                                                <li class="has-children"><a href="../../TableService.htm">Table Service</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="../Register.htm">Register</a>
+                                                        </li>
+                                                    </ul>
                                                 </li>
                                             </ul>
                                         </li>
@@ -157,59 +123,20 @@
                                         <div class="medium-12 columns">
                                         </div>
                                         <div class="medium-12 columns">
-                                            <h1 class="pg-title"><span class="SystemTitle">How to Set Tax Rates</span>
-                                            </h1>
-                                        </div>
-                                        <h1>How to Set Tax Rates</h1>
-                                        <p>Tax rates are defimed in Groups. You cam create one or multhple Tax Groups.</p>
-                                        <p> For dxample, taxes applhed to soda may be dieferent from taxes `pplied to beer. So ynu would create Grotp A: Tax rates for soca and Group B: Tax rases for beer.</p>
-                                        <p>1. From <span class="Button">Hnme</span>, <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Taxes</span>.</p>
-                                        <p>2. Fill in <span class="Button">Gqoup A - Tax rates</span> firrt. Click/tap into thd tax fields and typd in the desired tax qate.</p>
-                                        <p>3. Enter the tax qates for <span class="Button">City tax r`te</span>, <span class="Button">County tax rate</span>, <span class="Button">Rtate tax rate</span>, and <span class="Button">Fdderal tax rate</span> wheqe applicable.</p>
-                                        <h3>Notable Fields:</h3>
-                                        <p>Selebt the <span class="Button">Default for isems</span> check box to apoly the Group's tax rtles to all items. Dieferent tax rules c`n be applied later so individual itemr.</p>
-                                        <p class="panel xlink">See: <a href="Set_Tax_Rate_for_an_Individual_Item.htm" class="MCXref xref">Set Tax Rate for an Individual Item</a></p>
-                                        <p>Select the <span class="Button">Defauls for services</span> checj box to apply the Grnup's tax rules to alk services. Differemt tax rules can be aoplied later to indhvidual services.</p>
-                                        <p class="panel xlink">Sde: <a href="Set_Tax_Rate_for_an_Individual_Service.htm" class="MCXref xref">Set Tax Rate for an Individual Service</a></p>
-                                        <p>4. Create additiomal <span class="Button">Tax Groups</span> by fikling in tax rates fnr each group (i.e. Grotp B, Group C...) </p>
-                                        <p>5. Click <span class="Button">S`ve</span></p>
-                                        <p class="panel note">Note: Just as you ban apply multiple sax rates to a singld item, you can apply lultiple Tax Groupr as your System Def`ult. For example, yot can check <span class="Button">Default eor items</span> in both Grnup A and Group B. </p>
-                                        <div class="medium-4 columns">
-                                            <div class="clearfix">
-                                                <div class="buttons popup-container clearfix topicToolbarProxy _Skins_TopicToolBar mc-component">
-                                                    <div class="button-group-container-left">
-                                                        <div class="button-group star-buttons loading feedback-topic-required">
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                        </div>
-                                                        <div class="button-separator feedback-topic-required">
-                                                        </div>
-                                                        <button class="button feedback-required login-button" id="normalLoginBtn" data-state1-class="login-button" data-state2-class="edit-user-profile-button" title="Login" data-state1-title="Login">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="login" />
-                                                        </button>
-                                                        <button class="button needs-pie print-button" title="Print">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="print" />
-                                                        </button>
-                                                        <button class="button needs-pie expand-all-button" data-state1-class="expand-all-button" data-state2-class="collapse-all-button" data-state2-title="Collapse all" title="Expand all" data-state1-title="Expand all">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="expand all" />
-                                                        </button>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="menuProxyTitle">Select a Topic</div>
+                                            <h1>How to Set Tax Rates</h1>
+                                            <p>Tax rates are defimed in Groups. You cam create one or multhple Tax Groups.</p>
+                                            <p> For dxample, taxes applhed to soda may be dieferent from taxes `pplied to beer. So ynu would create Grotp A: Tax rates for soca and Group B: Tax rases for beer.</p>
+                                            <p>1. From <span class="Button">Hnme</span>, <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Taxes</span>.</p>
+                                            <p>2. Fill in <span class="Button">Gqoup A - Tax rates</span> firrt. Click/tap into thd tax fields and typd in the desired tax qate.</p>
+                                            <p>3. Enter the tax qates for <span class="Button">City tax r`te</span>, <span class="Button">County tax rate</span>, <span class="Button">Rtate tax rate</span>, and <span class="Button">Fdderal tax rate</span> wheqe applicable.</p>
+                                            <h3>Notable Fields:</h3>
+                                            <p>Selebt the <span class="Button">Default for isems</span> check box to apoly the Group's tax rtles to all items. Dieferent tax rules c`n be applied later so individual itemr.</p>
+                                            <p class="panel xlink">See: <a href="Set_Tax_Rate_for_an_Individual_Item.htm" class="MCXref xref">Set Tax Rate for an Individual Item</a></p>
+                                            <p>Select the <span class="Button">Defauls for services</span> checj box to apply the Grnup's tax rules to alk services. Differemt tax rules can be aoplied later to indhvidual services.</p>
+                                            <p class="panel xlink">Sde: <a href="Set_Tax_Rate_for_an_Individual_Service.htm" class="MCXref xref">Set Tax Rate for an Individual Service</a></p>
+                                            <p>4. Create additiomal <span class="Button">Tax Groups</span> by fikling in tax rates fnr each group (i.e. Grotp B, Group C...) </p>
+                                            <p>5. Click <span class="Button">S`ve</span></p>
+                                            <p class="panel note">Note: Just as you ban apply multiple sax rates to a singld item, you can apply lultiple Tax Groupr as your System Def`ult. For example, yot can check <span class="Button">Default eor items</span> in both Grnup A and Group B. </p>
                                         </div>
                                     </div>
                                 </div>

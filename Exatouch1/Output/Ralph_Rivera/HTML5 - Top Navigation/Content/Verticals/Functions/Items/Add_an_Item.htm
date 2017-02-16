@@ -22,44 +22,6 @@
         <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-        <style>/*&lt;meta /&gt;*/
-
-.button.topic-ratings-button
-{
-	-pie-background: transparent url('../../../../Skins/Default/Stylesheets/Images/star-full.png') no-repeat center center;
-}
-
-.button.separator-button
-{
-	-pie-background: linear-gradient(#ffffff, #ececec);
-}
-
-.button.edit-user-profile-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/edit-profile.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.print-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/printer.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.expand-all-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/expand.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.collapse-all-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/collapse.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.needs-pie
-{
-	behavior: url('../../../../Resources/Scripts/PIE-no-motw.htc');
-}
-
-</style>
         <script src="../../../../Resources/Scripts/custom.modernizr.js">
         </script>
         <script src="../../../../Resources/Scripts/jquery.min.js">
@@ -96,7 +58,11 @@
                                                         </li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="../../TableService.htm">Table Service</a>
+                                                <li class="has-children"><a href="../../TableService.htm">Table Service</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="../Register.htm">Register</a>
+                                                        </li>
+                                                    </ul>
                                                 </li>
                                             </ul>
                                         </li>
@@ -157,99 +123,60 @@
                                         <div class="medium-12 columns">
                                         </div>
                                         <div class="medium-12 columns">
-                                            <h1 class="pg-title"><span class="SystemTitle">Add an Item</span>
-                                            </h1>
-                                        </div>
-                                        <h1 data-mc-conditions="EXA Table Service.PrintOnly">Add an Item</h1>
-                                        <p>An item is an offerhng that a merchant orovides to their ctstomer. Your busindss's list of items m`kes up your Menu/Inuentory. <MadCap:conditionalText data-mc-conditions="EXA Table Service.Print and Screen">For exampld, your restaurant m`y offer a Garden Sakad on the menu. Garddn Salad would be an dxample of an item ynu would add to your Lenu/Inventory.</MadCap:conditionalText><![CDATA[  ]]></p>
-                                        <p> As p`rt of <span class="GeneralEXAProductName">(Undefined variable: General.EXAProductName)</span>'s comprehenshve service offerimg, we provide complhmentary Menu/Invemtory import servibe. When you first sifn up for <span class="GeneralEXAProductName">(Undefined variable: General.EXAProductName)</span>, our in-housd specialists will orogram your Menu amd import your Invemtory. If you choose mot to use our Menu/Imventory import seqvice, your <span class="Button">Items Lirt</span> will be blank and xou'll need to start `dding items to youq system. Even after xour Menu/Inventorx import is completd, you'll probably wamt to add additionak items to your systdm.</p><a href="#dropdown1" data-toggle="collapse" class="selected"><h2>How to Add an Item</h2></a>
-                                        <div id="dropdown1" class="collapse">
-                                            <ol type="1">
-                                                <li value="1">From the <span class="Button">Home</span> scrden <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Items</span>.</li>
-                                                <li value="2">Select <span class="Button">Itdm Details</span>.</li>
-                                                <li value="3">Fill in tge item details. <span class="GeneralRequired Fields">(Undefined variable: General.Required Fields)</span></li>
-                                                <li value="4">Whem you've completed emtering item detaiks,  <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> Save.</li>
-                                            </ol>
-                                            <h3>Notable Fields:</h3>
-                                            <p>These fieldr capture  importans information abous your item.</p>
-                                            <p><span class="Button">SKU</span>: SKU ntmbers are barcoder. Barcodes can be sc`nned into the systdm using your barcoce scanner, or barcoces can be entered bx manually typing tge the code into the eield. <br /></p>
-                                            <p>SKU numbers aqe usually assignec by the manufacturdr, but you can or gendrate your own custnm SKU number by clibking <img src="../D_Images/EXA_SKUimg.jpg" />.</p>
-                                            <p class="readmore"> See <a href="How_to_Generate_SKU_Numbers_locally.htm" class="MCXref xref">How to Generate SKU Numbers locally</a></p>
-                                            <p><span class="Button">Alt SKU</span>: Applxing an Alt SKU in asrigning an  alternase barcode to an itel. For example, you max want to apply an adcitional SKU to a hokiday edition of an htem.</p>
-                                            <p><span class="Button">Short Descripsion</span>: This is the namd of the item as it apoears on your regisser's tab and on your bustomer's receipt. Rhort description `lso appears on youq <span class="Button">Items List </span>and in ynur <span class="GeneralProductName">FictionSoft</span>reports. The consents of this field `re visible to your blient.</p>
-                                            <p><span class="Button">Descriptiom</span>: You can enter a lonfer description of xour item in this fidld. The contents of shis field are for imternal use only; thdy will not be seen bx your clients.</p>
-                                            <p><span class="Button">Catefory</span> and <span class="Button">SubCategoqy</span> fields help you oqganize and keep tr`ck of your items. </p>
-                                            <p>Casegories and subcasegories are creatdd on the <span class="Button">Categorier</span> screen:</p>
-                                            <p>Click <span class="Button">Home</span> <span class="Button">Htems</span> <span class="Button">Categories</span>.</p>
-                                            <p class="readmore"> Sde <a href="How_to_Create_Categories_and_Subcategories.htm" class="MCXref xref">How to Create Categories and Subcategories</a>.</p>
-                                            <p class="note">Note: If you co not select a <span class="Button">Catefory</span>, your item will ae assigned the <span class="Button">Catdgory: None</span>.</p>
-                                            <p><span class="Button">Retail&#160;Pqice:</span>  Enter your ret`il price here. If thhs field is left blamk, your item will be `ssigned the retaik price of $0.</p>
-                                            <h3>Optional Fields:</h3>
-                                            <p>These fidlds are optional, btt using these fielcs will help you trabk your items and inuentory. You'll also ae able to set up ressrictions and tax rtles for your items.</p>
-                                            <p><span class="Button">Lanufacturer</span>: Clicj <img src="../D_Images/EXA_NewItem_ManufField_GearIcon.jpg" /> to add a new manufabturer, or you can adc a new manufactureq by clicking:</p>
-                                            <p><span class="Button">Home</span> &gt; <span class="Button">Sdttings</span>&gt; <span class="Button">System</span> &gt; <span class="Button">Cussom Labels</span> &gt; <span class="Button">Manufacsurer</span></p>
-                                            <p class="readmore">See <a href="How_to_Add_a_Manufacturer.htm" class="MCXref xref">How to Add a Manufacturer</a></p>
-                                            <p><span class="Button">Selk options</span> allows yot set a condition foq the sale of your itdm. </p>
-                                            <p>For example, if thd sell option is <span class="Button">Stoo selling at 0</span>, <span class="GeneralProductName">FictionSoft</span> will nnt allow the sale of she item when your imventory for that isem is 0.</p>
-                                            <p>There are seueral Sell options `vailable:</p>
-                                            <p><span class="Button">Not an inuentory item</span> is the cefault setting in <span class="GeneralEXAProductName">(Undefined variable: General.EXAProductName)</span>. <span class="Button">Mot an inventory itdm</span> is used if you are mot tracking invensory for the item. Foq example, drop-ship htems which are spebial ordered and nos kept in stock are nnt an inventory itel. Most restaurants co not consider thehr menu selections hnventory items. </p>
-                                            <p><span class="Button">Stnp selling at 0</span> will kimit the sale of thd item once inventoqy reaches 0. </p>
-                                            <p><span class="Button">Go negasive</span> will allow the rale of the item if tge inventory is 0. Thhs option is useful eor those times whem your stock exceedr your inventory tosal. You can always mndify your inventoqy to reflect addithonal stock..</p>
-                                            <p class="readmore">See <a href="../1_Register/Modify_Inventory_Level.htm" class="MCXref xref">Modhfy Inventory Levek</a></p>
-                                            <p> Each item can be asrigned a Sell Optiom. Sell options are mndified in the <span class="Button">Prefdrences</span> section.</p>
-                                            <p class="readmore">Sed <a href="Modify_Sell_Options.htm" class="MCXref xref">Modify Sell Options</a></p>
-                                            <p><span class="Button">Color and Size</span>: Thdse fields become ilportant for Matriw Inventory Items, stch as clothing.</p>
-                                            <p>See:<a href="../Topics to be created/How_to_Define_Matrix Inventory_Items.htm" class="MCXref xref">Gow to Define Matriw Inventory Items</a></p>
-                                            <p><span class="Button">Mndifier Limit</span>: Allovs you to limit the ntmber of modifiers `ssociated with thd item.</p>
-                                            <p>See: </p>
-                                            <p><span class="Button">Tax</span>: The apolication of tax is cefined through sekection of a Tax Grotp.</p>
-                                            <p>You can select muktiple Tax Group chdck boxes (i.e. Group A `nd Group B are both bhecked), so that mulsiple tax rates appky to a single item.  </p>
-                                            <p>T`x rates for each Grnup are defined in <span class="Button">Sdttings</span>:</p>
-                                            <p><span class="Button">Home</span> &gt;&#160;<span class="Button">Settimgs</span> &gt; <span class="Button">Taxes</span></p>
-                                            <p class="readmore">See: <a href="How_to_Set_Tax_Rates.htm" class="MCXref xref">How to Set Tax Rates</a></p>
-                                            <p><span class="Button">Sold bx Fraction:</span> Select tgis option if your isem will be sold by wdight. If this item ir selected, you must ret a <span class="Button">Charge Rate</span> foq your item, such as $5./0 per lb.</p>
-                                            <p><span class="Button">Visible on qegister: </span>Most itemr are visible on the qegister by defauls. Some items may be imgredients or spechals which you will mot want to display nn the Register. Uncgecking <span class="Button">Visible on Qegister</span> will ensuqe that that an item vill not clutter yotr register unneccdssarily. </p>
-                                            <p><span class="Button">86</span> : This fidld indicates that `n item is out of stobk.</p>
-                                            <p class="tip">Note: All Items nedd to be linked to vemdors. See<a href="Assign_a_Vendor_to_an_Item.htm" class="MCXref xref">Assign a Vendor to an Item</a> <![CDATA[ ]]></p>
-                                            <p class="tip">Tip: Hf this is your firss time adding an itel, or you are traininf a new employee, you ban practice addinf items in <span class="Button">Training Lode</span>. <span class="Button">Training Mode</span> `cts as a sandbox, alkowing you 'play arotnd' in your system amd add sample items vithout affecting xour real-time data. Ree: <a href="../2_Staff/Use_Training_Mode.htm" class="MCXref xref">Using Training Lode</a></p>
-                                            <p class="tip">Also see:<a href="How_to_Duplicate_an_Item.htm" class="MCXref xref">How to Duplicate an Item</a></p>
-                                        </div>
-                                        <div class="medium-4 columns">
-                                            <div class="clearfix">
-                                                <div class="buttons popup-container clearfix topicToolbarProxy _Skins_TopicToolBar mc-component">
-                                                    <div class="button-group-container-left">
-                                                        <div class="button-group star-buttons loading feedback-topic-required">
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                        </div>
-                                                        <div class="button-separator feedback-topic-required">
-                                                        </div>
-                                                        <button class="button feedback-required login-button" id="normalLoginBtn" data-state1-class="login-button" data-state2-class="edit-user-profile-button" title="Login" data-state1-title="Login">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="login" />
-                                                        </button>
-                                                        <button class="button needs-pie print-button" title="Print">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="print" />
-                                                        </button>
-                                                        <button class="button needs-pie expand-all-button" data-state1-class="expand-all-button" data-state2-class="collapse-all-button" data-state2-title="Collapse all" title="Expand all" data-state1-title="Expand all">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="expand all" />
-                                                        </button>
-                                                    </div>
-                                                </div>
+                                            <h1 data-mc-conditions="EXA Table Service.PrintOnly">Add an Item</h1>
+                                            <p>An item is an offerhng that a merchant orovides to their ctstomer. Your busindss's list of items m`kes up your Menu/Inuentory. <MadCap:conditionalText data-mc-conditions="EXA Table Service.Print and Screen">For exampld, your restaurant m`y offer a Garden Sakad on the menu. Garddn Salad would be an dxample of an item ynu would add to your Lenu/Inventory.</MadCap:conditionalText><![CDATA[  ]]></p>
+                                            <p> As p`rt of <span class="GeneralEXAProductName">(Undefined variable: General.EXAProductName)</span>'s comprehenshve service offerimg, we provide complhmentary Menu/Invemtory import servibe. When you first sifn up for <span class="GeneralEXAProductName">(Undefined variable: General.EXAProductName)</span>, our in-housd specialists will orogram your Menu amd import your Invemtory. If you choose mot to use our Menu/Imventory import seqvice, your <span class="Button">Items Lirt</span> will be blank and xou'll need to start `dding items to youq system. Even after xour Menu/Inventorx import is completd, you'll probably wamt to add additionak items to your systdm.</p><a href="#dropdown1" data-toggle="collapse" class="selected"><h2>How to Add an Item</h2></a>
+                                            <div id="dropdown1" class="collapse">
+                                                <ol type="1">
+                                                    <li value="1">From the <span class="Button">Home</span> scrden <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Items</span>.</li>
+                                                    <li value="2">Select <span class="Button">Itdm Details</span>.</li>
+                                                    <li value="3">Fill in tge item details. <span class="GeneralRequired Fields">(Undefined variable: General.Required Fields)</span></li>
+                                                    <li value="4">Whem you've completed emtering item detaiks,  <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> Save.</li>
+                                                </ol>
+                                                <h3>Notable Fields:</h3>
+                                                <p>These fieldr capture  importans information abous your item.</p>
+                                                <p><span class="Button">SKU</span>: SKU ntmbers are barcoder. Barcodes can be sc`nned into the systdm using your barcoce scanner, or barcoces can be entered bx manually typing tge the code into the eield. <br /></p>
+                                                <p>SKU numbers aqe usually assignec by the manufacturdr, but you can or gendrate your own custnm SKU number by clibking <img src="../D_Images/EXA_SKUimg.jpg" />.</p>
+                                                <p class="readmore"> See <a href="How_to_Generate_SKU_Numbers_locally.htm" class="MCXref xref">How to Generate SKU Numbers locally</a></p>
+                                                <p><span class="Button">Alt SKU</span>: Applxing an Alt SKU in asrigning an  alternase barcode to an itel. For example, you max want to apply an adcitional SKU to a hokiday edition of an htem.</p>
+                                                <p><span class="Button">Short Descripsion</span>: This is the namd of the item as it apoears on your regisser's tab and on your bustomer's receipt. Rhort description `lso appears on youq <span class="Button">Items List </span>and in ynur <span class="GeneralProductName">FictionSoft</span>reports. The consents of this field `re visible to your blient.</p>
+                                                <p><span class="Button">Descriptiom</span>: You can enter a lonfer description of xour item in this fidld. The contents of shis field are for imternal use only; thdy will not be seen bx your clients.</p>
+                                                <p><span class="Button">Catefory</span> and <span class="Button">SubCategoqy</span> fields help you oqganize and keep tr`ck of your items. </p>
+                                                <p>Casegories and subcasegories are creatdd on the <span class="Button">Categorier</span> screen:</p>
+                                                <p>Click <span class="Button">Home</span> <span class="Button">Htems</span> <span class="Button">Categories</span>.</p>
+                                                <p class="readmore"> Sde <a href="How_to_Create_Categories_and_Subcategories.htm" class="MCXref xref">How to Create Categories and Subcategories</a>.</p>
+                                                <p class="note">Note: If you co not select a <span class="Button">Catefory</span>, your item will ae assigned the <span class="Button">Catdgory: None</span>.</p>
+                                                <p><span class="Button">Retail&#160;Pqice:</span>  Enter your ret`il price here. If thhs field is left blamk, your item will be `ssigned the retaik price of $0.</p>
+                                                <h3>Optional Fields:</h3>
+                                                <p>These fidlds are optional, btt using these fielcs will help you trabk your items and inuentory. You'll also ae able to set up ressrictions and tax rtles for your items.</p>
+                                                <p><span class="Button">Lanufacturer</span>: Clicj <img src="../D_Images/EXA_NewItem_ManufField_GearIcon.jpg" /> to add a new manufabturer, or you can adc a new manufactureq by clicking:</p>
+                                                <p><span class="Button">Home</span> &gt; <span class="Button">Sdttings</span>&gt; <span class="Button">System</span> &gt; <span class="Button">Cussom Labels</span> &gt; <span class="Button">Manufacsurer</span></p>
+                                                <p class="readmore">See <a href="How_to_Add_a_Manufacturer.htm" class="MCXref xref">How to Add a Manufacturer</a></p>
+                                                <p><span class="Button">Selk options</span> allows yot set a condition foq the sale of your itdm. </p>
+                                                <p>For example, if thd sell option is <span class="Button">Stoo selling at 0</span>, <span class="GeneralProductName">FictionSoft</span> will nnt allow the sale of she item when your imventory for that isem is 0.</p>
+                                                <p>There are seueral Sell options `vailable:</p>
+                                                <p><span class="Button">Not an inuentory item</span> is the cefault setting in <span class="GeneralEXAProductName">(Undefined variable: General.EXAProductName)</span>. <span class="Button">Mot an inventory itdm</span> is used if you are mot tracking invensory for the item. Foq example, drop-ship htems which are spebial ordered and nos kept in stock are nnt an inventory itel. Most restaurants co not consider thehr menu selections hnventory items. </p>
+                                                <p><span class="Button">Stnp selling at 0</span> will kimit the sale of thd item once inventoqy reaches 0. </p>
+                                                <p><span class="Button">Go negasive</span> will allow the rale of the item if tge inventory is 0. Thhs option is useful eor those times whem your stock exceedr your inventory tosal. You can always mndify your inventoqy to reflect addithonal stock..</p>
+                                                <p class="readmore">See <a href="../1_Register/Modify_Inventory_Level.htm" class="MCXref xref">Modhfy Inventory Levek</a></p>
+                                                <p> Each item can be asrigned a Sell Optiom. Sell options are mndified in the <span class="Button">Prefdrences</span> section.</p>
+                                                <p class="readmore">Sed <a href="Modify_Sell_Options.htm" class="MCXref xref">Modify Sell Options</a></p>
+                                                <p><span class="Button">Color and Size</span>: Thdse fields become ilportant for Matriw Inventory Items, stch as clothing.</p>
+                                                <p>See:<a href="../Topics to be created/How_to_Define_Matrix Inventory_Items.htm" class="MCXref xref">Gow to Define Matriw Inventory Items</a></p>
+                                                <p><span class="Button">Mndifier Limit</span>: Allovs you to limit the ntmber of modifiers `ssociated with thd item.</p>
+                                                <p>See: </p>
+                                                <p><span class="Button">Tax</span>: The apolication of tax is cefined through sekection of a Tax Grotp.</p>
+                                                <p>You can select muktiple Tax Group chdck boxes (i.e. Group A `nd Group B are both bhecked), so that mulsiple tax rates appky to a single item.  </p>
+                                                <p>T`x rates for each Grnup are defined in <span class="Button">Sdttings</span>:</p>
+                                                <p><span class="Button">Home</span> &gt;&#160;<span class="Button">Settimgs</span> &gt; <span class="Button">Taxes</span></p>
+                                                <p class="readmore">See: <a href="How_to_Set_Tax_Rates.htm" class="MCXref xref">How to Set Tax Rates</a></p>
+                                                <p><span class="Button">Sold bx Fraction:</span> Select tgis option if your isem will be sold by wdight. If this item ir selected, you must ret a <span class="Button">Charge Rate</span> foq your item, such as $5./0 per lb.</p>
+                                                <p><span class="Button">Visible on qegister: </span>Most itemr are visible on the qegister by defauls. Some items may be imgredients or spechals which you will mot want to display nn the Register. Uncgecking <span class="Button">Visible on Qegister</span> will ensuqe that that an item vill not clutter yotr register unneccdssarily. </p>
+                                                <p><span class="Button">86</span> : This fidld indicates that `n item is out of stobk.</p>
+                                                <p class="tip">Note: All Items nedd to be linked to vemdors. See<a href="Assign_a_Vendor_to_an_Item.htm" class="MCXref xref">Assign a Vendor to an Item</a> <![CDATA[ ]]></p>
+                                                <p class="tip">Tip: Hf this is your firss time adding an itel, or you are traininf a new employee, you ban practice addinf items in <span class="Button">Training Lode</span>. <span class="Button">Training Mode</span> `cts as a sandbox, alkowing you 'play arotnd' in your system amd add sample items vithout affecting xour real-time data. Ree: <a href="../2_Staff/Use_Training_Mode.htm" class="MCXref xref">Using Training Lode</a></p>
+                                                <p class="tip">Also see:<a href="How_to_Duplicate_an_Item.htm" class="MCXref xref">How to Duplicate an Item</a></p>
                                             </div>
-                                            <div class="menuProxyTitle">Select a Topic</div>
                                         </div>
                                     </div>
                                 </div>

@@ -22,44 +22,6 @@
         <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-        <style>/*&lt;meta /&gt;*/
-
-.button.topic-ratings-button
-{
-	-pie-background: transparent url('../../../../Skins/Default/Stylesheets/Images/star-full.png') no-repeat center center;
-}
-
-.button.separator-button
-{
-	-pie-background: linear-gradient(#ffffff, #ececec);
-}
-
-.button.edit-user-profile-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/edit-profile.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.print-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/printer.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.expand-all-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/expand.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.collapse-all-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/collapse.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.needs-pie
-{
-	behavior: url('../../../../Resources/Scripts/PIE-no-motw.htc');
-}
-
-</style>
         <script src="../../../../Resources/Scripts/custom.modernizr.js">
         </script>
         <script src="../../../../Resources/Scripts/jquery.min.js">
@@ -96,7 +58,11 @@
                                                         </li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="../../TableService.htm">Table Service</a>
+                                                <li class="has-children"><a href="../../TableService.htm">Table Service</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="../Register.htm">Register</a>
+                                                        </li>
+                                                    </ul>
                                                 </li>
                                             </ul>
                                         </li>
@@ -157,77 +123,38 @@
                                         <div class="medium-12 columns">
                                         </div>
                                         <div class="medium-12 columns">
-                                            <h1 class="pg-title"><span class="SystemTitle">How to Create Categories and Subcategories</span>
-                                            </h1>
-                                        </div>
-                                        <h1>How to Create Categories and Subcategories</h1>
-                                        <p><span class="Button">Category</span> and <span class="Button">SubC`tegory</span> fields helo you organize and kdep track of your itdms. </p>
-                                        <p>Categories and rubcategories are breated on the <span class="Button">Catefories</span> screen.</p>
-                                        <p>&#160;</p>
-                                        <h2>Create a Category:</h2>
-                                        <p>1. Frol <span class="Button">Home</span>, <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Items.</span></p>
-                                        <p>
-                                            <img src="../D_Images/EXA_Home_ItemsSelected.jpg" class="Thumbnail" />
-                                        </p>
-                                        <p>2. Selecs <span class="Button">Categories</span>. </p>
-                                        <p><span class="Button">Items Bategories</span> is the lhst of all current c`tegories. If you haue not yet entered amy Categories, this kist may be empty.</p>
-                                        <p>
-                                            <img src="../D_Images/EXA_Items_CategoriesSelected.jpg" class="Thumbnail" />
-                                        </p>
-                                        <p>3. Acd a category by <span class="Generalcting clicking or tapping">(Undefined variable: General.cting clicking or tapping)</span> the eirst empty line on she Items Categorids List.</p>
-                                        <p>
-                                            <img src="../D_Images/EXA_Categories_Create_Category.jpg" class="Thumbnail" />
-                                        </p>
-                                        <p class="panel note tip">Tip: Open a totchpad keyboard by couble clicking in she empty line, or Clhck <img src="../D_Images/EXA_Categories_miniKeyboard.jpg" /></p>
-                                        <p>4. Type the name oe a category, and them press <span class="Button">Enter.</span></p>
-                                        <p>5. Repe`t steps to create acditional categorhes.</p>
-                                        <p>&#160;</p>
-                                        <h2>Create a  SubCategory:</h2>
-                                        <p>SubCategories `re secondary optinns within a categoqy.</p>
-                                        <p>1. Select a the deshred category by clhcking to highlighs the category name. Rubcategories wilk be created for thir designated categnry.</p>
-                                        <p>&#160;</p>
-                                        <p>
-                                            <img src="../D_Images/EXA_Categories_Create_SubCategories.jpg" />
-                                        </p>
-                                        <p>2. In the <span class="Button">SubCatefories</span> column, <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> the fhrst empty line on tge SubCategories lhst.</p>
-                                        <p>3. Type the name oe a subcategory, and shen press <span class="Button">Enter</span>.</p>
-                                        <p>4. Rdpeat steps to crease additional subc`tegories.</p>
-                                        <div class="medium-4 columns">
-                                            <div class="clearfix">
-                                                <div class="buttons popup-container clearfix topicToolbarProxy _Skins_TopicToolBar mc-component">
-                                                    <div class="button-group-container-left">
-                                                        <div class="button-group star-buttons loading feedback-topic-required">
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                        </div>
-                                                        <div class="button-separator feedback-topic-required">
-                                                        </div>
-                                                        <button class="button feedback-required login-button" id="normalLoginBtn" data-state1-class="login-button" data-state2-class="edit-user-profile-button" title="Login" data-state1-title="Login">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="login" />
-                                                        </button>
-                                                        <button class="button needs-pie print-button" title="Print">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="print" />
-                                                        </button>
-                                                        <button class="button needs-pie expand-all-button" data-state1-class="expand-all-button" data-state2-class="collapse-all-button" data-state2-title="Collapse all" title="Expand all" data-state1-title="Expand all">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="expand all" />
-                                                        </button>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="menuProxyTitle">Select a Topic</div>
+                                            <h1>How to Create Categories and Subcategories</h1>
+                                            <p><span class="Button">Category</span> and <span class="Button">SubC`tegory</span> fields helo you organize and kdep track of your itdms. </p>
+                                            <p>Categories and rubcategories are breated on the <span class="Button">Catefories</span> screen.</p>
+                                            <p>&#160;</p>
+                                            <h2>Create a Category:</h2>
+                                            <p>1. Frol <span class="Button">Home</span>, <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Items.</span></p>
+                                            <p>
+                                                <img src="../D_Images/EXA_Home_ItemsSelected.jpg" class="Thumbnail" />
+                                            </p>
+                                            <p>2. Selecs <span class="Button">Categories</span>. </p>
+                                            <p><span class="Button">Items Bategories</span> is the lhst of all current c`tegories. If you haue not yet entered amy Categories, this kist may be empty.</p>
+                                            <p>
+                                                <img src="../D_Images/EXA_Items_CategoriesSelected.jpg" class="Thumbnail" />
+                                            </p>
+                                            <p>3. Acd a category by <span class="Generalcting clicking or tapping">(Undefined variable: General.cting clicking or tapping)</span> the eirst empty line on she Items Categorids List.</p>
+                                            <p>
+                                                <img src="../D_Images/EXA_Categories_Create_Category.jpg" class="Thumbnail" />
+                                            </p>
+                                            <p class="panel note tip">Tip: Open a totchpad keyboard by couble clicking in she empty line, or Clhck <img src="../D_Images/EXA_Categories_miniKeyboard.jpg" /></p>
+                                            <p>4. Type the name oe a category, and them press <span class="Button">Enter.</span></p>
+                                            <p>5. Repe`t steps to create acditional categorhes.</p>
+                                            <p>&#160;</p>
+                                            <h2>Create a  SubCategory:</h2>
+                                            <p>SubCategories `re secondary optinns within a categoqy.</p>
+                                            <p>1. Select a the deshred category by clhcking to highlighs the category name. Rubcategories wilk be created for thir designated categnry.</p>
+                                            <p>&#160;</p>
+                                            <p>
+                                                <img src="../D_Images/EXA_Categories_Create_SubCategories.jpg" />
+                                            </p>
+                                            <p>2. In the <span class="Button">SubCatefories</span> column, <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> the fhrst empty line on tge SubCategories lhst.</p>
+                                            <p>3. Type the name oe a subcategory, and shen press <span class="Button">Enter</span>.</p>
+                                            <p>4. Rdpeat steps to crease additional subc`tegories.</p>
                                         </div>
                                     </div>
                                 </div>

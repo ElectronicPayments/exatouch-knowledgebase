@@ -146,7 +146,7 @@ ul.menu._Skins_SideMenu.mc-component li > a {
 	font-weight: 700;
 }
 
-a.MCBreadcrumbsLink:hover{
+a.MCBreadcrumbsLink:hover, a.xref:hover{
 	color: #3b77bb;
 }
 
@@ -186,6 +186,8 @@ div.MCMiniTocBox_0 a{
 	padding: 20px;
 	background-color: #e7e7e7;
 	font-style: italic;
+	font-weight: 300;
+	font-size: .85em;
 }
 
 .mc-component{
@@ -246,14 +248,19 @@ ul.menu._Skins_SideMenu.mc-component li > a.selected:hover{
 	background-color: #cacaca;
 }
 
+@media only screen and (min-width : 767px){
+    .menuProxyTitle{
+		background: #3b77bb;
+    	display: block !important;
+    	padding: 10px;
+    	font-family: 'Roboto Condensed';
+    	color: #fff;
+    	font-weight: 700;
+    	text-transform: uppercase;
+	}
+}
 .menuProxyTitle{
-	background: #3b77bb;
-    display: block;
-    padding: 10px;
-    font-family: 'Roboto Condensed';
-    color: #fff;
-    font-weight: 700;
-    text-transform: uppercase;
+    display: none;
 }
 .relatedTopics{
 	font-family: 'Roboto Condensed';
@@ -307,7 +314,7 @@ ul.menu._Skins_SideMenu.mc-component li > a.selected:hover{
 	margin:0px;
 }
 
-.description{
+.summary{
 	margin-top: -15px;
     margin-bottom: 50px;
     color: #777;
@@ -316,6 +323,7 @@ ul.menu._Skins_SideMenu.mc-component li > a.selected:hover{
 
 .steps{
 	color:#727272;
+	padding-left: 15px;
 }
 
 .Button{
@@ -367,8 +375,10 @@ p.note, p.tip{
 	position: relative;
 	font-size: .85em;
 }
-.note{
+p.note{
 	background-color: cornsilk;
+	padding: 20px;
+    border: thin solid #e7e7e7;
 }
 
 p.note i{
@@ -390,4 +400,32 @@ p.tip i, p.note i {
     top: 5px;
 	padding-right: 5px;
 	font-size: 1.3em;
+}
+
+a.MiniTOC1:link, a.MiniTOC1:visited {
+	color: #3b77bb;
+    text-decoration: underline;
+}
+
+p.MiniTOC1_0 {
+	margin: 10px 0px;
+}
+
+#mc-background-tint{
+    opacity: 0.85 !important;
+    background-color: #3b77bb;
+	z-index: 2;
+}
+
+.navigation-wrapper {
+    float: right;
+    display: none;
+}
+
+.tab-bar-section.middle {
+    width: 100%;
+    left: 0;
+    right: 0;
+    height: auto;
+    min-height: 3em;
 }

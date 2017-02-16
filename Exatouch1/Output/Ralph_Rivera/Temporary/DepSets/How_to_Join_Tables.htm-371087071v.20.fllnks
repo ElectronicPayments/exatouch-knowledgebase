@@ -3,10 +3,13 @@
   FileTitle=""
   FileLanguage="en-us"
   FileSearchable="true"
+  MasterPage="file:///C:/Users/Ralph Rivera/Documents/GitHub/exatouch-knowledgebase/Exatouch1/Content/Resources/MasterPages/HelpTopicHolder.flmsp"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
+    <Link
+      Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
     <Link
       Url="Content/Verticals/Functions/D_Images/EXA_FloorPlan_JoinTables1.jpg" />
     <Link
@@ -21,6 +24,8 @@
       Url="Project/VariableSets/General.flvar" />
   </Links>
   <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
     <Link
       Url="Content/Verticals/Functions/D_Images/EXA_FloorPlan_JoinTables1.jpg" />
     <Link

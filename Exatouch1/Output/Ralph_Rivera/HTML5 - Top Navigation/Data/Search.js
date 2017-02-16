@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],u:['../Content/A_Introduction Topics/Basic Steps.htm'],s:['$0','modifi'],p:[['$0',43],['close',9],['how',53],['orint',4],['system',43]]});
+define({r:0.5,st:'Stem',n:1,t:[0],u:['../Content/A_Introduction Topics/Basic Steps.htm'],s:['$0','modul'],p:[['$0',48],['clubs',37],['hs',46],['otheq',56],['system',43]]});

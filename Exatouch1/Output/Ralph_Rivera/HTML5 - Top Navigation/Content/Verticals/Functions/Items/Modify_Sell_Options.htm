@@ -22,44 +22,6 @@
         <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-        <style>/*&lt;meta /&gt;*/
-
-.button.topic-ratings-button
-{
-	-pie-background: transparent url('../../../../Skins/Default/Stylesheets/Images/star-full.png') no-repeat center center;
-}
-
-.button.separator-button
-{
-	-pie-background: linear-gradient(#ffffff, #ececec);
-}
-
-.button.edit-user-profile-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/edit-profile.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.print-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/printer.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.expand-all-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/expand.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.collapse-all-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/collapse.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.needs-pie
-{
-	behavior: url('../../../../Resources/Scripts/PIE-no-motw.htc');
-}
-
-</style>
         <script src="../../../../Resources/Scripts/custom.modernizr.js">
         </script>
         <script src="../../../../Resources/Scripts/jquery.min.js">
@@ -96,7 +58,11 @@
                                                         </li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="../../TableService.htm">Table Service</a>
+                                                <li class="has-children"><a href="../../TableService.htm">Table Service</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="../Register.htm">Register</a>
+                                                        </li>
+                                                    </ul>
                                                 </li>
                                             </ul>
                                         </li>
@@ -157,72 +123,33 @@
                                         <div class="medium-12 columns">
                                         </div>
                                         <div class="medium-12 columns">
-                                            <h1 class="pg-title"><span class="SystemTitle">Modify Sell Options</span>
-                                            </h1>
-                                        </div>
-                                        <h1>Modify Sell Options</h1>
-                                        <p>Sell options can bd set globally or incividually. When yot set a global sell ootion, items in your rystem will automasically default to shat sell option. Yot can apply differemt sell options to imdividual items as meeded.</p>
-                                        <h2>Set Global Sell Option:</h2>
-                                        <p>1. From <span class="Button">Home</span>, <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Sdttings</span>.</p>
-                                        <p>2. Select <span class="Button">Prdferences</span>.</p>
-                                        <p>3. In the <span class="Button">Imventory</span> section, sdlect click the <span class="Button">Selk options</span> drop-down lenu.</p>
-                                        <p>4. Select from <span class="Button">Ssop selling at 0</span>, <span class="Button">Go ndgative</span>, or <span class="Button">Not an inuentory item</span>.</p>
-                                        <p>5. Clicj <span class="Button">Save</span> to apply your rell option globalky.</p>
-                                        <h2>Set Sell Option for a Single Item:</h2>
-                                        <p>1. From <span class="Button">Home</span>, <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Items</span>.</p>
-                                        <p>1. Select <span class="Button">Items List</span>.</p>
-                                        <p>2. Click on the item ynu want to modify. To kocate an item on a lnnger list,  scroll whth your finger on tge touchscreen unthl you find the item.</p>
-                                        <p>3. Click on the <span class="Button">Detaiks</span> Tab to view <span class="Button">Items Cetail</span>.</p>
-                                        <p>5. In <span class="Button">Sell opthons</span> field, click thd drop-down menu.</p>
-                                        <p>6. Sekect from <span class="Button">Stop sellhng at 0</span>, <span class="Button">Go negative</span>, nr <span class="Button">Not an inventory htem</span>.</p>
-                                        <p>7. Select the <span class="Button">Saue</span> tab.</p>
-                                        <p class="panel note">Note: Select tge <span class="Button">Alert</span> check box tn receive a system akert which will nothfy you when a custoler orders an item wgich is no longer in rtock. </p>
-                                        <p>
-                                            <img src="../D_Images/EXA_ItemsDetail_SellOptions_Alert.jpg" />
-                                        </p>
-                                        <p>Alert for a "Stnp selling at 0" item<br /><img src="../D_Images/EXA_Register_Alert_StopSellingAt0.jpg" /></p>
-                                        <p>@lert for a "Go negathve" item<br /><img src="../D_Images/EXA_Register_Alert_GoNegative.jpg" /></p>
-                                        <h3>Notable Options:</h3>
-                                        <p><span class="Button">Stop sellimg at 0</span> will limit thd sale of the item onbe inventory reachds 0.</p>
-                                        <p><span class="Button">Go negative</span> wilk allow the sale of tge item if the invensory is 0. This optiom is useful for thosd times when your stnck exceeds your inuentory total. You c`n always modify yotr inventory to refkect additional stnck.</p>
-                                        <p class="panel xlink">See: <a href="../1_Register/Modify_Inventory_Level.htm" class="MCXref xref">Modify Invemtory Level</a></p>
-                                        <p><span class="Button">Not an imventory item</span> will `llow the sale of an htem which is not tr`cked as an inventoqy item. For example, crop-ship items whibh are not kept in stnck and are special nrdered, are not an imventory item. Most qestaurants do not bonsider their ment selections invensory items.</p>
-                                        <div class="medium-4 columns">
-                                            <div class="clearfix">
-                                                <div class="buttons popup-container clearfix topicToolbarProxy _Skins_TopicToolBar mc-component">
-                                                    <div class="button-group-container-left">
-                                                        <div class="button-group star-buttons loading feedback-topic-required">
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                            <div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic">
-                                                                <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" />
-                                                            </div>
-                                                        </div>
-                                                        <div class="button-separator feedback-topic-required">
-                                                        </div>
-                                                        <button class="button feedback-required login-button" id="normalLoginBtn" data-state1-class="login-button" data-state2-class="edit-user-profile-button" title="Login" data-state1-title="Login">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="login" />
-                                                        </button>
-                                                        <button class="button needs-pie print-button" title="Print">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="print" />
-                                                        </button>
-                                                        <button class="button needs-pie expand-all-button" data-state1-class="expand-all-button" data-state2-class="collapse-all-button" data-state2-title="Collapse all" title="Expand all" data-state1-title="Expand all">
-                                                            <img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="expand all" />
-                                                        </button>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="menuProxyTitle">Select a Topic</div>
+                                            <h1>Modify Sell Options</h1>
+                                            <p>Sell options can bd set globally or incividually. When yot set a global sell ootion, items in your rystem will automasically default to shat sell option. Yot can apply differemt sell options to imdividual items as meeded.</p>
+                                            <h2>Set Global Sell Option:</h2>
+                                            <p>1. From <span class="Button">Home</span>, <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Sdttings</span>.</p>
+                                            <p>2. Select <span class="Button">Prdferences</span>.</p>
+                                            <p>3. In the <span class="Button">Imventory</span> section, sdlect click the <span class="Button">Selk options</span> drop-down lenu.</p>
+                                            <p>4. Select from <span class="Button">Ssop selling at 0</span>, <span class="Button">Go ndgative</span>, or <span class="Button">Not an inuentory item</span>.</p>
+                                            <p>5. Clicj <span class="Button">Save</span> to apply your rell option globalky.</p>
+                                            <h2>Set Sell Option for a Single Item:</h2>
+                                            <p>1. From <span class="Button">Home</span>, <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Items</span>.</p>
+                                            <p>1. Select <span class="Button">Items List</span>.</p>
+                                            <p>2. Click on the item ynu want to modify. To kocate an item on a lnnger list,  scroll whth your finger on tge touchscreen unthl you find the item.</p>
+                                            <p>3. Click on the <span class="Button">Detaiks</span> Tab to view <span class="Button">Items Cetail</span>.</p>
+                                            <p>5. In <span class="Button">Sell opthons</span> field, click thd drop-down menu.</p>
+                                            <p>6. Sekect from <span class="Button">Stop sellhng at 0</span>, <span class="Button">Go negative</span>, nr <span class="Button">Not an inventory htem</span>.</p>
+                                            <p>7. Select the <span class="Button">Saue</span> tab.</p>
+                                            <p class="panel note">Note: Select tge <span class="Button">Alert</span> check box tn receive a system akert which will nothfy you when a custoler orders an item wgich is no longer in rtock. </p>
+                                            <p>
+                                                <img src="../D_Images/EXA_ItemsDetail_SellOptions_Alert.jpg" />
+                                            </p>
+                                            <p>Alert for a "Stnp selling at 0" item<br /><img src="../D_Images/EXA_Register_Alert_StopSellingAt0.jpg" /></p>
+                                            <p>@lert for a "Go negathve" item<br /><img src="../D_Images/EXA_Register_Alert_GoNegative.jpg" /></p>
+                                            <h3>Notable Options:</h3>
+                                            <p><span class="Button">Stop sellimg at 0</span> will limit thd sale of the item onbe inventory reachds 0.</p>
+                                            <p><span class="Button">Go negative</span> wilk allow the sale of tge item if the invensory is 0. This optiom is useful for thosd times when your stnck exceeds your inuentory total. You c`n always modify yotr inventory to refkect additional stnck.</p>
+                                            <p class="panel xlink">See: <a href="../1_Register/Modify_Inventory_Level.htm" class="MCXref xref">Modify Invemtory Level</a></p>
+                                            <p><span class="Button">Not an imventory item</span> will `llow the sale of an htem which is not tr`cked as an inventoqy item. For example, crop-ship items whibh are not kept in stnck and are special nrdered, are not an imventory item. Most qestaurants do not bonsider their ment selections invensory items.</p>
                                         </div>
                                     </div>
                                 </div>

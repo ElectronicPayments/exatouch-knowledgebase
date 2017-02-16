@@ -1,44 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
-  FileTitle=""
+  FileTitle="Print a Check from a List of Saved Orders"
   FileLanguage="en-us"
   FileSearchable="true"
+  MasterPage="file:///C:/Users/Ralph Rivera/Documents/GitHub/exatouch-knowledgebase/Exatouch1/Content/Resources/MasterPages/HelpTopicHolder.flmsp"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_GetOrderSelected.jpg" />
+      Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_Register_GetOrderSelected.jpg" />
+      Url="Content/Images/EXA_GetOrderSelected.jpg" />
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_GetOrderScreen_PrintSelected.jpg" />
+      Url="Content/Images/EXA_GetOrderScreen_PrintSelected.jpg" />
     <Link
       Url="Content/Verticals/Functions/Register/Print_a_Check_for_the_Current_Order.htm" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_GetOrderSelected.jpg" />
+      Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_Register_GetOrderSelected.jpg" />
+      Url="Content/Images/EXA_GetOrderSelected.jpg" />
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_GetOrderScreen_PrintSelected.jpg" />
+      Url="Content/Images/EXA_GetOrderScreen_PrintSelected.jpg" />
     <Link
       Url="Content/Verticals/Functions/Register/Print_a_Check_for_the_Current_Order.htm" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables>
-    <Variable
-      Name="General.Ct Click or tap" />
-  </Variables>
+  <Variables />
   <FileConditions />
   <FileTags />
   <AllConditions />

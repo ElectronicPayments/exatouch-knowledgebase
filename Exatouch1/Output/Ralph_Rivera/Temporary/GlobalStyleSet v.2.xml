@@ -3,6 +3,8 @@
   SavedSource="file:///C:/Users/Ralph Rivera/Documents/GitHub/exatouch-knowledgebase/Exatouch1/Output/Ralph_Rivera/Temporary/GlobalStyleSet v.2.xml">
   <Media>
     <Medium
+      Name="only screen and (min-width: 767px)" />
+    <Medium
       Name="tablet" />
     <Medium
       Name="mobile" />
@@ -23,7 +25,11 @@
     <Tag
       Name="p">
       <Class
-        Name="MyStyle" />
+        Name="note" />
+      <Class
+        Name="tip" />
+      <Class
+        Name="MiniTOC1_0" />
       <Class
         Name="Copyright" />
       <Class
@@ -92,6 +98,8 @@
     <Tag
       Name="img">
       <Class
+        Name="MCPopupThumbnail" />
+      <Class
         Name="Hyperlinked" />
     </Tag>
     <Tag
@@ -105,7 +113,11 @@
       <Class
         Name="MCBreadcrumbsLink" />
       <Class
+        Name="xref" />
+      <Class
         Name="selected" />
+      <Class
+        Name="MiniTOC1" />
       <Class
         Name="BlackText" />
       <Class
@@ -205,11 +217,6 @@
         Name="Row-6-6" />
       <Class
         Name="Row-8-4" />
-    </Tag>
-    <Tag
-      Name="ol">
-      <Class
-        Name="steps" />
     </Tag>
     <Tag
       Name="span">
@@ -429,6 +436,8 @@
       Name="h5" />
     <Tag
       Name="h6" />
+    <Tag
+      Name="ol" />
     <Tag
       Name="dl" />
     <Tag

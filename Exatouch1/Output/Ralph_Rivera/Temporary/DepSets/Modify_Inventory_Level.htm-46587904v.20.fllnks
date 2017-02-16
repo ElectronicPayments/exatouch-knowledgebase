@@ -1,30 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+  FileTitle="Modify Inventory Level"
   FileSearchable="true"
+  MasterPage="file:///C:/Users/Ralph Rivera/Documents/GitHub/exatouch-knowledgebase/Exatouch1/Content/Resources/MasterPages/HelpTopicHolder.flmsp"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Verticals/Functions/4_Items/Modify_Sell_Options.htm" />
+      Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
     <Link
-      Url="Project/VariableSets/General.flvar" />
+      Url="Content/Verticals/Functions/Modify_Sell_Options.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Verticals/Functions/4_Items/Modify_Sell_Options.htm" />
+      Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
     <Link
-      Url="Project/VariableSets/General.flvar" />
+      Url="Content/Verticals/Functions/Modify_Sell_Options.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables>
-    <Variable
-      Name="General.ct click or tap" />
-  </Variables>
+  <Variables />
   <FileConditions />
   <FileTags />
   <AllConditions />

@@ -23,7 +23,37 @@
           Link="/Content/Verticals/Functions/Register/Adjust_for_Tips.htm" />
         <TocEntry
           Title="[%=System.LinkedTitle%]"
-          Link="/Content/Verticals/Functions/Register/How_do_I get_to_the_Register_Screen.htm" />
+          Link="/Content/Verticals/Functions/Register/How_do_I_get_to_the_Register_Screen.htm" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/How_to_Find_a_List_of_Open_Orders.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/How_to_Merge_Orders.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/How_to_Remove_a_Menu_Item_from_an_Order.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Modify_Inventory_Level.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Place_an_Order_from_the_Register.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Print_a_Check_for_the_Current_Order.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Split_A_Check_by_Item.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Split_a_Payment.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       </TocEntry>
       <TocEntry
         Title="Staff"
@@ -40,19 +70,59 @@
       Title="Table Service"
       Link="/Content/Verticals/TableService.htm">
       <TocEntry
-        Title="Register">
+        Title="Register"
+        Link="/Content/Verticals/Functions/Register.htm">
         <TocEntry
-          Title="Accept Payment from the Pay Screen"
-          StartSection="false"
-          ReplaceMergeNode="false"></TocEntry>
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Accept_Payment_from_the_Pay_Screen.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
-          Title="Accept Payment from the Register Screen" />
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Accept_Payment_from_the_Register_Screen.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]" />
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Adjust_for_Tips.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]" />
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/How_do_I_get_to_the_Register_Screen.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         <TocEntry
-          Title="[%=System.LinkedTitle%]" />
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/How_to_Find_a_List_of_Open_Orders.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/How_to_Join_Tables.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/How_to_Merge_Orders.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/How_to_Remove_a_Menu_Item_from_an_Order.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Modify_Inventory_Level.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Place_an_Order_from_the_Floor_Plan.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Place_an_Order_from_the_Register.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Print_a_Check_for_the_Current_Order.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Reassign_a_Table.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Split_A_Check_by_Item.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Functions/Register/Split_a_Payment.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       </TocEntry>
     </TocEntry>
     <TocEntry

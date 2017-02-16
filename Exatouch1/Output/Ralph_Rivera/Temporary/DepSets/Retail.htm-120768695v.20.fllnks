@@ -13,8 +13,6 @@
       Url="Content/Verticals/Functions/Register.htm" />
     <Link
       Url="Content/Verticals/Functions/Staff.htm" />
-    <Link
-      Url="Content/Verticals/Verticals/Retail.htm" />
   </Links>
   <LongLinks>
     <Link
@@ -23,8 +21,6 @@
       Url="Content/Verticals/Functions/Register.htm" />
     <Link
       Url="Content/Verticals/Functions/Staff.htm" />
-    <Link
-      Url="Content/Verticals/Verticals/Retail.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />

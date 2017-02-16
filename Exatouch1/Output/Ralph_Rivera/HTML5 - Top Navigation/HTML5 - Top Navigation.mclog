@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2017 Generated HTML5 - Top Navigation.fltar" Date="2017-02-15T14:15:35.0999750-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2017 Generated HTML5 - Top Navigation.fltar" Date="2017-02-15T18:06:51.2559158-05:00">
     <Messages>Compiling target HTML5 - Top Navigation...
 WARNING: Please note that you are using a trial version. The generated output will contain scrambled content.
 Removing previously generated content...
@@ -23,7 +23,6 @@ Processing topic: Home.htm...
 Applying master page HomePage.flmsp...
 Generated Home.htm
 Processing topic: Verticals\Retail.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Verticals\Retail.htm
 Applying master page FunctionHolder.flmsp...
 Generated Verticals\Retail.htm
 Processing topic: Verticals\Functions\Register.htm...
@@ -31,32 +30,87 @@ Applying master page StepHolder.flmsp...
 Processing sub-toc: Master.fltoc...
 Generated Verticals\Functions\Register.htm
 Processing topic: Verticals\Functions\Register\Accept_Payment_from_the_Pay_Screen.htm...
-Applying master page OtherTopics.flmsp...
+Applying master page HelpTopicHolder.flmsp...
 Generated Verticals\Functions\Register\Accept_Payment_from_the_Pay_Screen.htm
 Processing topic: Verticals\Functions\Register\Accept_Payment_from_the_Register_Screen.htm...
-Applying master page OtherTopics.flmsp...
+Applying master page HelpTopicHolder.flmsp...
 Generated Verticals\Functions\Register\Accept_Payment_from_the_Register_Screen.htm
 Processing topic: Verticals\Functions\Register\Adjust_for_Tips.htm...
-Applying master page OtherTopics.flmsp...
+Applying master page HelpTopicHolder.flmsp...
 Generated Verticals\Functions\Register\Adjust_for_Tips.htm
-Processing topic: Verticals\Functions\Register\How_do_I get_to_the_Register_Screen.htm...
+Processing topic: Verticals\Functions\Register\How_do_I_get_to_the_Register_Screen.htm...
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Images\EXA_Home_RegisterSelected.jpg
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\How_do_I get_to_the_Register_Screen.htm
+Applying master page HelpTopicHolder.flmsp...
+Generated Verticals\Functions\Register\How_do_I_get_to_the_Register_Screen.htm
+Processing topic: Verticals\Functions\Register\How_to_Find_a_List_of_Open_Orders.htm...
+Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_GetOrderSelected.bmp
+Applying master page HelpTopicHolder.flmsp...
+Generated Verticals\Functions\Register\How_to_Find_a_List_of_Open_Orders.htm
+Processing topic: Verticals\Functions\Register\How_to_Manage_the _Time_Clock.htm...
+Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\2_Staff\Clock_In_from_a_Break.htm
+Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\2_Staff\How_to_Adjust_a _Time_Clock_Entry.htm
+Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\8_Utilities And Settings\How_to_Restrict_Access_to_System_Settings.htm
+Use of undefined variable General.Ct Click or tap.
+Use of undefined variable General.Ct Click or tap.
+Use of undefined variable General.Ct Click or tap.
+Applying master page HelpTopicHolder.flmsp...
+Generated Verticals\Functions\Register\How_to_Manage_the _Time_Clock.htm
+Processing topic: Verticals\Functions\Register\How_to_Merge_Orders.htm...
+Use of undefined variable General.Ct Click or tap.
+Use of undefined variable General.Ct Click or tap.
+Applying master page HelpTopicHolder.flmsp...
+Generated Verticals\Functions\Register\How_to_Merge_Orders.htm
+Processing topic: Verticals\Functions\Register\How_to_Remove_a_Menu_Item_from_an_Order.htm...
+Applying master page HelpTopicHolder.flmsp...
+Generated Verticals\Functions\Register\How_to_Remove_a_Menu_Item_from_an_Order.htm
+Processing topic: Verticals\Functions\Register\Modify_Inventory_Level.htm...
+Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\Modify_Sell_Options.htm
+Applying master page HelpTopicHolder.flmsp...
+Generated Verticals\Functions\Register\Modify_Inventory_Level.htm
+Processing topic: Verticals\Functions\Register\Place_an_Order_from_the_Register.htm...
+Applying master page HelpTopicHolder.flmsp...
+Generated Verticals\Functions\Register\Place_an_Order_from_the_Register.htm
+Processing topic: Verticals\Functions\Register\Print_a_Check_for_the_Current_Order.htm...
+Applying master page HelpTopicHolder.flmsp...
+Generated Verticals\Functions\Register\Print_a_Check_for_the_Current_Order.htm
+Processing topic: Verticals\Functions\Register\Print_a_Check_from_a_List_of_Saved_Orders.htm...
+Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Images\EXA_GetOrderSelected.jpg
+Applying master page HelpTopicHolder.flmsp...
+Generated Verticals\Functions\Register\Print_a_Check_from_a_List_of_Saved_Orders.htm
+Processing topic: Verticals\Functions\Register\Split_A_Check_by_Item.htm...
+Applying master page HelpTopicHolder.flmsp...
+Generated Verticals\Functions\Register\Split_A_Check_by_Item.htm
+Processing topic: Verticals\Functions\Register\Split_a_Payment.htm...
+Use of undefined variable General.ct click or tap.
+Applying master page HelpTopicHolder.flmsp...
+Generated Verticals\Functions\Register\Split_a_Payment.htm
 Processing topic: Verticals\Functions\Staff.htm...
 Applying master page StepHolder.flmsp...
 Generated Verticals\Functions\Staff.htm
 Processing topic: Verticals\Functions\Staff\Add_a_New_Employee.htm...
-Applying master page OtherTopics.flmsp...
+Applying master page HelpTopicHolder.flmsp...
 Generated Verticals\Functions\Staff\Add_a_New_Employee.htm
 Processing topic: Verticals\Functions\Staff\Clock_In_from_a_Break.htm...
 Use of undefined variable General.Ct Click or tap.
-Applying master page OtherTopics.flmsp...
+Applying master page HelpTopicHolder.flmsp...
 Generated Verticals\Functions\Staff\Clock_In_from_a_Break.htm
 Processing topic: Verticals\TableService.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Verticals\Retail.htm
 Applying master page FunctionHolder.flmsp...
 Generated Verticals\TableService.htm
+Processing topic: Verticals\Functions\Register\How_to_Join_Tables.htm...
+Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables1.jpg
+Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables2.jpg
+Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables3.jpg
+Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables4.jpg
+Applying master page HelpTopicHolder.flmsp...
+Generated Verticals\Functions\Register\How_to_Join_Tables.htm
+Processing topic: Verticals\Functions\Register\Place_an_Order_from_the_Floor_Plan.htm...
+Applying master page HelpTopicHolder.flmsp...
+Generated Verticals\Functions\Register\Place_an_Order_from_the_Floor_Plan.htm
+Processing topic: Verticals\Functions\Register\Reassign_a_Table.htm...
+Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Images\EXA_FloorPlan_PopUp_ReasssignSelected.jpg
+Applying master page HelpTopicHolder.flmsp...
+Generated Verticals\Functions\Register\Reassign_a_Table.htm
 Processing topic: C_Procedure Topics\Procedures.htm...
 Applying master page OtherTopics.flmsp...
 Generated C_Procedure Topics\Procedures.htm
@@ -93,11 +147,6 @@ Processing topic: Verticals\Functions\Items\How_to_Add_a_Manufacturer.htm...
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_NewItem_ManufField_GearIcon.jpg
 Applying master page OtherTopics.flmsp...
 Generated Verticals\Functions\Items\How_to_Add_a_Manufacturer.htm
-Processing topic: Verticals\Functions\Register\How_do_I_get_to_the_Register_Screen.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_RegisterIcon.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Home_RegisterSelected.jpg
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\How_do_I_get_to_the_Register_Screen.htm
 Processing topic: B_Feature Topics\Feature1.htm...
 Applying master page OtherTopics.flmsp...
 Generated B_Feature Topics\Feature1.htm
@@ -110,63 +159,17 @@ Use of undefined variable General.ct click or tap.
 Use of undefined variable General.EXAProductName.
 Applying master page OtherTopics.flmsp...
 Generated Verticals\Functions\Customers\How_to_Create_a_Loyalty_Program.htm
-Processing topic: Verticals\Functions\Register\How_to_Find_a_List_of_Open_Orders.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_GetOrderSelected.bmp
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\How_to_Find_a_List_of_Open_Orders.htm
-Processing topic: Verticals\Functions\Register\Split_a_Payment.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_OrderDisplayed.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_OrderDisplayed_PayTabSelected.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Pay_SplitBy1.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Pay_SplitBy2.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Home_PurchasingSelected.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Pay_SplitByCASHOnly.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Pay_SplitbyCREDITOnly.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Pay_SplitByCASHOnly2.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Pay_SplitByCashCredit.jpg
-Use of undefined variable General.Ct Click or tap.
-Use of undefined variable General.ct click or tap.
-Use of undefined variable General.ct click or tap.
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\Split_a_Payment.htm
 Processing topic: Verticals\Functions\Customers\How_to_Create_a_Membership_Club_Program.htm...
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\Contact_Technical_Support.htm
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\4_Items\How_to_Create_Categories_and_Subcategories.htm
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\4_Items\Add_an_Item.htm
 Applying master page OtherTopics.flmsp...
 Generated Verticals\Functions\Customers\How_to_Create_a_Membership_Club_Program.htm
-Processing topic: Verticals\Functions\Register\How_to_Manage_the _Time_Clock.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\2_Staff\How_to_Clock_In.htm
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\2_Staff\How_to_Clock_Out.htm
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\2_Staff\Clock_Out_for_a_Break.htm
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\2_Staff\Clock_In_from_a_Break.htm
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\2_Staff\How_to_Adjust_a _Time_Clock_Entry.htm
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\8_Utilities And Settings\How_to_Restrict_Access_to_System_Settings.htm
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\How_to_Manage_the _Time_Clock.htm
-Processing topic: Verticals\Functions\Register\Print_a_Check_from_a_List_of_Saved_Orders.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_GetOrderSelected.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_GetOrderSelected.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_GetOrderScreen_PrintSelected.jpg
-Use of undefined variable General.ct click or tap.
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\Print_a_Check_from_a_List_of_Saved_Orders.htm
-Processing topic: Verticals\Functions\Register\How_to_Remove_a_Menu_Item_from_an_Order.htm...
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\How_to_Remove_a_Menu_Item_from_an_Order.htm
 Processing topic: Verticals\Functions\Items\How_to_Generate_SKU_Numbers_locally.htm...
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_NewItem_SKU_fields.jpg
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_SKUimg.jpg
 Applying master page OtherTopics.flmsp...
 Generated Verticals\Functions\Items\How_to_Generate_SKU_Numbers_locally.htm
-Processing topic: Verticals\Functions\Register\Reassign_a_Table.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_FloorPlanTabSelected.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_PopUp_ReasssignSelected
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_PopUp_ReassignSelected.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_ReassignTable.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_ReassignTable.jpg
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\Reassign_a_Table.htm
 Processing topic: Verticals\Functions\Purchasing\Add_a_Vendor.htm...
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Home_PurchasingSelected.jpg
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Purchasing_VendorDetailsSelected.jpg
@@ -189,12 +192,6 @@ Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-know
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Vendors_SetDefault3.jpg
 Applying master page OtherTopics.flmsp...
 Generated Verticals\Functions\Items\How_to_Set_a_Default_Vendor_for_an_Item.htm
-Processing topic: Verticals\Functions\Register\Print_a_Check_for_the_Current_Order.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_PrintOrder_Pointer
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_PrintOrder_Pointer.jpg
-Use of undefined variable General.Ct Click or tap.
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\Print_a_Check_for_the_Current_Order.htm
 Processing topic: Verticals\Functions\Utilities And Settings\How_to_Restrict_Access_to_System_Settings.htm...
 Applying master page OtherTopics.flmsp...
 Generated Verticals\Functions\Utilities And Settings\How_to_Restrict_Access_to_System_Settings.htm
@@ -264,16 +261,6 @@ Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-know
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\1_Register\Modify_Inventory_Level.htm
 Applying master page OtherTopics.flmsp...
 Generated Verticals\Functions\Items\Modify_Sell_Options.htm
-Processing topic: Verticals\Functions\Register\Place_an_Order_from_the_Floor_Plan.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_images\EXA_FloorPlan_TableSelect
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_TableSelect.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_images\EXA_FloorPlan_PopUp_TableOrder.jpg
-Use of undefined variable General.Ct Click or tap.
-Use of undefined variable General.ct click or tap.
-Use of undefined variable General.ct click or tap.
-Use of undefined variable General.EXAProductName.
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\Place_an_Order_from_the_Floor_Plan.htm
 Processing topic: Verticals\Functions\Staff\How_to_Clock_Out.htm...
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Home_ClockOut.jpg
 Applying master page OtherTopics.flmsp...
@@ -302,14 +289,6 @@ Use of undefined variable General.EXAProductName.
 Use of undefined variable General.ct click or tap.
 Applying master page OtherTopics.flmsp...
 Generated Verticals\Functions\Items\How_to_Add_Inventory_Costs_and_Quantities_to_an_Item.htm
-Processing topic: Verticals\Functions\Register\Split_A_Check_by_Item.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_SplitByItem_Selected.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_SplitByItemScreen.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_SplitByItemScreen2.jpg
-Use of undefined variable General.Ct Click or tap.
-Use of undefined variable General.ct click or tap.
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\Split_A_Check_by_Item.htm
 Processing topic: Verticals\Functions\Items\How_to_Create_Categories_and_Subcategories.htm...
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_HOME_ItemsSelected.jpg
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Items_CategoriesSelected.jpg
@@ -329,36 +308,16 @@ Use of undefined variable General.ct click or tap.
 Use of undefined variable General.EXAProductName.
 Applying master page OtherTopics.flmsp...
 Generated Verticals\Functions\Staff\Exit_Training_Mode.htm
-Processing topic: Verticals\Functions\Register\Modify_Inventory_Level.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\4_Items\Modify_Sell_Options.htm
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\Modify_Inventory_Level.htm
 Processing topic: Verticals\Functions\Staff\Clock_Out_for_a_Break.htm...
 Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Home_StartBreak.jpg
-Applying master page OtherTopics.flmsp...
+Applying master page HelpTopicHolder.flmsp...
 Generated Verticals\Functions\Staff\Clock_Out_for_a_Break.htm
-Processing topic: Verticals\Functions\Register\How_to_Join_Tables.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables1.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables2.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables3.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables4.jpg
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\How_to_Join_Tables.htm
 Processing topic: Verticals\Functions\Items\Set_Tax_Rate_for_an_Individual_Item.htm...
 Use of undefined variable General.ct click or tap.
 Use of undefined variable General.Ct Click or tap.
 Use of undefined variable General.ct click or tap.
 Applying master page OtherTopics.flmsp...
 Generated Verticals\Functions\Items\Set_Tax_Rate_for_an_Individual_Item.htm
-Processing topic: Verticals\Functions\Register\Place_an_Order_from_the_Register.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_RegisterIcon.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_DineInTakeOutOptions.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_OrderFromRegister.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_OrderFromRegister_TapItems.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_RepeatLinePointer.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_SaveOrderPointer.jpg
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\Place_an_Order_from_the_Register.htm
 Processing topic: Verticals\Functions\Reports\How_to_Run_Reports.htm...
 Applying master page OtherTopics.flmsp...
 Generated Verticals\Functions\Reports\How_to_Run_Reports.htm
@@ -370,22 +329,11 @@ Generated Verticals\Functions\Staff\Navigate_to_the_Home_Screen.htm
 Processing topic: B_Feature Topics\Feature3.htm...
 Applying master page OtherTopics.flmsp...
 Generated B_Feature Topics\Feature3.htm
-Processing topic: Verticals\Functions\Register\How_to_Merge_Orders.htm...
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_GetOrderSelected.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_MergeOrder1.jpg
-Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_MergeOrder2.jpg
-Use of undefined variable General.Ct Click or tap.
-Use of undefined variable General.Ct Click or tap.
-Applying master page OtherTopics.flmsp...
-Generated Verticals\Functions\Register\How_to_Merge_Orders.htm
 Generating output skins...
 Generating synonyms file...
 Generating alias file...
 Processing audio links...
 Generating final TOC...
-Missing file link for TOC entry with System.LinkedTitle variable
-Missing file link for TOC entry with System.LinkedTitle variable
-Missing file link for TOC entry with System.LinkedTitle variable
 Generating concept and keyword anchors in output files...
 Generating Index...
 Generating Concepts...
@@ -395,7 +343,7 @@ Topic marked 'not searchable': Search.htm...
 Applying master page OtherTopics.flmsp...
 Generated Search.htm
 Resolving links in output files...
-Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\4_Items\Modify_Sell_Options.htm
+Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\Modify_Sell_Options.htm
 Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\7_Purchasing\Add_a_Vendor.htm
 Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\4_Items\Assign_a_Vendor_to_an_Item.htm
 Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\Contact_Technical_Support.htm
@@ -409,9 +357,6 @@ Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-k
 Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\1_Register\Modify_Inventory_Level.htm
 Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\Topics to be created\How_to_Define_Matrix Inventory_Items.htm
 Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\2_Staff\Use_Training_Mode.htm
-Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\2_Staff\How_to_Clock_In.htm
-Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\2_Staff\How_to_Clock_Out.htm
-Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\2_Staff\Clock_Out_for_a_Break.htm
 Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\2_Staff\Clock_In_from_a_Break.htm
 Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\2_Staff\How_to_Adjust_a _Time_Clock_Entry.htm
 Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\8_Utilities And Settings\How_to_Restrict_Access_to_System_Settings.htm
@@ -423,7 +368,7 @@ Writing search entry cache...
 Generating final output...
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 52
+Ignored Compiler Warnings: 74
 Output generated in 21 second(s).
 
 Done
@@ -432,54 +377,39 @@ Saving log to "C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exa
     <Warnings>
         <LogEntry Message="WARNING: Please note that you are using a trial version. The generated output will contain scrambled content." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10068" />
         <LogEntry File="../../../Content/Resources/Stylesheets/StylesForHomePage.css" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Resources\Images\BackgroundImage.png" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Retail.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Verticals\Retail.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_do_I get_to_the_Register_Screen.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Images\EXA_Home_RegisterSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/How_do_I_get_to_the_Register_Screen.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Images\EXA_Home_RegisterSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Find_a_List_of_Open_Orders.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_GetOrderSelected.bmp" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\2_Staff\Clock_In_from_a_Break.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\2_Staff\How_to_Adjust_a _Time_Clock_Entry.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\8_Utilities And Settings\How_to_Restrict_Access_to_System_Settings.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Merge_Orders.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Merge_Orders.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/Modify_Inventory_Level.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\Modify_Sell_Options.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Images\EXA_GetOrderSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_a_Payment.htm" Message="Use of undefined variable General.ct click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
         <LogEntry File="../../../Content/Verticals/Functions/Staff/Clock_In_from_a_Break.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
-        <LogEntry File="../../../Content/Verticals/TableService.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Verticals\Retail.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Join_Tables.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables1.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Join_Tables.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables2.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Join_Tables.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables3.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Join_Tables.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables4.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/Reassign_a_Table.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Images\EXA_FloorPlan_PopUp_ReasssignSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Staff/Use_Training_Mode.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
         <LogEntry File="../../../Content/Verticals/Functions/Staff/How_to_Clock_In.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Home_ClockInPrompt.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/How_to_Add_a_Manufacturer.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_NewItem_ManufField_GearIcon.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_do_I_get_to_the_Register_Screen.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_RegisterIcon.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_do_I_get_to_the_Register_Screen.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Home_RegisterSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Customers/How_to_Create_a_Loyalty_Program.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\Contact_Technical_Support.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Customers/How_to_Create_a_Loyalty_Program.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\4_Items\How_to_Create_Categories_and_Subcategories.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Customers/How_to_Create_a_Loyalty_Program.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\4_Items\Add_an_Item.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Customers/How_to_Create_a_Loyalty_Program.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
         <LogEntry File="../../../Content/Verticals/Functions/Customers/How_to_Create_a_Loyalty_Program.htm" Message="Use of undefined variable General.ct click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
         <LogEntry File="../../../Content/Verticals/Functions/Customers/How_to_Create_a_Loyalty_Program.htm" Message="Use of undefined variable General.EXAProductName." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Find_a_List_of_Open_Orders.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_GetOrderSelected.bmp" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_a_Payment.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_OrderDisplayed.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_a_Payment.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_OrderDisplayed_PayTabSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_a_Payment.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Pay_SplitBy1.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_a_Payment.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Pay_SplitBy2.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_a_Payment.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Home_PurchasingSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_a_Payment.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Pay_SplitByCASHOnly.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_a_Payment.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Pay_SplitbyCREDITOnly.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_a_Payment.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Pay_SplitByCASHOnly2.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_a_Payment.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Pay_SplitByCashCredit.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_a_Payment.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_a_Payment.htm" Message="Use of undefined variable General.ct click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_a_Payment.htm" Message="Use of undefined variable General.ct click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
         <LogEntry File="../../../Content/Verticals/Functions/Customers/How_to_Create_a_Membership_Club_Program.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\Contact_Technical_Support.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Customers/How_to_Create_a_Membership_Club_Program.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\4_Items\How_to_Create_Categories_and_Subcategories.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Customers/How_to_Create_a_Membership_Club_Program.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\4_Items\Add_an_Item.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\2_Staff\How_to_Clock_In.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\2_Staff\How_to_Clock_Out.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\2_Staff\Clock_Out_for_a_Break.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\2_Staff\Clock_In_from_a_Break.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\2_Staff\How_to_Adjust_a _Time_Clock_Entry.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\8_Utilities And Settings\How_to_Restrict_Access_to_System_Settings.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_GetOrderSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_GetOrderSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_GetOrderScreen_PrintSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" Message="Use of undefined variable General.ct click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/How_to_Generate_SKU_Numbers_locally.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_NewItem_SKU_fields.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/How_to_Generate_SKU_Numbers_locally.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_SKUimg.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Reassign_a_Table.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_FloorPlanTabSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Reassign_a_Table.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_PopUp_ReasssignSelected" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Reassign_a_Table.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_PopUp_ReassignSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Reassign_a_Table.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_ReassignTable.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Reassign_a_Table.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_ReassignTable.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Purchasing/Add_a_Vendor.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Home_PurchasingSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Purchasing/Add_a_Vendor.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Purchasing_VendorDetailsSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Purchasing/Add_a_Vendor.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_NewVendor_DetailsSave.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
@@ -490,9 +420,6 @@ Saving log to "C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exa
         <LogEntry File="../../../Content/Verticals/Functions/Items/How_to_Set_a_Default_Vendor_for_an_Item.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Vendors_SetDefault.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/How_to_Set_a_Default_Vendor_for_an_Item.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Vendors_SetDefault2.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/How_to_Set_a_Default_Vendor_for_an_Item.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Vendors_SetDefault3.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Print_a_Check_for_the_Current_Order.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_PrintOrder_Pointer" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Print_a_Check_for_the_Current_Order.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_PrintOrder_Pointer.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Print_a_Check_for_the_Current_Order.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/Assign_a_Vendor_to_an_Item.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_ItemsDetail_InventoryTabSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/Assign_a_Vendor_to_an_Item.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_ItemsDetail_VendorsList.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/Assign_a_Vendor_to_an_Item.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_ItemsDetail_AddVendorSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
@@ -526,13 +453,6 @@ Saving log to "C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exa
         <LogEntry File="../../../Content/Verticals/Functions/Items/Modify_Sell_Options.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_Alert_StopSellingAt0.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/Modify_Sell_Options.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_Alert_GoNegative.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/Modify_Sell_Options.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\1_Register\Modify_Inventory_Level.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Place_an_Order_from_the_Floor_Plan.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_images\EXA_FloorPlan_TableSelect" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Place_an_Order_from_the_Floor_Plan.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_TableSelect.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Place_an_Order_from_the_Floor_Plan.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_images\EXA_FloorPlan_PopUp_TableOrder.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Place_an_Order_from_the_Floor_Plan.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Place_an_Order_from_the_Floor_Plan.htm" Message="Use of undefined variable General.ct click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Place_an_Order_from_the_Floor_Plan.htm" Message="Use of undefined variable General.ct click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Place_an_Order_from_the_Floor_Plan.htm" Message="Use of undefined variable General.EXAProductName." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
         <LogEntry File="../../../Content/Verticals/Functions/Staff/How_to_Clock_Out.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Home_ClockOut.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Customers/Create_a_New_Customer.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_NewCustomer_SwipeIcon.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Customers/Create_a_New_Customer.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
@@ -546,11 +466,6 @@ Saving log to "C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exa
         <LogEntry File="../../../Content/Verticals/Functions/Items/How_to_Add_Inventory_Costs_and_Quantities_to_an_Item.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Items Detail_CostandInventoryQuant.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/How_to_Add_Inventory_Costs_and_Quantities_to_an_Item.htm" Message="Use of undefined variable General.EXAProductName." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/How_to_Add_Inventory_Costs_and_Quantities_to_an_Item.htm" Message="Use of undefined variable General.ct click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_A_Check_by_Item.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_SplitByItem_Selected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_A_Check_by_Item.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_SplitByItemScreen.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_A_Check_by_Item.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_SplitByItemScreen2.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_A_Check_by_Item.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Split_A_Check_by_Item.htm" Message="Use of undefined variable General.ct click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/How_to_Create_Categories_and_Subcategories.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_HOME_ItemsSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/How_to_Create_Categories_and_Subcategories.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Items_CategoriesSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/How_to_Create_Categories_and_Subcategories.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Categories_Create_Category.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
@@ -561,32 +476,13 @@ Saving log to "C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exa
         <LogEntry File="../../../Content/Verticals/Functions/Staff/Exit_Training_Mode.htm" Message="Use of undefined variable General.EXAProductName." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
         <LogEntry File="../../../Content/Verticals/Functions/Staff/Exit_Training_Mode.htm" Message="Use of undefined variable General.ct click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
         <LogEntry File="../../../Content/Verticals/Functions/Staff/Exit_Training_Mode.htm" Message="Use of undefined variable General.EXAProductName." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Modify_Inventory_Level.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\4_Items\Modify_Sell_Options.htm" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Staff/Clock_Out_for_a_Break.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Home_StartBreak.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Join_Tables.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables1.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Join_Tables.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables2.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Join_Tables.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables3.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Join_Tables.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_FloorPlan_JoinTables4.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/Set_Tax_Rate_for_an_Individual_Item.htm" Message="Use of undefined variable General.ct click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/Set_Tax_Rate_for_an_Individual_Item.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/Set_Tax_Rate_for_an_Individual_Item.htm" Message="Use of undefined variable General.ct click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Place_an_Order_from_the_Register.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_RegisterIcon.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Place_an_Order_from_the_Register.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_DineInTakeOutOptions.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Place_an_Order_from_the_Register.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_OrderFromRegister.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Place_an_Order_from_the_Register.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_OrderFromRegister_TapItems.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Place_an_Order_from_the_Register.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_RepeatLinePointer.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Place_an_Order_from_the_Register.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_SaveOrderPointer.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Staff/Navigate_to_the_Home_Screen.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Home_PointerOnHomeIcon.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Verticals/Functions/Staff/Navigate_to_the_Home_Screen.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Home_HomeIcon.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Merge_Orders.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_Register_GetOrderSelected.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Merge_Orders.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_MergeOrder1.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Merge_Orders.htm" Message="Missing linked source file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\Functions\D_Images\EXA_MergeOrder2.jpg" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Merge_Orders.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Merge_Orders.htm" Message="Use of undefined variable General.Ct Click or tap." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10054" />
-        <LogEntry File="../../../Project/TOCs/Master.fltoc" Message="Missing file link for TOC entry with System.LinkedTitle variable" LineIndex="-1" CharIndex="-1" Subsystem="TOC" Target="HTML5 - Top Navigation" ErrorID="10147" />
-        <LogEntry File="../../../Project/TOCs/Master.fltoc" Message="Missing file link for TOC entry with System.LinkedTitle variable" LineIndex="-1" CharIndex="-1" Subsystem="TOC" Target="HTML5 - Top Navigation" ErrorID="10147" />
-        <LogEntry File="../../../Project/TOCs/Master.fltoc" Message="Missing file link for TOC entry with System.LinkedTitle variable" LineIndex="-1" CharIndex="-1" Subsystem="TOC" Target="HTML5 - Top Navigation" ErrorID="10147" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/Modify_Inventory_Level.htm" Message="Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\4_Items\Modify_Sell_Options.htm" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="HTML5 - Top Navigation" ErrorID="10031" />
+        <LogEntry File="../../../Content/Verticals/Functions/Register/Modify_Inventory_Level.htm" Message="Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\Modify_Sell_Options.htm" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="HTML5 - Top Navigation" ErrorID="10031" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/Assign_a_Vendor_to_an_Item.htm" Message="Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\7_Purchasing\Add_a_Vendor.htm" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="HTML5 - Top Navigation" ErrorID="10031" />
         <LogEntry File="../../../Content/Verticals/Functions/Purchasing/Add_a_Vendor.htm" Message="Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\4_Items\Assign_a_Vendor_to_an_Item.htm" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="HTML5 - Top Navigation" ErrorID="10031" />
         <LogEntry File="../../../Content/Verticals/Functions/Customers/How_to_Create_a_Loyalty_Program.htm" Message="Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\Contact_Technical_Support.htm" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="HTML5 - Top Navigation" ErrorID="10031" />
@@ -600,9 +496,6 @@ Saving log to "C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exa
         <LogEntry File="../../../Content/Verticals/Functions/Items/Add_an_Item.htm" Message="Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\1_Register\Modify_Inventory_Level.htm" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="HTML5 - Top Navigation" ErrorID="10031" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/Add_an_Item.htm" Message="Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\Topics to be created\How_to_Define_Matrix Inventory_Items.htm" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="HTML5 - Top Navigation" ErrorID="10031" />
         <LogEntry File="../../../Content/Verticals/Functions/Items/Add_an_Item.htm" Message="Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\2_Staff\Use_Training_Mode.htm" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="HTML5 - Top Navigation" ErrorID="10031" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\2_Staff\How_to_Clock_In.htm" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="HTML5 - Top Navigation" ErrorID="10031" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\2_Staff\How_to_Clock_Out.htm" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="HTML5 - Top Navigation" ErrorID="10031" />
-        <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\2_Staff\Clock_Out_for_a_Break.htm" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="HTML5 - Top Navigation" ErrorID="10031" />
         <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\2_Staff\Clock_In_from_a_Break.htm" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="HTML5 - Top Navigation" ErrorID="10031" />
         <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\2_Staff\How_to_Adjust_a _Time_Clock_Entry.htm" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="HTML5 - Top Navigation" ErrorID="10031" />
         <LogEntry File="../../../Content/Verticals/Functions/Register/How_to_Manage_the _Time_Clock.htm" Message="Missing cross-referenced file: C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Output\Ralph_Rivera\HTML5 - Top Navigation\Content\Verticals\Functions\8_Utilities And Settings\How_to_Restrict_Access_to_System_Settings.htm" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="HTML5 - Top Navigation" ErrorID="10031" />

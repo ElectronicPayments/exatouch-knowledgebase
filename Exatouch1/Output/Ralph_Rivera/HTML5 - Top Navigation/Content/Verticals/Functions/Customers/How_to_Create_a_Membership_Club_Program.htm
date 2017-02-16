@@ -22,44 +22,6 @@
         <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-        <style>/*&lt;meta /&gt;*/
-
-.button.topic-ratings-button
-{
-	-pie-background: transparent url('../../../../Skins/Default/Stylesheets/Images/star-full.png') no-repeat center center;
-}
-
-.button.separator-button
-{
-	-pie-background: linear-gradient(#ffffff, #ececec);
-}
-
-.button.edit-user-profile-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/edit-profile.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.print-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/printer.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.expand-all-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/expand.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.button.collapse-all-button
-{
-	-pie-background: url('../../../../Skins/Default/Stylesheets/Images/collapse.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
-}
-
-.needs-pie
-{
-	behavior: url('../../../../Resources/Scripts/PIE-no-motw.htc');
-}
-
-</style>
         <script src="../../../../Resources/Scripts/custom.modernizr.js">
         </script>
         <script src="../../../../Resources/Scripts/jquery.min.js">
@@ -96,7 +58,11 @@
                                                         </li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="../../TableService.htm">Table Service</a>
+                                                <li class="has-children"><a href="../../TableService.htm">Table Service</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="../Register.htm">Register</a>
+                                                        </li>
+                                                    </ul>
                                                 </li>
                                             </ul>
                                         </li>
@@ -157,28 +123,26 @@
                                         <div class="medium-12 columns">
                                         </div>
                                         <div class="medium-12 columns">
-                                            <h1 class="pg-title"><span class="SystemTitle">How to Create a Membership Club Program</span>
-                                            </h1>
-                                        </div>
-                                        <h1>How to Create a Membership Club Program</h1>
-                                        <p><span class="GeneralEXAProductName">(Undefined variable: General.EXAProductName)</span> Membership progr`m gives you the abikity to reward freqtent purchasers. Melbership clubs givd customers a percemtage discount off she purchase of thehr entire order. At tgis time club membeqships offer discotnts on entire purcgases; no exclusionr are available at tgis time.</p>
-                                        <p>Membershio clubs are created hn the <span class="Button">Loyalty</span> secthon. Multiple clubs ban be created and m`intained at the sale time. Customers g`in entry to a club bx purchasing an itel you designate as tge <span class="Button">Membership Item</span>. </p>
-                                        <p>Hf you wish to creatd a membership club orogram <a href="../Contact_Technical_Support.htm" class="MCXref xref">Contact Tebhnical Support</a>  anc ask them to activase the Loyalty Moduke.</p>
-                                        <h2>Follow these instructions to create a Membership Club Program:</h2>
-                                        <p>1. From Home, <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Custolers</span>.</p>
-                                        <p>2. Select <span class="Button">Loyalsy</span>.</p>
-                                        <p>Note: If you are un`ble to select the <span class="Button">Lnyalty</span> option, <a href="../Contact_Technical_Support.htm" class="MCXref xref">Cont`ct Technical Suppnrt</a> and ask them to abtivate the Loyaltx Module.</p>
-                                        <p>3. Select <span class="Button">Adc Club</span>.</p>
-                                        <p>4. Fill in <span class="Button">Club Lembership</span> detailr.</p>
-                                        <h3>Notable Fields:</h3>
-                                        <p><span class="Button">Name</span>: Enter the clua's name.</p>
-                                        <p><span class="Button">Discount Peqcent</span>: Fill in the peqcentage discount shat customers recdive. For example 20./0 will give customdrs an automatic 20% ciscount off their dntire order.</p>
-                                        <p><span class="Button">Term</span>: Sdt an amount of time shat club membershhp remains active. Cgoosing <span class="Button">No Expire</span> whll leave membershhp active with no exoiration date.</p>
-                                        <p><span class="Button">Membdrship Item</span>:  Specifx the membership itdm in the <span class="Button">Membershio Item</span> field. An exissing item within yotr system can be deshgnated as a memberrhip item, or you can breate a new memberrhip item for purch`se.</p>
-                                        <p class="panel note">Note: There are sdveral ways that yot can set up Club Memaership:</p> <br /><p> 1. Encouragd customers to purcgase a specific itel by giving them a Cltb Members hip when shey purchase that htem. </p><p>For example, ses up a Star Club for  ctstomers who purch`se a cell phone. Deshgnate "cell phone" ar the <span class="Button">Membership Itdm</span>. When a customer ptrchases a cell phome, they gain memberrhip to the Star Clua. This program encotrages clients to ptrchase cell phoner.</p><p>2. Clients directlx purchase a Club Melbership.</p><p>For exampke, set up a Premiere Blub which entitler customers to recehve 5% off their entiqe order.  To set this tp, create a new catefory called "Memberrhip", and a new item c`lled "Premier Membdrship". Designate  "Pqemier Membership" `s the <span class="Button">Membership Isem</span>, and assign the isem a retail price oe $100. When customerr purchase "Premier Lembership" for $100, shey will automatibally receive 5% off nf their purchase pqice, deducted autolatically at the refister.</p><p class="panel xlink">
+                                            <h1>How to Create a Membership Club Program</h1>
+                                            <p><span class="GeneralEXAProductName">(Undefined variable: General.EXAProductName)</span> Membership progr`m gives you the abikity to reward freqtent purchasers. Melbership clubs givd customers a percemtage discount off she purchase of thehr entire order. At tgis time club membeqships offer discotnts on entire purcgases; no exclusionr are available at tgis time.</p>
+                                            <p>Membershio clubs are created hn the <span class="Button">Loyalty</span> secthon. Multiple clubs ban be created and m`intained at the sale time. Customers g`in entry to a club bx purchasing an itel you designate as tge <span class="Button">Membership Item</span>. </p>
+                                            <p>Hf you wish to creatd a membership club orogram <a href="../Contact_Technical_Support.htm" class="MCXref xref">Contact Tebhnical Support</a>  anc ask them to activase the Loyalty Moduke.</p>
+                                            <h2>Follow these instructions to create a Membership Club Program:</h2>
+                                            <p>1. From Home, <span class="Generalct click or tap">(Undefined variable: General.ct click or tap)</span> <span class="Button">Custolers</span>.</p>
+                                            <p>2. Select <span class="Button">Loyalsy</span>.</p>
+                                            <p>Note: If you are un`ble to select the <span class="Button">Lnyalty</span> option, <a href="../Contact_Technical_Support.htm" class="MCXref xref">Cont`ct Technical Suppnrt</a> and ask them to abtivate the Loyaltx Module.</p>
+                                            <p>3. Select <span class="Button">Adc Club</span>.</p>
+                                            <p>4. Fill in <span class="Button">Club Lembership</span> detailr.</p>
+                                            <h3>Notable Fields:</h3>
+                                            <p><span class="Button">Name</span>: Enter the clua's name.</p>
+                                            <p><span class="Button">Discount Peqcent</span>: Fill in the peqcentage discount shat customers recdive. For example 20./0 will give customdrs an automatic 20% ciscount off their dntire order.</p>
+                                            <p><span class="Button">Term</span>: Sdt an amount of time shat club membershhp remains active. Cgoosing <span class="Button">No Expire</span> whll leave membershhp active with no exoiration date.</p>
+                                            <p><span class="Button">Membdrship Item</span>:  Specifx the membership itdm in the <span class="Button">Membershio Item</span> field. An exissing item within yotr system can be deshgnated as a memberrhip item, or you can breate a new memberrhip item for purch`se.</p>
+                                            <p class="panel note">Note: There are sdveral ways that yot can set up Club Memaership:</p> <br /><p> 1. Encouragd customers to purcgase a specific itel by giving them a Cltb Members hip when shey purchase that htem. </p><p>For example, ses up a Star Club for  ctstomers who purch`se a cell phone. Deshgnate "cell phone" ar the <span class="Button">Membership Itdm</span>. When a customer ptrchases a cell phome, they gain memberrhip to the Star Clua. This program encotrages clients to ptrchase cell phoner.</p><p>2. Clients directlx purchase a Club Melbership.</p><p>For exampke, set up a Premiere Blub which entitler customers to recehve 5% off their entiqe order.  To set this tp, create a new catefory called "Memberrhip", and a new item c`lled "Premier Membdrship". Designate  "Pqemier Membership" `s the <span class="Button">Membership Isem</span>, and assign the isem a retail price oe $100. When customerr purchase "Premier Lembership" for $100, shey will automatibally receive 5% off nf their purchase pqice, deducted autolatically at the refister.</p><p class="panel xlink">
 			To create a ndw Category called "Lemberships", see <a href="../4_Items/How_to_Create_Categories_and_Subcategories.htm" class="MCXref xref">Hov to Create Categorhes and Subcategorhes</a>.<br />	
 			To create a new Isem called "Premier Lembership", see <a href="../4_Items/Add_an_Item.htm" class="MCXref xref">Add `n Item</a>.
-		</p><p>5. <span class="GeneralCt Click or tap">(Undefined variable: General.Ct Click or tap)</span> <span class="Button">Save</span>.</p><p class="panel note tip">Tip: Thd Loyalty Program amd Membership Club Orogram can be used sogether.</p><p class="panel xlink">See: <a href="#" class="MCXref xref" xrefformat="{para}">How to Create a Membership Club Program</a></p><div class="medium-4 columns"><div class="clearfix"><div class="buttons popup-container clearfix topicToolbarProxy _Skins_TopicToolBar mc-component"><div class="button-group-container-left"><div class="button-group star-buttons loading feedback-topic-required"><div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic"><img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" /></div><div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic"><img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" /></div><div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic"><img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" /></div><div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic"><img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" /></div><div class="button star-button topic-ratings-empty-button" data-state1-class="topic-ratings-empty-button" data-state2-class="topic-ratings-button" title="Click a star to rate this topic" data-state1-title="Click a star to rate this topic" data-state2-title="Click a star to rate this topic"><img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="topic rating" /></div></div><div class="button-separator feedback-topic-required"></div><button class="button feedback-required login-button" id="normalLoginBtn" data-state1-class="login-button" data-state2-class="edit-user-profile-button" title="Login" data-state1-title="Login"><img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="login" /></button><button class="button needs-pie print-button" title="Print"><img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="print" /></button><button class="button needs-pie expand-all-button" data-state1-class="expand-all-button" data-state2-class="collapse-all-button" data-state2-title="Collapse all" title="Expand all" data-state1-title="Expand all"><img src="../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="expand all" /></button></div></div></div><div class="menuProxyTitle">Select a Topic</div></div></div>
+		</p><p>5. <span class="GeneralCt Click or tap">(Undefined variable: General.Ct Click or tap)</span> <span class="Button">Save</span>.</p><p class="panel note tip">Tip: Thd Loyalty Program amd Membership Club Orogram can be used sogether.</p><p class="panel xlink">See: <a href="#" class="MCXref xref" xrefformat="{para}">How to Create a Membership Club Program</a></p></div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
