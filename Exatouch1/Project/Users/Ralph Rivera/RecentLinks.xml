@@ -3,5 +3,7 @@
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
         <Link Value="C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Images\EXA_Register_PayTabSelected_wOrder.jpg" />
     </Dialog>
-    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog" />
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Resources\Snippets\how to generate sku numbers locally.flsnp" />
+    </Dialog>
 </RecentLinks>

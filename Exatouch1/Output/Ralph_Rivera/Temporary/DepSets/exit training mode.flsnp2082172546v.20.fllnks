@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Images/EXA_Home_UtilitiesSelected.jpg" />
+    <Link
+      Url="Content/Images/EXA_Utilities_SwitchtoTraining.jpg" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Staff/Use_Training_Mode.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Images/EXA_Home_UtilitiesSelected.jpg" />
+    <Link
+      Url="Content/Images/EXA_Utilities_SwitchtoTraining.jpg" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Staff/Use_Training_Mode.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

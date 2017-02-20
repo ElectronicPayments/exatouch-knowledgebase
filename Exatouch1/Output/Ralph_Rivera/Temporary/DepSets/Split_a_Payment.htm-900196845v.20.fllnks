@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Split a Payment"
+  FileLanguage="en-us"
+  FileSearchable="true"
+  MasterPage="file:///C:/Users/Ralph Rivera/Documents/GitHub/exatouch-knowledgebase/Exatouch1/Content/Resources/MasterPages/HelpTopicHolder.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="Customers may want to split the payment of their order. Orders are split from the Pay screen.">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
+    <Link
+      Url="Content/Resources/Snippets/split a payment.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
+    <Link
+      Url="Content/Resources/Snippets/split a payment.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

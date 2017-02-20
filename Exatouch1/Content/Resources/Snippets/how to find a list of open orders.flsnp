@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol class="steps">
+            <li>From Home, click or tap Register.</li>
+            <li>Choose <span class="Button">Get Order</span>.<img src="../../../../Images/EXA_Register_GetOrderSelected.bmp" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li>View the list of open orders.</li>
+        </ol>
+    </body>
+</html>

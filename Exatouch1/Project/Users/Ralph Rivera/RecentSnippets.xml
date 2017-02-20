@@ -1,2 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<UrlList />
+<UrlList>
+    <Url Source="Resources/Snippets/how to restrict access to system settings.flsnp" />
+    <Url Source="Resources/Snippets/assign a vendor to an item.flsnp" />
+    <Url Source="Resources/Snippets/how to add a manufacturer.flsnp" />
+    <Url Source="Resources/Snippets/how to add inventory costs and quantities to an item.flsnp" />
+    <Url Source="Resources/Snippets/how to create categories and subcategories.flsnp" />
+    <Url Source="Resources/Snippets/how to duplicate an item.flsnp" />
+    <Url Source="Resources/Snippets/how to generate sku numbers locally.flsnp" />
+    <Url Source="Resources/Snippets/how to set a default vendor for an item.flsnp" />
+    <Url Source="Resources/Snippets/how to set tax rates.flsnp" />
+    <Url Source="Resources/Snippets/modify sell options.flsnp" />
+    <Url Source="Resources/Snippets/set tax rate for an individual item.flsnp" />
+    <Url Source="Resources/Snippets/set tax rate for an individual service.flsnp" />
+    <Url Source="Resources/Snippets/clock out for a break.flsnp" />
+    <Url Source="Resources/Snippets/add a new employee.flsnp" />
+    <Url Source="Resources/Snippets/clock in from a break.flsnp" />
+    <Url Source="Resources/Snippets/deactivate or delete an employee.flsnp" />
+    <Url Source="Resources/Snippets/exit training mode.flsnp" />
+    <Url Source="Resources/Snippets/how to adjust a time clock entry.flsnp" />
+    <Url Source="Resources/Snippets/how to clock in.flsnp" />
+    <Url Source="Resources/Snippets/how to clock out.flsnp" />
+</UrlList>

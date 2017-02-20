@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="summary">
+            <span class="Button">Category</span> and <span class="Button">SubCategory</span> fields help you organize and keep track of your items. Categories and subcategories are created on the <span class="Button">Categories</span> screen.</p>
+        <h3 class="pg-subtitle">Create a Category:</h3>
+        <ol class="steps">
+            <li>From <span class="Button">Home</span>, click or tap <span class="Button">Items.</span><img src="../../Verticals/TableService/Functions/D_Images/EXA_HOME_ItemsSelected.jpg" class="Thumbnail" /></li>
+            <li>Select <span class="Button">Categories</span>.
+				<p class="note"><i class="material-icons">description</i><span class="Button">Items Categories</span> is the list of all current categories. If you have not yet entered any Categories, this list may be empty.</p><img src="../../Verticals/TableService/Functions/D_Images/EXA_Items_CategoriesSelected.jpg" class="Thumbnail" /></li>
+            <li>Add a category by clicking or tapping the first empty line on the Items Categories List.
+        		<img src="../../Verticals/TableService/Functions/D_Images/EXA_Categories_Create_Category.jpg" class="Thumbnail" /><p class="tip"><i class="material-icons">lightbulb_outline</i><strong>Tip!</strong> Open a touchpad keyboard by double clicking in the empty line, or Click <img src="../../Verticals/TableService/Functions/D_Images/EXA_Categories_miniKeyboard.jpg" /></p></li>
+            <li>Type the name of a category, and then press <span class="Button">Enter.</span></li>
+            <li>Repeat steps to create additional categories.</li>
+        </ol>
+        <h3 class="pg-subtitle">Create a SubCategory:</h3>
+        <p class="summary">SubCategories are secondary options within a category.</p>
+        <ol>
+            <li>1. Select a the desired category by clicking to highlight the category name. Subcategories will be created for this designated category.
+				<img src="../../Verticals/TableService/Functions/D_Images/EXA_Categories_Create_SubCategories.jpg" /></li>
+            <li>In the <span class="Button">SubCategories</span> column, click or tap the first empty line on the SubCategories list.</li>
+            <li>Type the name of a subcategory, and then press <span class="Button">Enter</span>.</li>
+            <li>Repeat steps to create additional subcategories.</li>
+        </ol>
+    </body>
+</html>

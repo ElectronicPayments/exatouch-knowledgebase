@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="151" MadCap:lastWidth="1435">
+    <body>
+        <ol class="steps">
+            <li>Click or tap the <span class="Button">Lock</span> icon.</li>
+            <li>Select <span class="Button">Clock In</span>.</li>
+            <li>Enter <span class="Button">PIN</span> or <span class="Button">Swipe your Employee Card</span>.</li>
+            <li>Press <span class="Button">Close</span> to confirm Clock In.</li>
+        </ol>
+    </body>
+</html>

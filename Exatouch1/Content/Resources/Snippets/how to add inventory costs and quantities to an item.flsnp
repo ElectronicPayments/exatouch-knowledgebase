@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol class="steps">
+            <li>From Home, click or tap <span class="Button">Items</span>.</li>
+            <li>Select <span class="Button">Items List</span></li>
+            <li>Choose an item by tapping on the item name. You may have to scroll through the <span class="Button">Items List</span> with your finger to locate your selection.</li>
+            <li>Click the <span class="Button">Inventory</span> tab.
+				<img src="../../Verticals/TableService/Functions/D_Images/EXA_Items Detail_CostandInventoryQuant.jpg" /></li>
+            <li>Confirm that the item is assigned to a vender in the <span class="Button">Vendor(s)</span> section. If not, <MadCap:xref href="../../Verticals/TableService/Functions/Items/Assign_a_Vendor_to_an_Item.htm">assign a Vendor to an Item</MadCap:xref>.</li>
+            <li>In the <span class="Button">Enter Cos</span>t section select the relevant cost option.</li>
+            <li>7. Click <span class="Button">Save</span>.</li>
+        </ol>
+        <h3 class="pg-subtitle">Cost Section</h3>
+        <ul>
+            <li>
+                <span class="Button">Recently Paid</span>, <span class="Button">Average Paid</span>, and <span class="Button">Least Paid</span>: The prices in these fields are automatically calculated and entered by Exatouch when the item is received from a Purchase Order.These fields can be selected, but not edited manually.</li>
+            <li>
+                <span class="Button">User Entered</span> field can be selected, and can also be edited.</li>
+        </ul>
+        <h3 class="pg-subtitle">Inventory Quantities Section</h3>
+        <ul>
+            <li>Add quantity in the <span class="Button">Add Some</span> field; subtract quantity in the <span class="Button">Delete Some</span> field.
+				<MadCap:dropDown><MadCap:dropDownHead><MadCap:dropDownHotspot>Notable fields</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><ul><li><span class="Button">Low Level</span>: Filling in a Low Level amount will set up an alert to notify you when the item reaches a low level.</li>'
+					<li><span class="Button">Reorder Quantity</span>: This field will automatically populate when a reorder quantity is added to a Purchase Order. The <span class="Button">Reorder Quantity</span> field cannot be manually edited in this location.</li></ul></MadCap:dropDownBody></MadCap:dropDown></li>
+        </ul>
+        <p class="readmore">See: Create a Purchase Order</p>
+        <p class="note">
+            <i class="material-icons">description</i>
+            <strong>Note:</strong> An item must be designated as an Inventory Item to have a cost and inventory quantity associated with it. If an item is designated as a non-invenotry item, the Cost and Inventory Quantity fields are disabled.  </p>
+    </body>
+</html>

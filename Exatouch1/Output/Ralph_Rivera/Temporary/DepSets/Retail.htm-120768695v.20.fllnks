@@ -10,17 +10,17 @@
     <Link
       Url="Content/Resources/MasterPages/FunctionHolder.flmsp" />
     <Link
-      Url="Content/Verticals/Functions/Register.htm" />
+      Url="Content/Verticals/Register.htm" />
     <Link
-      Url="Content/Verticals/Functions/Staff.htm" />
+      Url="Content/Verticals/Staff.htm" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/MasterPages/FunctionHolder.flmsp" />
     <Link
-      Url="Content/Verticals/Functions/Register.htm" />
+      Url="Content/Verticals/Register.htm" />
     <Link
-      Url="Content/Verticals/Functions/Staff.htm" />
+      Url="Content/Verticals/Staff.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="summary">Sometimes customers want to join their table with another customer's table. Tables can be joined from the <span class="Button">Floor Plan</span> screen:</p>
+        <p class="note">
+            <i class="material-icons">description</i>
+            <strong>Note:</strong> If your <span class="Button">Floor Plan</span> is not displaying, you may have to access the <span class="Button">Floor Plan</span> from the <span class="Button">Register</span> screen.</p>
+        <p>Follow these instructions to Join Tables with open orders:</p>
+        <ol class="steps">
+            <li>Click or tap the first table.
+				<img src="../../../../Images/EXA_FloorPlan_JoinTables1.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li>Select <span class="Button">Join To</span> on the pop-up screen.
+				<img src="../../../../Images/EXA_FloorPlan_JoinTables2.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li>Click or tap the second table.
+				<img src="../../../../Images/EXA_FloorPlan_JoinTables3.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li>Select <span class="Button">Save Join</span> to finalize the merge.  You should now be re-directed to the Register screen, where you can view the merged order on the register.
+				<img src="../../../../Images/EXA_FloorPlan_JoinTables4.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+        </ol>
+        <p class="readmore">Also see: <MadCap:xref href="../../../../TableService/Functions/Register/How_to_Merge_Orders.htm">How to Merge Orders</MadCap:xref></p>
+    </body>
+</html>

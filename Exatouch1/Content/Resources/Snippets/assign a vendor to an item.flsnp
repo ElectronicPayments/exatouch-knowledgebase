@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="summary">Assigning a vendor to an item gives you the ability to create a Purchase Order (PO) for that item.</p>
+        <ol class="steps">
+            <li>From Home, <MadCap:variable name="General.ct click or tap" /><span class="Button">Items</span>.</li>
+            <li>Select <span class="Button">Items List</span></li>
+            <li>Choose an item by tapping on the item name. You may have to scroll through the <span class="Button">Items List</span> to locate your selection.</li>
+            <li>Click the <span class="Button">Inventory</span> tab.
+				<img src="../../Verticals/TableService/Functions/D_Images/EXA_ItemsDetail_InventoryTabSelected.jpg" /></li>
+            <li>Review the Vendor(s) listed.
+				<p class="note"><i class="material-icons">description</i><strong>Note:</strong> Because an item can be supplied by different vendors, multiple vendors may be listed for a single item.</p></li>
+            <li>If the desired vendor is listed, tapto highlight the vendor.
+				<img src="../../Verticals/TableService/Functions/D_Images/EXA_ItemsDetail_VendorsList.jpg" /></li>
+            <li>If the desired vendor is NOT listed, click <span class="Button">Add</span> to add a vendor to the Vendor(s)&#160;list.
+				<img src="../../Verticals/TableService/Functions/D_Images/EXA_ItemsDetail_AddVendorSelected.jpg" /></li>
+            <li>8. The <span class="Button">Select Vendors</span> screen will pop-up. Click to highlight a vendor from the  vendors list.<span class="Button">. </span><img src="../../Verticals/TableService/Functions/D_Images/EXA_SelectVendorsPopup.jpg" /><p class="tip"><i class="material-icons">lightbulb_outline</i><strong>Tip!</strong> If your desired vendor is not listed, or if the vendor does not yet exist in your system, choose <span class="Button">New Vendors</span> to quickly add a new vendor. Also see: <MadCap:xref href="../../Verticals/TableService/Functions/7_Purchasing/Add_a_Vendor.htm">Add a Vendor</MadCap:xref></p></li>
+            <li>Once your vendor is highlighted,  click <span class="Button">Save</span>.
+				<img src="../../Verticals/TableService/Functions/D_Images/EXA_ItemsDetail_VendorSelectedSaved.jpg" /></li>
+        </ol>
+        <p class="note">
+            <i class="material-icons">description</i>
+            <strong>Note:</strong> Notice that one of the vendors is marked (default). Each item in Exatouch is associated with a default vendor. You can choose or reassign the default vendor. See: <MadCap:xref href="../../Verticals/TableService/Functions/Items/How_to_Set_a_Default_Vendor_for_an_Item.htm">How to Set a Default Vendor for an Item</MadCap:xref></p>
+    </body>
+</html>

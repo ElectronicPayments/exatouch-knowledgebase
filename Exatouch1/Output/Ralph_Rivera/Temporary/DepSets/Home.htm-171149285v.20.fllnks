@@ -18,9 +18,9 @@
     <Link
       Url="https://file.myfontastic.com/xBZufz7ibHs63ou83NLoMc/icons.css" />
     <Link
-      Url="Content/Verticals/Retail.htm" />
+      Url="Content/Verticals/Retail/Retail.htm" />
     <Link
-      Url="Content/Verticals/TableService.htm" />
+      Url="Content/Verticals/TableService/TableService.htm" />
   </Links>
   <LongLinks>
     <Link
@@ -36,9 +36,9 @@
     <Link
       Url="https://file.myfontastic.com/xBZufz7ibHs63ou83NLoMc/icons.css" />
     <Link
-      Url="Content/Verticals/Retail.htm" />
+      Url="Content/Verticals/Retail/Retail.htm" />
     <Link
-      Url="Content/Verticals/TableService.htm" />
+      Url="Content/Verticals/TableService/TableService.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />

@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+  FileTitle="How to find a List of Open Orders"
   FileSearchable="true"
   MasterPage="file:///C:/Users/Ralph Rivera/Documents/GitHub/exatouch-knowledgebase/Exatouch1/Content/Resources/MasterPages/HelpTopicHolder.flmsp"
   OnlyLocalStylesheets="false"
@@ -9,27 +10,20 @@
     <Link
       Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_Register_GetOrderSelected.bmp" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
+      Url="Content/Images/EXA_Register_GetOrderSelected.bmp" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_Register_GetOrderSelected.bmp" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
+      Url="Content/Images/EXA_Register_GetOrderSelected.bmp" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables>
-    <Variable
-      Name="General.ct click or tap" />
-  </Variables>
+  <Variables />
   <FileConditions />
   <FileTags />
   <AllConditions />

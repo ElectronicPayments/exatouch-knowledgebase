@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Verticals/TableService/Functions/D_Images/EXA_HOME_ItemsSelected.jpg" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/D_Images/EXA_Items_CategoriesSelected.jpg" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/D_Images/EXA_Categories_Create_Category.jpg" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/D_Images/EXA_Categories_miniKeyboard.jpg" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/D_Images/EXA_Categories_Create_SubCategories.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Verticals/TableService/Functions/D_Images/EXA_HOME_ItemsSelected.jpg" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/D_Images/EXA_Items_CategoriesSelected.jpg" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/D_Images/EXA_Categories_Create_Category.jpg" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/D_Images/EXA_Categories_miniKeyboard.jpg" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/D_Images/EXA_Categories_Create_SubCategories.jpg" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

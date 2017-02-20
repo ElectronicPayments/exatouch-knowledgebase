@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
-  FileTitle=""
+  FileTitle="How to Join Tables"
   FileLanguage="en-us"
   FileSearchable="true"
   MasterPage="file:///C:/Users/Ralph Rivera/Documents/GitHub/exatouch-knowledgebase/Exatouch1/Content/Resources/MasterPages/HelpTopicHolder.flmsp"
@@ -11,43 +11,36 @@
     <Link
       Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_FloorPlan_JoinTables1.jpg" />
+      Url="Content/Images/EXA_FloorPlan_JoinTables1.jpg" />
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_FloorPlan_JoinTables2.jpg" />
+      Url="Content/Images/EXA_FloorPlan_JoinTables2.jpg" />
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_FloorPlan_JoinTables3.jpg" />
+      Url="Content/Images/EXA_FloorPlan_JoinTables3.jpg" />
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_FloorPlan_JoinTables4.jpg" />
+      Url="Content/Images/EXA_FloorPlan_JoinTables4.jpg" />
     <Link
       Url="Content/Verticals/Functions/Register/How_to_Merge_Orders.htm" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_FloorPlan_JoinTables1.jpg" />
+      Url="Content/Images/EXA_FloorPlan_JoinTables1.jpg" />
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_FloorPlan_JoinTables2.jpg" />
+      Url="Content/Images/EXA_FloorPlan_JoinTables2.jpg" />
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_FloorPlan_JoinTables3.jpg" />
+      Url="Content/Images/EXA_FloorPlan_JoinTables3.jpg" />
     <Link
-      Url="Content/Verticals/Functions/D_Images/EXA_FloorPlan_JoinTables4.jpg" />
+      Url="Content/Images/EXA_FloorPlan_JoinTables4.jpg" />
     <Link
       Url="Content/Verticals/Functions/Register/How_to_Merge_Orders.htm" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables>
-    <Variable
-      Name="General.Ct Click or tap" />
-  </Variables>
+  <Variables />
   <FileConditions />
   <FileTags />
   <AllConditions />

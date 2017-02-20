@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Verticals/TableService/Functions/1_Register/How_to_Manage_the _Time_Clock.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/8_Utilities And Settings/How_to_Restrict_Access_to_System_Settings.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Verticals/TableService/Functions/1_Register/How_to_Manage_the _Time_Clock.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/8_Utilities And Settings/How_to_Restrict_Access_to_System_Settings.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

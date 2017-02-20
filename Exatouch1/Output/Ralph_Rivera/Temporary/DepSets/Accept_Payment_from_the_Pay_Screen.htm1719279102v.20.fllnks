@@ -1,59 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
-  FileTitle=""
+  FileTitle="Accept Payment from the Pay Screen"
   FileLanguage="en-us"
   FileSearchable="true"
+  MasterPage="file:///C:/Users/Ralph Rivera/Documents/GitHub/exatouch-knowledgebase/Exatouch1/Content/Resources/MasterPages/HelpTopicHolder.flmsp"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
-  FilePriority="0">
+  FilePriority="0"
+  FileDescription="Payments can be accepted directly from the Register screen or from the Pay screen.">
   <Links>
     <Link
-      Url="Content/Images/EXA_Register_PayTabSelected_wOrder.jpg" />
+      Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
     <Link
-      Url="Content/Images/EXA_PayScreen_PaymentOptionsSelected.jpg" />
+      Url="../../Images/EXA_Register_PayTabSelected_wOrder.jpg" />
     <Link
-      Url="Content/Accept_Payment_from_the_Pay_Screen.htm" />
+      Url="../../Images/EXA_PayScreen_PaymentOptionsSelected.jpg" />
     <Link
-      Url="Content/Images/EXA_PayScreen_PaySelected.jpg" />
+      Url="../../Images/EXA_PayScreen_PaySelected.jpg" />
     <Link
       Url="Content/Accept_Payment_from_the_Register_Screen.htm" />
-    <Link
-      Url="Project/ConditionTagSets/EXA Table Service.flcts" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Images/EXA_Register_PayTabSelected_wOrder.jpg" />
+      Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
     <Link
-      Url="Content/Images/EXA_PayScreen_PaymentOptionsSelected.jpg" />
+      Url="../../Images/EXA_Register_PayTabSelected_wOrder.jpg" />
     <Link
-      Url="Content/Accept_Payment_from_the_Pay_Screen.htm#collapseOne" />
+      Url="../../Images/EXA_PayScreen_PaymentOptionsSelected.jpg" />
     <Link
-      Url="Content/Images/EXA_PayScreen_PaySelected.jpg" />
+      Url="../../Images/EXA_PayScreen_PaySelected.jpg" />
     <Link
       Url="Content/Accept_Payment_from_the_Register_Screen.htm" />
-    <Link
-      Url="Project/ConditionTagSets/EXA Table Service.flcts" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables>
-    <Variable
-      Name="General.ct click or tap" />
-    <Variable
-      Name="General.EXAProductName" />
-  </Variables>
+  <Variables />
   <FileConditions />
   <FileTags />
-  <AllConditions>
-    <Condition
-      Tag="EXA Table Service.PrintOnly" />
-  </AllConditions>
+  <AllConditions />
   <Stylesheets />
 </CatapultFileLinkSet>

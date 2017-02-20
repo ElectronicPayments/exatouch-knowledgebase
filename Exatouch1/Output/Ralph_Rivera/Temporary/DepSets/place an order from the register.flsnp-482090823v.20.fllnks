@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="../Images/EXA_RegisterIcon.jpg" />
+    <Link
+      Url="../Images/EXA_Register_DineInTakeOutOptions.jpg" />
+    <Link
+      Url="../Images/EXA_Register_OrderFromRegister.jpg" />
+    <Link
+      Url="../Images/EXA_Register_OrderFromRegister_TapItems.jpg" />
+    <Link
+      Url="../Images/EXA_Register_RepeatLinePointer.jpg" />
+    <Link
+      Url="../Images/EXA_Register_SaveOrderPointer.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="../Images/EXA_RegisterIcon.jpg" />
+    <Link
+      Url="../Images/EXA_Register_DineInTakeOutOptions.jpg" />
+    <Link
+      Url="../Images/EXA_Register_OrderFromRegister.jpg" />
+    <Link
+      Url="../Images/EXA_Register_OrderFromRegister_TapItems.jpg" />
+    <Link
+      Url="../Images/EXA_Register_RepeatLinePointer.jpg" />
+    <Link
+      Url="../Images/EXA_Register_SaveOrderPointer.jpg" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Accept Payment from the Pay Screen"
+  FileLanguage="en-us"
+  FileSearchable="true"
+  MasterPage="file:///C:/Users/Ralph Rivera/Documents/GitHub/exatouch-knowledgebase/Exatouch1/Content/Resources/MasterPages/HelpTopicHolder.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="Payments can be accepted directly from the Register screen or from the Pay screen.">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
+    <Link
+      Url="Content/Verticals/Images/EXA_Register_PayTabSelected_wOrder.jpg" />
+    <Link
+      Url="Content/Verticals/Images/EXA_PayScreen_PaymentOptionsSelected.jpg" />
+    <Link
+      Url="Content/Verticals/Images/EXA_PayScreen_PaySelected.jpg" />
+    <Link
+      Url="Content/Verticals/Table Service/Functions/Register/Accept_Payment_from_the_Register_Screen.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/HelpTopicHolder.flmsp" />
+    <Link
+      Url="Content/Verticals/Images/EXA_Register_PayTabSelected_wOrder.jpg" />
+    <Link
+      Url="Content/Verticals/Images/EXA_PayScreen_PaymentOptionsSelected.jpg" />
+    <Link
+      Url="Content/Verticals/Images/EXA_PayScreen_PaySelected.jpg" />
+    <Link
+      Url="Content/Verticals/Table Service/Functions/Register/Accept_Payment_from_the_Register_Screen.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

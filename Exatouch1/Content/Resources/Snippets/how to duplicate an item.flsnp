@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Items can be quickly duplicated from the Items Detail screen:</p>
+        <ol class="steps">
+            <li>From Home, click/tap <span class="Button">Items</span>.
+				<img src="../../Images/EXA_Home_ItemsSelected.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li>Select <span class="Button">Items List</span>.</li>
+            <li>Find and select the item you'd like to duplicate</li>
+            <li>From the <span class="Button">Items Detail</span> screen, click the <img src="../../Verticals/TableService/Functions/D_Images/EXA_MenuIcon.jpg" /> icon.
+				<img src="../../Images/EXA_ItemsDetail_MenuSelected.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li>Select <span class="Button">Duplicate</span>.
+				<img src="../../Images/EXA_ItemsDetail_MenuSelected_Duplicate.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li>Modify the duplicate item as needed, then click <span class="Button">Save</span>.</li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="summary">In Exatouch, items are always linked to vendors, and items are always assigned a default vendor. If no vendor is assigned to an item, your system will create a default vendor called <span class="Button">No Vendor</span>. If only one vendor is listed for your item, that vendor will be automatically assigned as default. If there are multiple vendors listed for an item, you can choose the default vendor.</p>
+        <ol class="steps">
+            <li>Navigate to the <span class="Button">Items Detail</span> page, and select the <span class="Button">Inventory</span> tab.
+				<img src="../../Images/EXA_Vendors_SetDefault.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li>Click to highlight a vendor in the <span class="Button">Vendor(s)</span> section.
+				<img src="../../Images/EXA_Vendors_SetDefault2.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li>Click <span class="Button">Set Default</span>.</li>
+            <li>Confirm that the correct vendor is listed as (default).
+            	<img src="../../Images/EXA_Vendors_SetDefault3.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+        </ol>
+    </body>
+</html>

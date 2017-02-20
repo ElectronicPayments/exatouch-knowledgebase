@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Split a Check by Item"
+  FileLanguage="en-us"
+  FileSearchable="true"
+  MasterPage="file:///C:/Users/Ralph Rivera/Documents/GitHub/exatouch-knowledgebase/Exatouch1/Content/Verticals/Resources/MasterPages/HelpTopicHolder.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Verticals/Resources/MasterPages/HelpTopicHolder.flmsp" />
+    <Link
+      Url="Content/Verticals/Images/EXA_Register_SplitByItem_Selected.jpg" />
+    <Link
+      Url="Content/Verticals/Images/EXA_Register_SplitByItemScreen.jpg" />
+    <Link
+      Url="Content/Verticals/Images/EXA_Register_SplitByItemScreen2.jpg" />
+    <Link
+      Url="Content/Verticals/test/Functions/Register/Split_a_Payment.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Verticals/Resources/MasterPages/HelpTopicHolder.flmsp" />
+    <Link
+      Url="Content/Verticals/Images/EXA_Register_SplitByItem_Selected.jpg" />
+    <Link
+      Url="Content/Verticals/Images/EXA_Register_SplitByItemScreen.jpg" />
+    <Link
+      Url="Content/Verticals/Images/EXA_Register_SplitByItemScreen2.jpg" />
+    <Link
+      Url="Content/Verticals/test/Functions/Register/Split_a_Payment.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

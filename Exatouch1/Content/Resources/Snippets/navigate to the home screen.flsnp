@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="summary">The <span class="Button">Home</span> screen gives you easy access to Exatouch features. Your location within Exatouch can be identified easily by viewing the description on the bottom left of your screen. Your Home screen is labeled HOME.</p>
+        <p>Navigate to your <span class="Button">Home</span> screen by simply clicking or tapping the <span class="Button">Home Icon</span> one or multiple times. <img class="button-icon" src="../../Images/EXA_Home_HomeIcon.jpg" /></p>
+        <p class="note"><i class="material-icons">description</i> <strong>Note:</strong> Clicking the <span class="Button">Home Icon</span> will also bring you to the previous menu page. You may have to click the <span class="Button">Home Icon</span> several times to bring you back to your <span class="Button">Home</span> screen.</p>
+    </body>
+</html>

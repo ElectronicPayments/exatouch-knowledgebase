@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="summary">Customers may want to split their order into multiple checks:</p>
+        <ol class="steps">
+            <li>From the <span class="Button">Register</span>, click or tap <span class="Button">Split by item</span>.
+				<img src="../../../../Images/EXA_Register_SplitByItem_Selected.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li>Click to highlight the desired item.
+				<img src="../../../../Images/EXA_Register_SplitByItemScreen.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li>Click or tap the order box (i.e. Order 2) that you'd like to move the item to. Tapping the desired order box will move the item to a separate check.
+				<img src="../../../../Images/EXA_Register_SplitByItemScreen2.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li> Repeat tapping to move additional items you'd like to move to the separate order.</li>
+            <li>Select <span class="Button">Done</span>. This will create new checks for each order.</li>
+        </ol>
+        <p class="readmore">Also see <MadCap:xref href="../../../../TableService/Functions/Register/Split_a_Payment.htm">Split a Payment</MadCap:xref></p>
+    </body>
+</html>

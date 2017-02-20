@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="553" MadCap:lastWidth="1435">
+    <body>
+        <p class="summary">The Time Clock captures an employees paid working hours. Time is tracked when employees clock in and clock out. Sometimes Employees forget to clock in or out, or clock in only after they start working their shift. In these cases Time Clock entries can be adjusted.</p>
+        <ol class="steps">
+            <li>From <span class="Button">Home</span>, click or tap <span class="Button">Staff</span>.</li>
+            <li>Select <span class="Button">Time Clock</span>.</li>
+            <li>Select <span class="Button">Date</span> by clicking the drop-down menu and highlighting the desired date.</li>
+            <li>Highlight the name of the staff member by clicking or tapping on their record.</li>
+            <li>View the staffer's list of <span class="Button">Time Clock Records</span> for the selected day.</li>
+            <li>Click on the record you want to edit.</li>
+            <li>Adjust the Time Clock record by editing the following fields:</li>
+            <li><span class="Button">Time In: and Time Out:</span>
+            </li>
+            <li>Adjust the date by clicking the drop-down menu. Select the revised date on the Calendar pop-up window.</li>
+            <li>Adjust the times by clicking the drop-down menus. Select the revised time on the Clock pop-up window.</li>
+            <li><span class="Button">Declared Tips</span>: Enter a new tip amount in the <span class="Button">Declared Tips</span> field.</li>
+            <li>Click <span class="Button">Save Changes</span>.</li>
+        </ol>
+        <p class="readmore">Also see <MadCap:xref href="../../Verticals/TableService/Functions/1_Register/How_to_Manage_the _Time_Clock.htm">How to Manage the Time Clock</MadCap:xref></p>
+        <p class="tip"><i class="material icons">lightbulb_icon</i><strong>Tip!</strong> You can restrict staff from adjusting Time Clock entries by setting Manager-Only access to <span class="Button">Settings</span>. See <MadCap:xref href="../../Verticals/TableService/Functions/8_Utilities And Settings/How_to_Restrict_Access_to_System_Settings.htm">How to Restrict Access to System Settings</MadCap:xref> for more information.</p>
+    </body>
+</html>

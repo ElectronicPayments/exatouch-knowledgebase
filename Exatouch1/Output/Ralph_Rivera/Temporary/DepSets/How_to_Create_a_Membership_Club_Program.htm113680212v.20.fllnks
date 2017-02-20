@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Verticals/Table Service/Functions/Contact_Technical_Support.htm" />
+    <Link
+      Url="Content/Verticals/Table Service/Functions/4_Items/How_to_Create_Categories_and_Subcategories.htm" />
+    <Link
+      Url="Content/Verticals/Table Service/Functions/4_Items/Add_an_Item.htm" />
+    <Link
+      Url="Content/Verticals/Table Service/Functions/Customers/How_to_Create_a_Membership_Club_Program.htm" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Verticals/Table Service/Functions/Contact_Technical_Support.htm" />
+    <Link
+      Url="Content/Verticals/Table Service/Functions/4_Items/How_to_Create_Categories_and_Subcategories.htm" />
+    <Link
+      Url="Content/Verticals/Table Service/Functions/4_Items/Add_an_Item.htm" />
+    <Link
+      Url="Content/Verticals/Table Service/Functions/Customers/How_to_Create_a_Membership_Club_Program.htm" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.EXAProductName" />
+    <Variable
+      Name="General.ct click or tap" />
+    <Variable
+      Name="General.Ct Click or tap" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

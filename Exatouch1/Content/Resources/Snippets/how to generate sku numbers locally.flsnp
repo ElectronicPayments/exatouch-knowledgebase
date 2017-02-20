@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+	<body>
+		<p class="summary">It may be useful to assign a local SKU number or Alt SKU number to an item. For example, you may want to create your own SKU number if your item does not have a manufacturer's (mfg) SKU number assigned.</p>
+		<p>From the New Item screen, there are two ways to generate SKU numbers locally.</p>
+		<img src="../../../../Images/EXA_NewItem_SKU_fields.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" />
+		<h3 class="pg-subtitle">Manually:</h3>
+		<p>Type a custom SKU number in the <span class="Button">SKU</span> or <span class="Button">Alt SKU</span> fields.</p>
+		<h3 class="pg-subtitle">Automatically:</h3>
+		<p>Click <img src="../../../../Images/EXA_SKUimg.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /> next to the <span class="Button">SKU</span> or <span class="Button">Alt SKU</span> field.</p>
+    </body>
+</html>

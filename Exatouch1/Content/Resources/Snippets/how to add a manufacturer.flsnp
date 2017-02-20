@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="summary">Adding a manufacturer to your system will allow you to create purchase orders for items and submit the POs to the manufacturer.</p>
+        <h3 class="pg-subtitle">From the New Item screen</h3>
+        <ol class="steps">
+            <li>Access the New Item screen from Home &gt; Items &gt; Item Details</li>
+            <li>Click or tap <img src="../../Verticals/TableService/Functions/D_Images/EXA_NewItem_ManufField_GearIcon.jpg" /></li>
+            <li>Select <span class="Button">Add Line.</span></li>
+            <li>Type in the manufacturer's name.
+				<ul><li>Add additional names to your manufacturer list by selecting <span class="Button">Add Line.</span></li><li>Delete a manufacturer from the list by selecting <span class="Button">Delete</span> next to the manufacturer's name.</li></ul></li>
+            <li>Click <span class="Button">Save</span> to save your updated list.</li>
+        </ol>
+        <h3 class="pg-subtitle">From System settings</h3>
+        <ol class="steps">
+            <li>From <span class="Button">Home</span>, click or tap <span class="Button">Settings</span>.</li>
+            <li>Select <span class="Button">System</span>.</li>
+            <li>Click the <span class="Button">Custom Labels</span> tab.</li>
+            <li>From the <span class="Button">Type</span> drop-down menu, select <span class="Button">Manufacturer</span>.
+				<p>SCREENSHOT</p></li>
+            <li>Select <span class="Button">Add Line.</span></li>
+            <li>Type in the manufacturer's name.
+				<ul><li>Add additional names to your manufacturer list by selecting <span class="Button">Add Line.</span></li><li>Delete a manufacturer from the list by selecting <span class="Button">Delete</span> next to the manufacturer's name.</li></ul></li>
+            <li>Click <span class="Button">Save</span> to save your updated list.</li>
+        </ol>
+    </body>
+</html>

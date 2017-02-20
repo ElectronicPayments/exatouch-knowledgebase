@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="summary">Sometimes you need to reassign a table to another wait staff member. If your restaurant uses the Open Floor Plan, you can reassign tables. Tables are reassigned from the <span class="Button">Floor Plan</span>:</p>
+        <ol class="steps">
+            <li>From Home, click or tap <span class="Button">Register</span>.</li>
+            <li>Select the <span class="Button">Floor Plan</span> tab.
+				<img src="../../../../Images/EXA_Register_FloorPlanTabSelected.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li>From the <span class="Button">Floor Plan</span>, <MadCap:variable name="General.ct click or tap"></MadCap:variable> on the table you want to reassign</li>
+            <li>Select <span class="Button">Reassign</span>from the pop-up menu.
+				<img src="../../../../Images/EXA_FloorPlan_PopUp_ReasssignSelected.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li>From the pop-up box, click on the wait staffer's name that you want to reassign the table to. If there are many wait staffers listed, you can search for a name by typing into the <span class="Button">Start typing search string</span> field.
+				<img src="../../../../Images/EXA_Register_ReassignTable.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
+            <li>Check to see that the table was reassigned by clicking again on the table, and by reviewing the table information in the pop-up box.</li>
+        </ol>
+    </body>
+</html>

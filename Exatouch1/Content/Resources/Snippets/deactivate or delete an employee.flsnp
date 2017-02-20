@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="292" MadCap:lastWidth="1435">
+    <body>
+        <p class="summary">Sometimes employees leave and are fired, and you need to delete or deactivate them from your system.</p>
+        <ol class="steps">
+            <li>From the <span class="Button">Home</span> screen, click or tap <span class="Button">Staff.</span></li>
+            <li>Select <span class="Button">Staff List</span>.</li>
+            <li>Click on the name of the employee.</li>
+            <li>Select the <span class="Button">Menu</span> option.</li>
+            <li>Press <span class="Button">Delete</span>.</li>
+            <li>Click <span class="Button">Yes</span> to confirm.</li>
+        </ol>
+        <p class="note"><i class="material-icons">description</i><strong>Note:</strong> Staff members are not permanently deleted. Rather, they are deactivated so you can reference their history and re-activate them if needed.</p>
+    </body>
+</html>
