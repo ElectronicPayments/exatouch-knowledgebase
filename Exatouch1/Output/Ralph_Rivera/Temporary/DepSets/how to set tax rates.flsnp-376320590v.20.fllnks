@@ -6,15 +6,15 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Snippets/Set_Tax_Rate_for_an_Individual_Item.htm" />
+      Url="Content/Verticals/TableService/Functions/Items/Set_Tax_Rate_for_an_Individual_Item.htm" />
     <Link
-      Url="Content/Resources/Snippets/Set_Tax_Rate_for_an_Individual_Service.htm" />
+      Url="Content/Verticals/TableService/Functions/Items/Set_Tax_Rate_for_an_Individual_Service.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Resources/Snippets/Set_Tax_Rate_for_an_Individual_Item.htm" />
+      Url="Content/Verticals/TableService/Functions/Items/Set_Tax_Rate_for_an_Individual_Item.htm" />
     <Link
-      Url="Content/Resources/Snippets/Set_Tax_Rate_for_an_Individual_Service.htm" />
+      Url="Content/Verticals/TableService/Functions/Items/Set_Tax_Rate_for_an_Individual_Service.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="363" MadCap:lastWidth="1630">
     <body>
         <p class="summary">There are several ways to modify your inventory level. The most basic way to modify inventory level is through the <span class="Button">Items Detail</span> screen:</p>
         <ol class="steps">
@@ -9,9 +9,7 @@
             <li>Select the <span class="Button">Inventory</span> tab.</li>
             <li>Adjust <span class="Button">Inventory Quantities</span> to reflect available stock.</li>
         </ol>
-        <p class="note">
-            <i class="material-icons">description</i>
-            <strong>Note:</strong> If an item is designated as a "Non-Inventory Item" you will be unable to adjust the inventory amount for the item. To change an item's from "Non-Inventory" status, see: <MadCap:xref href="../../../../TableService/Functions/Modify_Sell_Options.htm">Modify Sell Options</MadCap:xref></p>
+        <p class="note"><i class="material-icons">description</i><strong>Note:</strong> If an item is designated as a "Non-Inventory Item" you will be unable to adjust the inventory amount for the item. To change an item's from "Non-Inventory" status, see: <MadCap:xref href="../../Verticals/TableService/Functions/Items/Modify_Sell_Options.htm">Modify Sell Options</MadCap:xref></p>
         <h2>Adjust inventory by completing a Purchase Order</h2>
         <h2>Adjust inventory using Inventory Counting</h2>
     </body>

@@ -4,7 +4,12 @@
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links />
+  <Links>
+    <Link
+      Url="Content/Resources/Images/DropDownOpen.gif" />
+    <Link
+      Url="Content/Resources/Images/DropDownClosed.gif" />
+  </Links>
   <LongLinks />
   <Anchors />
   <Keywords />

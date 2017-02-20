@@ -6,31 +6,31 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="../TableService/Functions/Staff/How_to_Clock_In.htm" />
+      Url="Content/Verticals/TableService/Functions/Staff/How_to_Clock_In.htm" />
     <Link
-      Url="../TableService/Functions/Staff/How_to_Clock_Out.htm" />
+      Url="Content/Verticals/TableService/Functions/Staff/How_to_Clock_Out.htm" />
     <Link
-      Url="../TableService/Functions/Staff/Clock_Out_for_a_Break.htm" />
+      Url="Content/Verticals/TableService/Functions/Staff/Clock_Out_for_a_Break.htm" />
     <Link
-      Url="../TableService/Functions/2_Staff/Clock_In_from_a_Break.htm" />
+      Url="Content/Verticals/TableService/Functions/Staff/Clock_In_from_a_Break.htm" />
     <Link
-      Url="../TableService/Functions/2_Staff/How_to_Adjust_a _Time_Clock_Entry.htm" />
+      Url="Content/Verticals/TableService/Functions/Staff/How_to_Adjust_a _Time_Clock_Entry.htm" />
     <Link
-      Url="../TableService/Functions/8_Utilities And Settings/How_to_Restrict_Access_to_System_Settings.htm" />
+      Url="Content/Verticals/TableService/Functions/Staff/How_to_Restrict_Access_to_System_Settings.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="../TableService/Functions/Staff/How_to_Clock_In.htm" />
+      Url="Content/Verticals/TableService/Functions/Staff/How_to_Clock_In.htm" />
     <Link
-      Url="../TableService/Functions/Staff/How_to_Clock_Out.htm" />
+      Url="Content/Verticals/TableService/Functions/Staff/How_to_Clock_Out.htm" />
     <Link
-      Url="../TableService/Functions/Staff/Clock_Out_for_a_Break.htm" />
+      Url="Content/Verticals/TableService/Functions/Staff/Clock_Out_for_a_Break.htm" />
     <Link
-      Url="../TableService/Functions/2_Staff/Clock_In_from_a_Break.htm" />
+      Url="Content/Verticals/TableService/Functions/Staff/Clock_In_from_a_Break.htm" />
     <Link
-      Url="../TableService/Functions/2_Staff/How_to_Adjust_a _Time_Clock_Entry.htm" />
+      Url="Content/Verticals/TableService/Functions/Staff/How_to_Adjust_a _Time_Clock_Entry.htm" />
     <Link
-      Url="../TableService/Functions/8_Utilities And Settings/How_to_Restrict_Access_to_System_Settings.htm" />
+      Url="Content/Verticals/TableService/Functions/Staff/How_to_Restrict_Access_to_System_Settings.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />

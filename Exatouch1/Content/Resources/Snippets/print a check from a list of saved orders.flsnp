@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="195" MadCap:lastWidth="1630">
     <body>
         <p class="summary">When customer finishes their meal, their check needs to be printed. Checks are printed from the <span class="Button">Register</span> screen. Follow these instructions to print a check from a list of saved orders:</p>
         <ol class="steps">
@@ -9,6 +9,6 @@
 				<img src="../../../../Images/EXA_GetOrderScreen_PrintSelected.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
             <li>Select <span class="Button">Print</span>.</li>
         </ol>
-        <p class="readmore">Also see: <MadCap:xref href="../../../../TableService/Functions/Register/Print_a_Check_for_the_Current_Order.htm">Print a Check for the Current Order</MadCap:xref></p>
+        <p class="readmore">Also see: <MadCap:xref href="../../Verticals/TableService/Functions/Register/Print_a_Check_for_the_Current_Order.htm">Print a Check for the Current Order</MadCap:xref></p>
     </body>
 </html>

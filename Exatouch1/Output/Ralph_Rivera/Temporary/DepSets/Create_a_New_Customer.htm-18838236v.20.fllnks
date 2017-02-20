@@ -1,38 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+  FileTitle="Create a New Customer"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Verticals/Table Service/Functions/D_Images/EXA_NewCustomer_SwipeIcon.jpg" />
-    <Link
-      Url="Content/Verticals/Table Service/Functions/Customers/How_to_Create_a_Loyalty_Program.htm" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
+      Url="Content/Resources/Snippets/create a new customer.flsnp" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Verticals/Table Service/Functions/D_Images/EXA_NewCustomer_SwipeIcon.jpg" />
-    <Link
-      Url="Content/Verticals/Table Service/Functions/Customers/How_to_Create_a_Loyalty_Program.htm" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
+      Url="Content/Resources/Snippets/create a new customer.flsnp" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables>
-    <Variable
-      Name="General.EXAProductName" />
-    <Variable
-      Name="General.ct click or tap" />
-    <Variable
-      Name="General.Required Fields" />
-  </Variables>
+  <Variables />
   <FileConditions />
   <FileTags />
   <AllConditions />

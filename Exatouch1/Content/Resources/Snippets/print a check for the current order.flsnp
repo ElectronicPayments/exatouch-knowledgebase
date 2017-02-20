@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="161" MadCap:lastWidth="1630">
     <body>
         <p class="summary">After the food has been served and the meal is completed it’s time to print the customer's check. Checks are printed from the <span class="Button">Register</span> screen:</p>
         <ol class="steps">
             <li>From Home, click or tap <span class="Button">Register</span>.</li>
             <li>Select <span class="Button">Print order.</span><img src="../../../../Images/EXA_Register_PrintOrder_Pointer.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
         </ol>
-        <p class="readmore">Also see: <MadCap:xref href="../../../../TableService/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm">Print a Check from a List of Saved Orders</MadCap:xref></p>
+        <p class="readmore">Also see: <MadCap:xref href="../../Verticals/TableService/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm">Print a Check from a List of Saved Orders</MadCap:xref></p>
     </body>
 </html>

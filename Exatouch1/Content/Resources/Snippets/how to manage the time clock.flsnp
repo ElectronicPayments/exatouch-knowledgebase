@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="513" MadCap:lastWidth="1630">
     <body>
-        <p class="summary">Staff record their paid time by <MadCap:xref href="../../../../TableService/Functions/Staff/How_to_Clock_In.htm">Clocking In</MadCap:xref> and <MadCap:xref href="../../../../TableService/Functions/Staff/How_to_Clock_Out.htm">Clocking Out</MadCap:xref>. They track their paid breaks by <MadCap:xref href="../../../../TableService/Functions/Staff/Clock_Out_for_a_Break.htm">Clocking Out for a Break</MadCap:xref> and <MadCap:xref href="../../../../TableService/Functions/2_Staff/Clock_In_from_a_Break.htm">Clocking In from a Break </MadCap:xref>. These time entries are recorded by the Time Clock. Time Clock records can be viewed and managed as follows:</p>
+        <p class="summary">Staff record their paid time by <MadCap:xref href="../../Verticals/TableService/Functions/Staff/How_to_Clock_In.htm">Clocking In</MadCap:xref> and <MadCap:xref href="../../Verticals/TableService/Functions/Staff/How_to_Clock_Out.htm">Clocking Out</MadCap:xref>. They track their paid breaks by <MadCap:xref href="../../Verticals/TableService/Functions/Staff/Clock_Out_for_a_Break.htm">Clocking Out for a Break</MadCap:xref> and <MadCap:xref href="../../Verticals/TableService/Functions/Staff/Clock_In_from_a_Break.htm">Clocking In from a Break </MadCap:xref>. These time entries are recorded by the Time Clock. Time Clock records can be viewed and managed as follows:</p>
         <ol class="steps">
             <li>From Home, click or tap <span class="Button">Staff</span>.</li>
             <li>Select <span class="Button">Time Clock</span>.</li>
@@ -11,16 +11,12 @@
         </ol>
         <h2>Manage Time Clock entries by selecting from the following options:</h2>
         <ol class="steps">
-            <li>
-                <span class="Button">Delete Record</span>: delete a time entry.</li>
-            <li>
-                <span class="Button">Print Shift</span>: print a shift report.</li>
-            <li>
-                <span class="Button">Insert Record</span>: create and insert a new time entry.</li>
-            <li>Adjust a Time Clock entry by adjusting <span class="Button">Declared Tips</span>, <span class="Button">Time In</span>, and <span class="Button">Time Out</span>. For more details see <MadCap:xref href="../../../../TableService/Functions/2_Staff/How_to_Adjust_a _Time_Clock_Entry.htm">How to Adjust a Time Clock Entry</MadCap:xref>.</li>
+            <li><span class="Button">Delete Record</span>: delete a time entry.</li>
+            <li><span class="Button">Print Shift</span>: print a shift report.</li>
+            <li><span class="Button">Insert Record</span>: create and insert a new time entry.</li>
+            <li>Adjust a Time Clock entry by adjusting <span class="Button">Declared Tips</span>, <span class="Button">Time In</span>, and <span class="Button">Time Out</span>. For more details see <MadCap:xref href="../../Verticals/TableService/Functions/Staff/How_to_Adjust_a _Time_Clock_Entry.htm">How to Adjust a Time Clock Entry</MadCap:xref>.</li>
         </ol>
-        <p class="tip">
-            <i class="material-icons">lightbulb_outline</i> Tip! You can restrict staff from accessing and modifying Time Clock Records by applying Manager-Only access to <span class="Button">Settings</span>.</p>
-        <p class="readmore"> See <MadCap:xref href="../../../../TableService/Functions/8_Utilities And Settings/How_to_Restrict_Access_to_System_Settings.htm">How to Restrict Access to System Settings</MadCap:xref> for more information.</p>
+        <p class="tip"><i class="material-icons">lightbulb_outline</i> <strong>Tip!</strong> You can restrict staff from accessing and modifying Time Clock Records by applying Manager-Only access to <span class="Button">Settings</span>.</p>
+        <p class="readmore"> See <MadCap:xref href="../../Verticals/TableService/Functions/Staff/How_to_Restrict_Access_to_System_Settings.htm">How to Restrict Access to System Settings</MadCap:xref> for more information.</p>
     </body>
 </html>

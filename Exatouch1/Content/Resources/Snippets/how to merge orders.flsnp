@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="262" MadCap:lastWidth="1630">
     <body>
         <p class="summary">Customer orders are merged from the <span class="Button">Get Order</span> screen:</p>
         <ol class="steps">
@@ -12,6 +12,6 @@
             <li>Select <span class="Button">Save Join</span> to finalize the merge.
 				<img src="../../../../Images/EXA_MergeOrder2.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
         </ol>
-        <p class="readmore">Also see: <MadCap:xref href="../../../../TableService/Functions/Register/How_to_Join_Tables.htm">How to Join Tables</MadCap:xref></p>
+        <p class="readmore">Also see: <MadCap:xref href="../../Verticals/TableService/Functions/Register/How_to_Join_Tables.htm">How to Join Tables</MadCap:xref></p>
     </body>
 </html>

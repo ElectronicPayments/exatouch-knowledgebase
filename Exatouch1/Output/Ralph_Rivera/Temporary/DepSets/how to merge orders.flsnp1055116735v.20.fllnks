@@ -12,7 +12,7 @@
     <Link
       Url="../Images/EXA_MergeOrder2.jpg" />
     <Link
-      Url="../TableService/Functions/Register/How_to_Join_Tables.htm" />
+      Url="Content/Verticals/TableService/Functions/Register/How_to_Join_Tables.htm" />
   </Links>
   <LongLinks>
     <Link
@@ -22,7 +22,7 @@
     <Link
       Url="../Images/EXA_MergeOrder2.jpg" />
     <Link
-      Url="../TableService/Functions/Register/How_to_Join_Tables.htm" />
+      Url="Content/Verticals/TableService/Functions/Register/How_to_Join_Tables.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />

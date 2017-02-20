@@ -1,30 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-	<body>
-		<p class="summary">Tax rates are defined in Groups. You can create one or multiple Tax Groups. For example, taxes applied to soda may be different from taxes applied to beer. So you would create Group A: Tax rates for soda and Group B: Tax rates for beer.</p>
-		<ol class="steps">
-			<li>From <span class="Button">Home</span>, click or tap <span class="Button">Taxes</span>.</li>
-			<li>Fill in <span class="Button">Group A - Tax rates</span> first. Click/tap into the tax fields and type in the desired tax rate.</li>
-			<li>Enter the tax rates for <span class="Button">City tax rate</span>, <span class="Button">County tax rate</span>, <span class="Button">State tax rate</span>, and <span class="Button">Federal tax rate</span> where applicable.
-				<MadCap:dropDown>
-					<MadCap:dropDownHead>
-						<MadCap:dropDownHotspot>Notable Fields</MadCap:dropDownHotspot>
-					</MadCap:dropDownHead>
-					<MadCap:dropDownBody>
-						<ul>
-							<li>Select the <span class="Button">Default for items</span> check box to apply the Group's tax rules to all items. Different tax rules can be applied later to individual items.
-								<p class="readmore">See: <MadCap:xref href="Set_Tax_Rate_for_an_Individual_Item.htm">Set Tax Rate for an Individual Item</MadCap:xref></p>
-							</li>
-							<li>Select the <span class="Button">Default for services</span> check box to apply the Group's tax rules to all services. Different tax rules can be applied later to individual services.
-								<p class="readmore">See: <MadCap:xref href="Set_Tax_Rate_for_an_Individual_Service.htm">Set Tax Rate for an Individual Service</MadCap:xref></p>
-							</li>
-						</ul>
-					</MadCap:dropDownBody>
-				</MadCap:dropDown>
-			</li>
-			<li>Create additional <span class="Button">Tax Groups</span> by filling in tax rates for each group (i.e. Group B, Group C...)</li>
-			<li>Click <span class="Button">Save</span></li>
-		</ol>
-		<p class="note"><i class="material-icons">description</i> <strong>Note:</strong> Just as you can apply multiple tax rates to a single item, you can apply multiple Tax Groups as your System Default. For example, you can check <span class="Button">Default for items</span> in both Group A and Group B. </p>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="454" MadCap:lastWidth="1578">
+    <body>
+        <p class="summary">Tax rates are defined in Groups. You can create one or multiple Tax Groups. For example, taxes applied to soda may be different from taxes applied to beer. So you would create Group A: Tax rates for soda and Group B: Tax rates for beer.</p>
+        <ol class="steps">
+            <li>From <span class="Button">Home</span>, click or tap <span class="Button">Taxes</span>.</li>
+            <li>Fill in <span class="Button">Group A - Tax rates</span> first. Click/tap into the tax fields and type in the desired tax rate.</li>
+            <li>Enter the tax rates for <span class="Button">City tax rate</span>, <span class="Button">County tax rate</span>, <span class="Button">State tax rate</span>, and <span class="Button">Federal tax rate</span> where applicable.
+				<MadCap:dropDown><MadCap:dropDownHead><MadCap:dropDownHotspot>Notable Fields</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><ul><li>Select the <span class="Button">Default for items</span> check box to apply the Group's tax rules to all items. Different tax rules can be applied later to individual items.
+								<p class="readmore">See: <MadCap:xref href="../../Verticals/TableService/Functions/Items/Set_Tax_Rate_for_an_Individual_Item.htm">Set Tax Rate for an Individual Item</MadCap:xref></p></li><li>Select the <span class="Button">Default for services</span> check box to apply the Group's tax rules to all services. Different tax rules can be applied later to individual services.
+								<p class="readmore">See: <MadCap:xref href="../../Verticals/TableService/Functions/Items/Set_Tax_Rate_for_an_Individual_Service.htm">Set Tax Rate for an Individual Service</MadCap:xref></p></li></ul></MadCap:dropDownBody></MadCap:dropDown></li>
+            <li>Create additional <span class="Button">Tax Groups</span> by filling in tax rates for each group (i.e. Group B, Group C...)</li>
+            <li>Click <span class="Button">Save</span></li>
+        </ol>
+        <p class="note"><i class="material-icons">description</i> <strong>Note:</strong> Just as you can apply multiple tax rates to a single item, you can apply multiple Tax Groups as your System Default. For example, you can check <span class="Button">Default for items</span> in both Group A and Group B. </p>
     </body>
 </html>

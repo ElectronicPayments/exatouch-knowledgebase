@@ -11,8 +11,6 @@
       Url="../Images/EXA_FloorPlan_PopUp_ReasssignSelected.jpg" />
     <Link
       Url="../Images/EXA_Register_ReassignTable.jpg" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
   </Links>
   <LongLinks>
     <Link
@@ -21,18 +19,13 @@
       Url="../Images/EXA_FloorPlan_PopUp_ReasssignSelected.jpg" />
     <Link
       Url="../Images/EXA_Register_ReassignTable.jpg" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables>
-    <Variable
-      Name="General.ct click or tap" />
-  </Variables>
+  <Variables />
   <FileConditions />
   <FileTags />
   <AllConditions />

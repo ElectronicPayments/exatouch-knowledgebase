@@ -1,38 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="751" MadCap:lastWidth="1578">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="870" MadCap:lastWidth="1578">
     <body>
-		<p class="summary">Sell options can be set globally or individually. When you set a global sell option, items in your system will automatically default to that sell option. You can apply different sell options to individual items as needed.</p>
-		<h3 class="pg-subtitle">Set Global Sell Option</h3>
-		<ol class="steps">
-			<li>From <span class="Button">Home</span>, click or tap <span class="Button">Settings</span>.</li>
-			<li>Select <span class="Button">Preferences</span>.</li>
-			<li>In the <span class="Button">Inventory</span> section, select click the <span class="Button">Sell options</span> drop-down menu.</li>
-			<li>Select from <span class="Button">Stop selling at 0</span>, <span class="Button">Go negative</span>, or <span class="Button">Not an inventory item</span>.</li>
-			<li>Click <span class="Button">Save</span> to apply your sell option globally.</li>
-		</ol>
-		<h3 class="pg-subtitle">Set Sell Option for a Single Item</h3>
-		<ol class="steps">
-			<li>From <span class="Button">Home</span>, click or tap <span class="Button">Items</span>.</li>
-			<li>Select <span class="Button">Items List</span>.</li>
-			<li>Click on the item you want to modify. To locate an item on a longer list, scroll with your finger on the touchscreen until you find the item.</li>
-			<li>Click on the <span class="Button">Details</span> Tab to view <span class="Button">Items Detail</span>.</li>
-			<li>In <span class="Button">Sell options</span> field, click the drop-down menu.</li>
-			<li>Select from <span class="Button">Stop selling at 0</span>, <span class="Button">Go negative</span>, or <span class="Button">Not an inventory item</span>.</li>
-			<li>Select the <span class="Button">Save</span> tab.
+        <p class="summary">Sell options can be set globally or individually. When you set a global sell option, items in your system will automatically default to that sell option. You can apply different sell options to individual items as needed.</p>
+        <h3 class="pg-subtitle">Set Global Sell Option</h3>
+        <ol class="steps">
+            <li>From <span class="Button">Home</span>, click or tap <span class="Button">Settings</span>.</li>
+            <li>Select <span class="Button">Preferences</span>.</li>
+            <li>In the <span class="Button">Inventory</span> section, select click the <span class="Button">Sell options</span> drop-down menu.</li>
+            <li>Select from <span class="Button">Stop selling at 0</span>, <span class="Button">Go negative</span>, or <span class="Button">Not an inventory item</span>.</li>
+            <li>Click <span class="Button">Save</span> to apply your sell option globally.</li>
+        </ol>
+        <h3 class="pg-subtitle">Set Sell Option for a Single Item</h3>
+        <ol class="steps">
+            <li>From <span class="Button">Home</span>, click or tap <span class="Button">Items</span>.</li>
+            <li>Select <span class="Button">Items List</span>.</li>
+            <li>Click on the item you want to modify. To locate an item on a longer list, scroll with your finger on the touchscreen until you find the item.</li>
+            <li>Click on the <span class="Button">Details</span> Tab to view <span class="Button">Items Detail</span>.</li>
+            <li>In <span class="Button">Sell options</span> field, click the drop-down menu.</li>
+            <li>Select from <span class="Button">Stop selling at 0</span>, <span class="Button">Go negative</span>, or <span class="Button">Not an inventory item</span>.</li>
+            <li>Select the <span class="Button">Save</span> tab.
 			<p class="note"><i class="material-icons">description</i> Note: Select the <span class="Button">Alert</span> check box to receive a system alert which will notify you when a customer orders an item which is no longer in stock.</p><p>Alert for a "Stop selling at 0" item <img src="../../../../Images/EXA_Register_Alert_StopSellingAt0.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></p><p>Alert for a "Go negative" item <img src="../../../../Images/EXA_Register_Alert_GoNegative.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></p></li>
-		</ol>
-		<MadCap:dropDown>
-			<MadCap:dropDownHead>
-				<MadCap:dropDownHotspot>Notable Options:</MadCap:dropDownHotspot>
-			</MadCap:dropDownHead>
-			<MadCap:dropDownBody>
-				<ul>
-					<li><span class="Button">Stop selling at 0</span> will limit the sale of the item once inventory reaches 0.</li>
-					<li><span class="Button">Go negative</span> will allow the sale of the item if the inventory is 0. This option is useful for those times when your stock exceeds your inventory total. You can always modify your inventory to reflect additional stock.</li>
-				</ul>
-			</MadCap:dropDownBody>
-		</MadCap:dropDown>
-		<p class="readmore">See: <MadCap:xref href="../1_Register/Modify_Inventory_Level.htm">Modify Inventory Level</MadCap:xref></p>
-		<p><span class="Button">Not an inventory item</span> will allow the sale of an item which is not tracked as an inventory item. For example, drop-ship items which are not kept in stock and are special ordered, are not an inventory item. Most restaurants do not consider their menu selections inventory items.</p>
+        </ol>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Notable Options:</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ul>
+                    <li><span class="Button">Stop selling at 0</span> will limit the sale of the item once inventory reaches 0.</li>
+                    <li><span class="Button">Go negative</span> will allow the sale of the item if the inventory is 0. This option is useful for those times when your stock exceeds your inventory total. You can always modify your inventory to reflect additional stock.</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p class="readmore">See: <MadCap:xref href="../../Verticals/TableService/Functions/Register/Modify_Inventory_Level.htm">Modify Inventory Level</MadCap:xref></p>
+        <p><span class="Button">Not an inventory item</span> will allow the sale of an item which is not tracked as an inventory item. For example, drop-ship items which are not kept in stock and are special ordered, are not an inventory item. Most restaurants do not consider their menu selections inventory items.</p>
     </body>
 </html>

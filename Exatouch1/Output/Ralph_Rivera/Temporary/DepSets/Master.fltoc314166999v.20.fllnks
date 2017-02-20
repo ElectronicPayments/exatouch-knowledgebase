@@ -8,23 +8,173 @@
     <Link
       Url="Content/Home.htm" />
     <Link
-      Url="Content/Verticals/Retail.htm" />
+      Url="Content/Verticals/Retail/Retail.htm" />
     <Link
-      Url="Content/Verticals/Functions/Register.htm" />
+      Url="Content/Verticals/Retail/Register.htm" />
     <Link
-      Url="Content/Verticals/Functions/Register/Accept_Payment_from_the_Pay_Screen.htm" />
+      Url="Content/Verticals/Retail/Functions/Register/Accept_Payment_from_the_Pay_Screen.htm" />
     <Link
-      Url="Content/Verticals/Functions/Register/Accept_Payment_from_the_Register_Screen.htm" />
+      Url="Content/Verticals/Retail/Functions/Register/Accept_Payment_from_the_Register_Screen.htm" />
     <Link
-      Url="Content/Adjust for Tips.htm" />
+      Url="Content/Verticals/Retail/Functions/Register/Adjust_for_Tips.htm" />
     <Link
-      Url="Content/How do I get to the Register Screen.htm" />
+      Url="Content/Verticals/Retail/Functions/Register/How_do_I_get_to_the_Register_Screen.htm" />
     <Link
-      Url="Content/Verticals/Functions/Staff.htm" />
+      Url="Content/Verticals/Retail/Functions/Register/How_to_Find_a_List_of_Open_Orders.htm" />
     <Link
-      Url="Content/Verticals/Functions/Register/Reassign_a_Table.htm" />
+      Url="Content/Verticals/Retail/Functions/Register/How_to_Merge_Orders.htm" />
     <Link
-      Url="Content/Verticals/TableService.htm" />
+      Url="Content/Verticals/Retail/Functions/Register/How_to_Remove_a_Menu_Item_from_an_Order.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Register/Modify_Inventory_Level.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Register/Place_an_Order_from_the_Register.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Register/Split_a_Payment.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Staff.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Staff/Add_a_New_Employee.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Staff/Clock_In_from_a_Break.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Staff/Clock_Out_for_a_Break.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Staff/Deactivate_or_Delete_an_Employee.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Staff/Exit_Training_Mode.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Staff/How_to_Adjust_a _Time_Clock_Entry.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Staff/How_to_Clock_In.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Staff/How_to_Clock_Out.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Staff/Log_into_Exatouch.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Staff/Navigate_to_the_Home_Screen.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Staff/Use_Training_Mode.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Items.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Items/Add_an_Item.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Items/Assign_a_Vendor_to_an_Item.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Items/How_to_Add_a_Manufacturer.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Items/How_to_Add_Inventory_Costs_and_Quantities_to_an_Item.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Items/How_to_Create_Categories_and_Subcategories.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Items/How_to_Duplicate_an_Item.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Items/How_to_Generate_SKU_Numbers_locally.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Items/How_to_Set_a_Default_Vendor_for_an_Item.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Items/How_to_Set_Tax_Rates.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Items/Modify_Sell_Options.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Items/Set_Tax_Rate_for_an_Individual_Item.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Items/Set_Tax_Rate_for_an_Individual_Service.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Customers.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Customers/Create_a_New_Customer.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Customers/How_to_Create_a_Loyalty_Program.htm" />
+    <Link
+      Url="Content/Verticals/Retail/Functions/Customers/How_to_Create_a_Membership_Club_Program.htm" />
+    <Link
+      Url="Content/Verticals/TableService/TableService.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Register.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/Accept_Payment_from_the_Pay_Screen.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/Accept_Payment_from_the_Register_Screen.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/Adjust_for_Tips.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/How_do_I_get_to_the_Register_Screen.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/How_to_Find_a_List_of_Open_Orders.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/How_to_Join_Tables.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/How_to_Merge_Orders.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/How_to_Remove_a_Menu_Item_from_an_Order.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/Modify_Inventory_Level.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/Place_an_Order_from_the_Floor_Plan.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/Place_an_Order_from_the_Register.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/Print_a_Check_for_the_Current_Order.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/Reassign_a_Table.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/Split_A_Check_by_Item.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Register/Split_a_Payment.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Staff.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Staff/Add_a_New_Employee.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Staff/Clock_In_from_a_Break.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Staff/Clock_Out_for_a_Break.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Staff/Deactivate_or_Delete_an_Employee.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Staff/Exit_Training_Mode.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Staff/How_to_Adjust_a _Time_Clock_Entry.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Staff/How_to_Clock_In.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Staff/How_to_Clock_Out.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Staff/Log_into_Exatouch.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Staff/Navigate_to_the_Home_Screen.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Staff/Use_Training_Mode.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Items.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Items/Add_an_Item.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Items/Assign_a_Vendor_to_an_Item.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Items/How_to_Add_a_Manufacturer.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Items/How_to_Add_Inventory_Costs_and_Quantities_to_an_Item.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Items/How_to_Create_Categories_and_Subcategories.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Items/How_to_Duplicate_an_Item.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Items/How_to_Generate_SKU_Numbers_locally.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Items/How_to_Set_a_Default_Vendor_for_an_Item.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Items/How_to_Set_Tax_Rates.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Items/Modify_Sell_Options.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Items/Set_Tax_Rate_for_an_Individual_Item.htm" />
+    <Link
+      Url="Content/Verticals/TableService/Functions/Items/Set_Tax_Rate_for_an_Individual_Service.htm" />
     <Link
       Url="Content/C_Procedure Topics/Procedures.htm" />
     <Link

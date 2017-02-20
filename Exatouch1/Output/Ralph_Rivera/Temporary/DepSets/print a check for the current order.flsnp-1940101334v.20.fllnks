@@ -8,13 +8,13 @@
     <Link
       Url="../Images/EXA_Register_PrintOrder_Pointer.jpg" />
     <Link
-      Url="../TableService/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" />
+      Url="Content/Verticals/TableService/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" />
   </Links>
   <LongLinks>
     <Link
       Url="../Images/EXA_Register_PrintOrder_Pointer.jpg" />
     <Link
-      Url="../TableService/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" />
+      Url="Content/Verticals/TableService/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />

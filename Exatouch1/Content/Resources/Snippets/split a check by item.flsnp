@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="262" MadCap:lastWidth="1630">
     <body>
         <p class="summary">Customers may want to split their order into multiple checks:</p>
         <ol class="steps">
@@ -12,6 +12,6 @@
             <li> Repeat tapping to move additional items you'd like to move to the separate order.</li>
             <li>Select <span class="Button">Done</span>. This will create new checks for each order.</li>
         </ol>
-        <p class="readmore">Also see <MadCap:xref href="../../../../TableService/Functions/Register/Split_a_Payment.htm">Split a Payment</MadCap:xref></p>
+        <p class="readmore">Also see <MadCap:xref href="../../Verticals/TableService/Functions/Register/Split_a_Payment.htm">Split a Payment</MadCap:xref></p>
     </body>
 </html>

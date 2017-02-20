@@ -120,6 +120,19 @@
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Verticals/Retail/Functions/Items/Set_Tax_Rate_for_an_Individual_Service.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       </TocEntry>
+      <TocEntry
+        Title="Customers"
+        Link="/Content/Verticals/Retail/Customers.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Retail/Functions/Customers/Create_a_New_Customer.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Retail/Functions/Customers/How_to_Create_a_Loyalty_Program.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/Retail/Functions/Customers/How_to_Create_a_Membership_Club_Program.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      </TocEntry>
     </TocEntry>
     <TocEntry
       Title="Table Service"
@@ -252,6 +265,19 @@
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Verticals/TableService/Functions/Items/Set_Tax_Rate_for_an_Individual_Service.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      </TocEntry>
+      <TocEntry
+        Title="Customers"
+        Link="/Content/Verticals/TableService/Customers.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/TableService/Functions/Customers/Create_a_New_Customer.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/TableService/Functions/Customers/How_to_Create_a_Loyalty_Program.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Verticals/TableService/Functions/Customers/How_to_Create_a_Membership_Club_Program.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       </TocEntry>
     </TocEntry>
     <TocEntry

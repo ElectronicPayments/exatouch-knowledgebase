@@ -6,4 +6,7 @@
     <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
         <Link Value="C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Resources\Snippets\how to generate sku numbers locally.flsnp" />
     </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Users\Ralph Rivera\Documents\GitHub\exatouch-knowledgebase\Exatouch1\Content\Verticals\TableService\Functions\Register\How_to_Find_a_List_of_Open_Orders.htm" />
+    </Dialog>
 </RecentLinks>

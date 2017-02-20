@@ -12,7 +12,7 @@
     <Link
       Url="../Images/EXA_Register_SplitByItemScreen2.jpg" />
     <Link
-      Url="../TableService/Functions/Register/Split_a_Payment.htm" />
+      Url="Content/Verticals/TableService/Functions/Register/Split_a_Payment.htm" />
   </Links>
   <LongLinks>
     <Link
@@ -22,7 +22,7 @@
     <Link
       Url="../Images/EXA_Register_SplitByItemScreen2.jpg" />
     <Link
-      Url="../TableService/Functions/Register/Split_a_Payment.htm" />
+      Url="Content/Verticals/TableService/Functions/Register/Split_a_Payment.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />

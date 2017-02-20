@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="195" MadCap:lastWidth="1630">
     <body>
         <p class="summary">You can also place an order from the <span class="Button">Floor Plan</span>. This method is helpful if you are waiting tables. To place an order while waiting tables:</p>
         <ol class="steps">
@@ -7,8 +7,8 @@
 				<img src="../../../../Images/EXA_FloorPlan_TableSelect.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
             <li>Once you've selected the table, choose <span class="Button">Order</span> from the pop-up menu.
 				<img src="../../../../Images/EXA_FloorPlan_PopUp_TableOrder.jpg" style="mc-thumbnail-max-height: 150px;mc-thumbnail: popup;" /></li>
-            <li>You may now place an order from the Register. Click the following for instructions: <MadCap:xref href="../../../../TableService/Functions/Register/Place_an_Order_from_the_Register.htm">Place an Order from the Register</MadCap:xref></li>
+            <li>You may now place an order from the Register. Click the following for instructions: <MadCap:xref href="../../Verticals/TableService/Functions/Register/Place_an_Order_from_the_Register.htm">Place an Order from the Register</MadCap:xref></li>
         </ol>
-        <p class="readmore">Also see:<MadCap:xref href="../../../../TableService/Functions/Register/Print_a_Check_for_the_Current_Order.htm">Print a Check for the Current Order</MadCap:xref> or <MadCap:xref href="../../../../TableService/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm">Print a Check from a List of Saved Orders</MadCap:xref></p>
+        <p class="readmore">Also see:<MadCap:xref href="../../Verticals/TableService/Functions/Register/Print_a_Check_for_the_Current_Order.htm">Print a Check for the Current Order</MadCap:xref> or <MadCap:xref href="../../Verticals/TableService/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm">Print a Check from a List of Saved Orders</MadCap:xref></p>
     </body>
 </html>

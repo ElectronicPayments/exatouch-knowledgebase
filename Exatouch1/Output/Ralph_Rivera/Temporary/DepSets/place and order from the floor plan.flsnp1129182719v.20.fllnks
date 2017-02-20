@@ -10,11 +10,11 @@
     <Link
       Url="../Images/EXA_FloorPlan_PopUp_TableOrder.jpg" />
     <Link
-      Url="../TableService/Functions/Register/Place_an_Order_from_the_Register.htm" />
+      Url="Content/Verticals/TableService/Functions/Register/Place_an_Order_from_the_Register.htm" />
     <Link
-      Url="../TableService/Functions/Register/Print_a_Check_for_the_Current_Order.htm" />
+      Url="Content/Verticals/TableService/Functions/Register/Print_a_Check_for_the_Current_Order.htm" />
     <Link
-      Url="../TableService/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" />
+      Url="Content/Verticals/TableService/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" />
   </Links>
   <LongLinks>
     <Link
@@ -22,11 +22,11 @@
     <Link
       Url="../Images/EXA_FloorPlan_PopUp_TableOrder.jpg" />
     <Link
-      Url="../TableService/Functions/Register/Place_an_Order_from_the_Register.htm" />
+      Url="Content/Verticals/TableService/Functions/Register/Place_an_Order_from_the_Register.htm" />
     <Link
-      Url="../TableService/Functions/Register/Print_a_Check_for_the_Current_Order.htm" />
+      Url="Content/Verticals/TableService/Functions/Register/Print_a_Check_for_the_Current_Order.htm" />
     <Link
-      Url="../TableService/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" />
+      Url="Content/Verticals/TableService/Functions/Register/Print_a_Check_from_a_List_of_Saved_Orders.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
