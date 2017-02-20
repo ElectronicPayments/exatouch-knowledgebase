@@ -1,46 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
+  FileTitle="How to Create a Membership Club Program"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Verticals/Retail/Functions/Contact_Technical_Support.htm" />
-    <Link
-      Url="Content/Verticals/Retail/Functions/4_Items/How_to_Create_Categories_and_Subcategories.htm" />
-    <Link
-      Url="Content/Verticals/Retail/Functions/4_Items/Add_an_Item.htm" />
-    <Link
-      Url="Content/Verticals/Retail/Functions/Customers/How_to_Create_a_Membership_Club_Program.htm" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
+      Url="Content/Resources/Snippets/how to create a membership club program.flsnp" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Verticals/Retail/Functions/Contact_Technical_Support.htm" />
-    <Link
-      Url="Content/Verticals/Retail/Functions/4_Items/How_to_Create_Categories_and_Subcategories.htm" />
-    <Link
-      Url="Content/Verticals/Retail/Functions/4_Items/Add_an_Item.htm" />
-    <Link
-      Url="Content/Verticals/Retail/Functions/Customers/How_to_Create_a_Membership_Club_Program.htm" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
+      Url="Content/Resources/Snippets/how to create a membership club program.flsnp" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables>
-    <Variable
-      Name="General.EXAProductName" />
-    <Variable
-      Name="General.ct click or tap" />
-    <Variable
-      Name="General.Ct Click or tap" />
-  </Variables>
+  <Variables />
   <FileConditions />
   <FileTags />
   <AllConditions />
